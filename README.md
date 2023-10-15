@@ -2,7 +2,7 @@
 
 ```
 TIMEBOX:    Deadline 2days. We mean it! Set at timer and hard-stop at 4 hours ⏱
-LANGUAGES:  Python, Javascript, SQL
+LANGUAGES:  Python, Javascript
 FRAMEWORKS: Django, Flask, NodeJS, etc (Exercise MongoDD or MySQL)
 TESTS:      nice to have, but not mandatory
 DOCS:       nice to have, but not mandatory
