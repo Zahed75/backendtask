@@ -64,7 +64,9 @@ The goal of this exercise is to design a read-only API (REST) that returns one o
 
 
 * fetch a single record via GET request
-  * **Stretch Goal**: return a sparse fieldset (e.g. `/compensation_data?fields=first_name,last_name,salary`)
+
+  * **Stretch Goal**:  Return Total Order By Outlet(API)-Permission only (SUPER ADMIN,ACCOUNT OWNER)
+  
 * have the JSON response be normalized into a uniform schema via a serializer or json template
   * **Stretch Goal**: serialize more than one compensation [data set](/Databases/)
 
