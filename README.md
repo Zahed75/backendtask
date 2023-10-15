@@ -73,7 +73,7 @@ The goal of this exercise is to design a read-only API (REST) that returns one o
 ### A few quick notes on submitting Exercise A
 
 * Don't worry about any web application concerns other than serializing JSON and returning via a GET request.
-* The example above (`/compensation_data`...) is not a contract. Feel free to design the URL structure and JSON schema that you believe creates the best client/consumer experience
+* The example above (`/Database`...) is not a contract. Feel free to design the URL structure and JSON schema that you believe creates the best client/consumer experience
 
 ---
 
@@ -81,5 +81,6 @@ The goal of this exercise is to design a read-only API (REST) that returns one o
 
 * search Discount by Brand
 * Get Top Performing Brands
+
 
 
