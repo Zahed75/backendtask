@@ -16,7 +16,8 @@ Ideally your solution would have some way to run locally and test the results so
 
 
 ```
-You Have to install MongoDB Compass and create a Database as your preferred name then import all off the Json files
+You Have to install MongoDB Compass and create a Database 
+as your preferred name then import all off the Json files
 
 [/Dabases/example.json]
 
