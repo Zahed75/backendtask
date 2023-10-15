@@ -7,8 +7,8 @@
   },
   "ownerName": "Syed Zaman",
   "banner": "Onnow+-banner.jpg",
-  "logo": "Onnow+-logo.png",
-  "brandName": "Onnow+",
+  "logo": "Onnow.png",
+  "brandName": "Onnow Badda",
   "brandColor": "#F15B25",
   "textColor": "#ffffff",
   "subdomain": "plus",
@@ -29,7 +29,8 @@
         "Satrasta",
         "Tejkunipara",
         "Tejgaon",
-        "Mohakhali"
+        "Mohakhali",
+        "Kumilla"
       ],
       "_id": {
         "$oid": "644eb4adde4acae9ffddb809"
@@ -58,9 +59,21 @@
       "_id": {
         "$oid": "644eb612848356fddbcfe4c9"
       }
+    },
+    {
+      "outletName": "safayat",
+      "deliveryArea": [
+        "baily road"
+      ],
+      "_id": {
+        "$oid": "651c3815408893f5cb9d93b9"
+      }
     }
   ],
-  "__v": 0
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2023-10-15T11:00:43.579Z"
+  }
 },
 {
   "_id": {
@@ -124,71 +137,10 @@
       }
     }
   ],
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "644ea9c871353d592c2ada95"
-  },
-  "ownerId": {
-    "$oid": "644e74f79022f1053b25421e"
-  },
-  "ownerName": "Syed Zaman",
-  "banner": "Snackmate-banner.jpg",
-  "logo": "Snackmate-Logo.png",
-  "brandName": "Snackmate",
-  "brandColor": "#007a3c",
-  "textColor": "#ffffff",
-  "subdomain": "snackmate",
-  "outlets": [
-    {
-      "outletName": "Snackmate (Moghbazar)",
-      "deliveryArea": [
-        "Baily Road",
-        "Bangla Motor",
-        "Kakrail",
-        "Kathalbagan",
-        "Kawran Bazar",
-        "Malibagh",
-        "Mirbag",
-        "Moghbazar",
-        "New Eskaton",
-        "Old Eskaton",
-        "Paribagh",
-        "Ramna",
-        "Shahbagh",
-        "Shantibag",
-        "Shegunbagicha",
-        "Shiddheswari"
-      ],
-      "_id": {
-        "$oid": "644eb2f74a7c1a885937ffff"
-      }
-    },
-    {
-      "outletName": "Snackmate (Tejgaon)",
-      "deliveryArea": [
-        "Shahinbag",
-        "Nabisco",
-        "Farmgate",
-        " Niketan",
-        " Arjatpara",
-        " Begunbari",
-        "Bijoy Sarani",
-        "Nakhalpara",
-        "Gulshan 1",
-        "Monipuripara",
-        "Satrasta",
-        "Tejkunipara",
-        "Tejgaon",
-        "Mohakhali"
-      ],
-      "_id": {
-        "$oid": "644eb4adde4acae9ffddb7f5"
-      }
-    }
-  ],
-  "__v": 0
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2023-09-27T14:40:57.087Z"
+  }
 },
 {
   "_id": {
@@ -314,9 +266,21 @@
       "_id": {
         "$oid": "644eb612848356fddbcfe4a5"
       }
+    },
+    {
+      "outletName": "Friggys-test",
+      "deliveryArea": [
+        "green nai"
+      ],
+      "_id": {
+        "$oid": "6503430560fd7287f25514c7"
+      }
     }
   ],
-  "__v": 0
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2023-10-06T16:28:01.155Z"
+  }
 },
 {
   "_id": {
@@ -378,9 +342,21 @@
       "_id": {
         "$oid": "6465c0d9d12ff393e353676b"
       }
+    },
+    {
+      "outletName": "Friggys-Test",
+      "deliveryArea": [
+        "square"
+      ],
+      "_id": {
+        "$oid": "6503429460fd7287f254fd4f"
+      }
     }
   ],
-  "__v": 0
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2023-09-14T17:27:48.465Z"
+  }
 },
 {
   "_id": {
@@ -524,23 +500,6 @@
   "brandColor": "#F15B25",
   "textColor": "#ffffff",
   "subdomain": "order",
-  "outlets": [],
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "647a598462ab5dc3c12c1a0f"
-  },
-  "ownerId": {
-    "$oid": "647a4e9462ab5dc3c12c187c"
-  },
-  "ownerName": "Sakib ",
-  "banner": "yyuuy-banner.jpg",
-  "logo": "yyuuy-logo.jpeg",
-  "brandName": "yyuuy",
-  "brandColor": "#04852e",
-  "textColor": "#ED174C",
-  "subdomain": "yyuu",
   "outlets": [],
   "__v": 0
 }]

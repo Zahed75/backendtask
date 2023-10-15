@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "6500d70526d59b7b994d7946"
+  },
+  "name": "Bronze",
+  "point": 10,
+  "benefits": [
+    {
+      "title": "sfg",
+      "details": "dsfdfdfd",
+      "_id": {
+        "$oid": "651ad8a80a15299fdf9f8873"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500d71d26d59b7b994d794c"
+  },
+  "name": "Sliver",
+  "point": 40,
+  "benefits": [
+    {
+      "title": "Reward",
+      "details": "As a Silver member, you have access to 2 promo codes per month.",
+      "_id": {
+        "$oid": "6505ea7159a4d3173950c468"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6502f7abbe365cc360f5eb6f"
+  },
+  "name": "Gold",
+  "point": 200,
+  "benefits": [
+    {
+      "title": "Reward",
+      "details": "As a Gold member, you have access to 3 promo codes per month.",
+      "_id": {
+        "$oid": "6505ea9d59a4d3173950c49a"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65030d522985833df7b26c36"
+  },
+  "name": "Platinum",
+  "point": 350,
+  "benefits": [
+    {
+      "title": "Reward",
+      "details": "As a Platinum member, you have access to 5 promo codes per month.",
+      "_id": {
+        "$oid": "6505eab259a4d3173950c49f"
+      }
+    }
+  ],
+  "__v": 0
+}]

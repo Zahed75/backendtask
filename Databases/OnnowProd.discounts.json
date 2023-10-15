@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "647c33cb62ab5dc3c12c7132"
+  },
+  "outlets": [
+    {
+      "_id": {
+        "$oid": "647657aae1757868e4c76fa5"
+      },
+      "outletName": "Syscomatic-Dhanmondi",
+      "logo": "Syscomatic-logo.png",
+      "brandId": {
+        "$oid": "6452c86727173b36bbf59e63"
+      }
+    }
+  ],
+  "discountTitle": "AMADERMULA-50",
+  "promoCode": "MULA-50",
+  "discountAmount": 50,
+  "startDate": {
+    "$date": "2023-06-06T00:00:00.000Z"
+  },
+  "expiredDate": {
+    "$date": "2023-06-09T00:00:00.000Z"
+  },
+  "minSpend": 100,
+  "maxSpend": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6481bf3ab4fbe6b69adf8f53"
+  },
+  "outlets": [],
+  "discountTitle": "Discount for BYLC Career Expo",
+  "promoCode": "BYLC100",
+  "discountAmount": 100,
+  "startDate": {
+    "$date": "2023-06-09T00:00:00.000Z"
+  },
+  "expiredDate": {
+    "$date": "2023-06-11T00:00:00.000Z"
+  },
+  "minSpend": 100,
+  "maxSpend": 1000,
+  "__v": 0,
+  "limit": 3
+},
+{
+  "_id": {
+    "$oid": "6482e68b963129aabc111592"
+  },
+  "outlets": [
+    {
+      "_id": {
+        "$oid": "6482e605963129aabc111202"
+      },
+      "outletName": "Wrappo-(BYLC-Career-Expo)",
+      "logo": "Wrappo_Logo.png",
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada97"
+      }
+    }
+  ],
+  "discountTitle": "Promo Code for BYLC Carrier Hall",
+  "promoCode": "BYLC100",
+  "discountAmount": 100,
+  "startDate": {
+    "$date": "2023-06-10T00:00:00.000Z"
+  },
+  "expiredDate": {
+    "$date": "2023-06-11T00:00:00.000Z"
+  },
+  "minSpend": 0,
+  "maxSpend": 1000,
+  "limit": 10,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6503252f76bf343090da8276"
+  },
+  "outlets": [],
+  "discountTitle": "Ramzan-2023",
+  "promoCode": "onnow2023",
+  "discountAmount": 10,
+  "startDate": {
+    "$date": "2023-04-03T00:00:00.000Z"
+  },
+  "expiredDate": {
+    "$date": "2023-04-29T00:00:00.000Z"
+  },
+  "minSpend": 300,
+  "maxSpend": 500,
+  "limit": 1000000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6503254d76bf343090da8297"
+  },
+  "outlets": [],
+  "discountTitle": "Ramzan-2023",
+  "promoCode": "onnow2023",
+  "discountAmount": 10,
+  "startDate": {
+    "$date": "2023-04-03T00:00:00.000Z"
+  },
+  "expiredDate": {
+    "$date": "2023-09-29T00:00:00.000Z"
+  },
+  "minSpend": 300,
+  "maxSpend": 500,
+  "limit": 1000000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6503278876bf343090da8361"
+  },
+  "outlets": [],
+  "discountTitle": "Ramzan-2023",
+  "promoCode": "onnow2023",
+  "discountAmount": 10,
+  "startDate": {
+    "$date": "2023-04-03T00:00:00.000Z"
+  },
+  "expiredDate": {
+    "$date": "2023-09-29T00:00:00.000Z"
+  },
+  "minSpend": 300,
+  "maxSpend": 500,
+  "limit": 1000000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650351cb60fd7287f255fc98"
+  },
+  "outlets": [],
+  "discountTitle": "Ramzan-2024",
+  "promoCode": "onnowtest2234",
+  "discountAmount": 10,
+  "startDate": {
+    "$date": "2023-04-03T00:00:00.000Z"
+  },
+  "expiredDate": {
+    "$date": "2023-09-29T00:00:00.000Z"
+  },
+  "minSpend": 300,
+  "maxSpend": 500,
+  "limit": 1000000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65035ff660fd7287f25637a7"
+  },
+  "outlets": [],
+  "discountTitle": "Ramzan-2023",
+  "promoCode": "onnow",
+  "discountAmount": 10,
+  "startDate": {
+    "$date": "2023-04-03T00:00:00.000Z"
+  },
+  "expiredDate": {
+    "$date": "2023-09-29T00:00:00.000Z"
+  },
+  "minSpend": 300,
+  "maxSpend": 500,
+  "limit": 1000000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ad34c0a15299fdf9f61c4"
+  },
+  "outlets": [],
+  "discountTitle": "SyscoGroup",
+  "promoCode": "AMADER40",
+  "discountAmount": 50,
+  "startDate": {
+    "$date": "2023-10-02T00:00:00.000Z"
+  },
+  "expiredDate": {
+    "$date": "2023-10-28T00:00:00.000Z"
+  },
+  "minSpend": 100,
+  "maxSpend": 1000,
+  "limit": 100000,
+  "__v": 0
+}]

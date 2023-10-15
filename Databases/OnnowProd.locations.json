@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "cityName": "Dhaka",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6505db4759a4d3173950c0a5"
+  },
+  "cityName": "Chittagong",
+  "__v": 0
+}]

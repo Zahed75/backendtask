@@ -241,16 +241,16 @@
     "$oid": "644ed9f24ded38c948abc47e"
   },
   "menuId": {
-    "$oid": "644ec0aa72715ed7306e02b6"
+    "$oid": "644ed9f24ded38c948abc47e"
   },
   "brandId": {
     "$oid": "644ea9c871353d592c2ada96"
   },
   "itemName": "Snackmate Chicken Crisper (HSP)",
-  "productCode": "SNA-MBO-0001",
+  "productCode": "Sazzad",
   "itemDescription": "A premium Loaded Fries combined with bitty Crispy Chicken Chunks, Nugget, Fries, Shrooms, Chef's Secret HSP Sauce, garnished with Onions.",
   "itemImage": "Chicken_Crisper_uBzCRgk.jpg",
-  "itemPrice": 260,
+  "itemPrice": 265,
   "__v": 0
 },
 {
@@ -1924,12 +1924,12 @@
     "$oid": "644edcb0a12911d31f8cac22"
   },
   "menuId": {
-    "$oid": "644ec0aa72715ed7306e02bf"
+    "$oid": "644edcb0a12911d31f8cac22"
   },
   "brandId": {
     "$oid": "644ea9c871353d592c2ada95"
   },
-  "itemName": "CheekyBite BBQ Chicken Bites (Large)",
+  "itemName": "CheekyBite BBQ Chicken Bites (Largest)",
   "productCode": "CBS-BIT-0002",
   "itemDescription": "Crispy and smoky BBQ flavoured chicken bites, sided with classic home cut fries, together to bring an authentic Texas vibe.",
   "itemImage": "BBQ_Chicken_Bites__G5I9U9z.jpg",
@@ -2213,12 +2213,12 @@
     "$oid": "644edcb0a12911d31f8cac25"
   },
   "menuId": {
-    "$oid": "644ec0aa72715ed7306e02bf"
+    "$oid": "644edcb0a12911d31f8cac25"
   },
   "brandId": {
     "$oid": "644ea9c871353d592c2ada95"
   },
-  "itemName": "CheekyBite Peri Peri Chicken Bites (Small)",
+  "itemName": "CheekyBite Peri Peri Chicken Bites (Small)s",
   "productCode": "CBS-BIT-0005",
   "itemDescription": "Moist and juicy chicken bites, with the complex marination of Southern African flavours, sided with classic home cut fries.",
   "itemImage": "Peri_Peri_Chicken_Bites_.jpg",
@@ -4117,7 +4117,7 @@
     "$oid": "645cee03d4314481c771e7ea"
   },
   "menuId": {
-    "$oid": "645ceddbd4314481c771e772"
+    "$oid": "645cee03d4314481c771e7ea"
   },
   "brandId": {
     "$oid": "644ea9c871353d592c2ada96"
@@ -4142,7 +4142,7 @@
   "itemName": "Friggy's Golden Chick'n Katsu Cheese Blast Burger ",
   "productCode": "FGS-BUR-0025",
   "itemDescription": "Crispy, golden fried chicken smothered in melty cheese, topped with tangy sauce and served on a soft brioche bun.",
-  "itemImage": "Friggy's-Golden-Chick'n-Katsu-Cheese-Blast-Burger--itemImage.jpg",
+  "itemImage": "Friggy's-Golden-Chick'n-Katsu-Cheese-Blast-Burger--itemImage.jpg.jpg",
   "itemPrice": 305,
   "__v": 0
 },
@@ -4159,7 +4159,7 @@
   "itemName": "Friggy's DDouble Golden Chick'n Katsu Cheese Blast",
   "productCode": "FGS-BUR-0026",
   "itemDescription": "Double the crispy, golden fried chicken and double the melty cheese, topped with tangy sauce and served on a soft brioche bun.",
-  "itemImage": "Friggy's-DDouble-Golden-Chick'n-Katsu-Cheese-Blast-itemImage.jpg",
+  "itemImage": "Screenshot-2023-10-05 at 7.34.00 PM.png.png",
   "itemPrice": 415,
   "__v": 0
 },
@@ -5460,7 +5460,7 @@
     "$oid": "646c57eacd112c10e14db0a1"
   },
   "menuId": {
-    "$oid": "646c55f4cd112c10e14db02b"
+    "$oid": "646c57eacd112c10e14db0a1"
   },
   "brandId": {
     "$oid": "644ea9c871353d592c2ada96"
@@ -6864,5 +6864,107 @@
   "itemDescription": "Crispy, golden fried chicken topped with tangy sauce, served on a soft brioche bun.",
   "itemImage": "Golden-Chick'n-Katsu-Cheese-Burger-itemImage.jpg",
   "itemPrice": 285,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6523f996fd7dec88401f5375"
+  },
+  "menuId": {
+    "$oid": "6523f91dfd7dec88401f536f"
+  },
+  "brandId": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "itemName": "Super Cool Refreshing CTO-Sell Hobe",
+  "productCode": "Friggys-000-001",
+  "itemDescription": "Dedicated, Passionate CTO sell hobe",
+  "itemImage": "Zaheddp3.jpeg.jpeg",
+  "itemPrice": 2.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6523f9d2fd7dec88401f537c"
+  },
+  "menuId": {
+    "$oid": "6523f91dfd7dec88401f536f"
+  },
+  "brandId": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "itemName": "Motivational CEO Sell Hobe",
+  "productCode": "friggys-000-002",
+  "itemDescription": "Kom dami motivational Speaker",
+  "itemImage": "CEO-Large.jpeg.jpeg",
+  "itemPrice": 1.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6523faadfd7dec88401f5388"
+  },
+  "menuId": {
+    "$oid": "6523f91dfd7dec88401f536f"
+  },
+  "brandId": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "itemName": "Gulistan UIX lead Sell hobe",
+  "productCode": "friggys-000-003",
+  "itemDescription": "Okhaddo,Complex UIX",
+  "itemImage": "UIX.jpeg.jpeg",
+  "itemPrice": 0.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6523fb24fd7dec88401f538f"
+  },
+  "menuId": {
+    "$oid": "6523f91dfd7dec88401f536f"
+  },
+  "brandId": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "itemName": "Scammer CRO sell hobe",
+  "productCode": "friggys-000-004",
+  "itemDescription": "Evaly Rasel Clone",
+  "itemImage": "ShahedBhai-Large.jpeg.jpeg",
+  "itemPrice": 0.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6523fc3efd7dec88401f5d9c"
+  },
+  "menuId": {
+    "$oid": "6523f91dfd7dec88401f536f"
+  },
+  "brandId": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "itemName": "Lutha-Buggish Django Developer Sell hobe",
+  "productCode": "friggys-000-005",
+  "itemDescription": "Kom dami Django Dev,Unstructured Module ",
+  "itemImage": "TasinBhai-Large.jpeg.jpeg",
+  "itemPrice": 1.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6523fca6fd7dec88401f5da8"
+  },
+  "menuId": {
+    "$oid": "6523f91dfd7dec88401f536f"
+  },
+  "brandId": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "itemName": "Akti AJob toh prani sell hobe",
+  "productCode": "friggys-000-006",
+  "itemDescription": "Pura AJob jinish",
+  "itemImage": "asif.jpeg.jpeg",
+  "itemPrice": 5,
   "__v": 0
 }]

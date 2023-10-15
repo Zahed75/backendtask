@@ -64572,4 +64572,6199 @@
     "$date": "2023-07-12T12:58:43.138Z"
   },
   "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64aeb8e741f625241c4eeb2f"
+  },
+  "orderCustomId": "O-12-23-0003",
+  "orderId": {
+    "$oid": "64aeb78e41f625241c4edbb2"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64a2c6af652e554b12cca93c"
+  },
+  "message": "Preparation Time: 25 | Delivery Time: 30",
+  "createdAt": {
+    "$date": "2023-07-12T14:29:59.367Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-12T14:29:59.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64aeb8e841f625241c4eeb39"
+  },
+  "orderCustomId": "O-12-23-0003",
+  "orderId": {
+    "$oid": "64aeb78e41f625241c4edbb2"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64a2c6af652e554b12cca93c"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-12T14:30:00.692Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-12T14:30:00.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64aeba0941f625241c4eebd9"
+  },
+  "orderCustomId": "O-12-23-0003",
+  "orderId": {
+    "$oid": "64aeb78e41f625241c4edbb2"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64a2c6af652e554b12cca93c"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-12T14:34:49.456Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-12T14:34:49.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64aec0b341f625241c4eeec6"
+  },
+  "orderCustomId": "O-12-23-0003",
+  "orderId": {
+    "$oid": "64aeb78e41f625241c4edbb2"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64a2c6af652e554b12cca93c"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-12T15:03:15.362Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-12T15:03:15.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64afa50cf37014aeecd69d5e"
+  },
+  "orderCustomId": "O-13-23-0001",
+  "orderId": {
+    "$oid": "64afa48ff37014aeecd68dac"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b196af"
+  },
+  "message": "Preparation Time: 25 | Delivery Time: 30",
+  "createdAt": {
+    "$date": "2023-07-13T07:17:32.108Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-13T07:17:32.108Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64afa51cf37014aeecd69d68"
+  },
+  "orderCustomId": "O-13-23-0001",
+  "orderId": {
+    "$oid": "64afa48ff37014aeecd68dac"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "644f630546724a0350b196af"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-13T07:17:48.036Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-13T07:17:48.036Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64afa51ef37014aeecd69d73"
+  },
+  "orderCustomId": "O-13-23-0001",
+  "orderId": {
+    "$oid": "64afa48ff37014aeecd68dac"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "644f630546724a0350b196af"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-13T07:17:50.390Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-13T07:17:50.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64afacbbf37014aeecd69eae"
+  },
+  "orderCustomId": "O-13-23-0001",
+  "orderId": {
+    "$oid": "64afa48ff37014aeecd68dac"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "644f630546724a0350b196af"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-13T07:50:19.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-13T07:50:19.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b00ab37e9c358ad613fa37"
+  },
+  "orderCustomId": "O-13-23-0002",
+  "orderId": {
+    "$oid": "64b009c97e9c358ad613f9eb"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "649aeb606f41520aacde17a3"
+  },
+  "message": "Preparation Time: 25 | Delivery Time: 30",
+  "createdAt": {
+    "$date": "2023-07-13T14:31:15.652Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-13T14:31:15.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b00b987e9c358ad613fbed"
+  },
+  "orderCustomId": "O-13-23-0002",
+  "orderId": {
+    "$oid": "64b009c97e9c358ad613f9eb"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "649aeb606f41520aacde17a3"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-13T14:35:04.966Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-13T14:35:04.966Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b00b9b7e9c358ad613fbf8"
+  },
+  "orderCustomId": "O-13-23-0002",
+  "orderId": {
+    "$oid": "64b009c97e9c358ad613f9eb"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "649aeb606f41520aacde17a3"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-13T14:35:07.586Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-13T14:35:07.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b00ba47e9c358ad613fc01"
+  },
+  "orderCustomId": "O-13-23-0003",
+  "orderId": {
+    "$oid": "64b00b8f7e9c358ad613fba2"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b196af"
+  },
+  "message": "Preparation Time: 25 | Delivery Time: 30",
+  "createdAt": {
+    "$date": "2023-07-13T14:35:16.087Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-13T14:35:16.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b00ca37e9c358ad613fd03"
+  },
+  "orderCustomId": "O-13-23-0003",
+  "orderId": {
+    "$oid": "64b00b8f7e9c358ad613fba2"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "644f630546724a0350b196af"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-13T14:39:31.971Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-13T14:39:31.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b00ca57e9c358ad613fd0e"
+  },
+  "orderCustomId": "O-13-23-0003",
+  "orderId": {
+    "$oid": "64b00b8f7e9c358ad613fba2"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "644f630546724a0350b196af"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-13T14:39:33.360Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-13T14:39:33.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b016ee7e9c358ad6142397"
+  },
+  "orderCustomId": "O-13-23-0002",
+  "orderId": {
+    "$oid": "64b009c97e9c358ad613f9eb"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "649aeb606f41520aacde17a3"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-13T15:23:26.731Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-13T15:23:26.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b016f17e9c358ad61423a5"
+  },
+  "orderCustomId": "O-13-23-0003",
+  "orderId": {
+    "$oid": "64b00b8f7e9c358ad613fba2"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "644f630546724a0350b196af"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-13T15:23:29.046Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-13T15:23:29.046Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b10df4023d5f676563b69a"
+  },
+  "orderCustomId": "O-14-23-0001",
+  "orderId": {
+    "$oid": "64b10d6c023d5f676563b65b"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64b10c9d023d5f676563b63b"
+  },
+  "message": "Preparation Time: 25 | Delivery Time: 30",
+  "createdAt": {
+    "$date": "2023-07-14T08:57:24.863Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T08:57:24.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b10f13023d5f676563b6d1"
+  },
+  "orderCustomId": "O-14-23-0001",
+  "orderId": {
+    "$oid": "64b10d6c023d5f676563b65b"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64b10c9d023d5f676563b63b"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-14T09:02:11.058Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T09:02:11.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b10f14023d5f676563b6e0"
+  },
+  "orderCustomId": "O-14-23-0001",
+  "orderId": {
+    "$oid": "64b10d6c023d5f676563b65b"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64b10c9d023d5f676563b63b"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-14T09:02:12.524Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T09:02:12.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b11802023d5f676563bb44"
+  },
+  "orderCustomId": "O-14-23-0001",
+  "orderId": {
+    "$oid": "64b10d6c023d5f676563b65b"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64b10c9d023d5f676563b63b"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-14T09:40:18.405Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T09:40:18.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b1480f023d5f676563d10d"
+  },
+  "orderCustomId": "O-14-23-0002",
+  "orderId": {
+    "$oid": "64b145ba023d5f676563cd6e"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64aaaff7d54170301cfa59f1"
+  },
+  "message": "Preparation Time: 25 | Delivery Time: 30",
+  "createdAt": {
+    "$date": "2023-07-14T13:05:19.538Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T13:05:19.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b148f2023d5f676563d33b"
+  },
+  "orderCustomId": "O-14-23-0003",
+  "orderId": {
+    "$oid": "64b148b9023d5f676563d28c"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b1968b"
+  },
+  "message": "Preparation Time: 25 | Delivery Time: 30",
+  "createdAt": {
+    "$date": "2023-07-14T13:09:06.199Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T13:09:06.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b1490f023d5f676563d34d"
+  },
+  "orderCustomId": "O-14-23-0002",
+  "orderId": {
+    "$oid": "64b145ba023d5f676563cd6e"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64aaaff7d54170301cfa59f1"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-14T13:09:35.788Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T13:09:35.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b14911023d5f676563d357"
+  },
+  "orderCustomId": "O-14-23-0003",
+  "orderId": {
+    "$oid": "64b148b9023d5f676563d28c"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "644f630546724a0350b1968b"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-14T13:09:37.969Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T13:09:37.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b14913023d5f676563d362"
+  },
+  "orderCustomId": "O-14-23-0002",
+  "orderId": {
+    "$oid": "64b145ba023d5f676563cd6e"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64aaaff7d54170301cfa59f1"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-14T13:09:39.863Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T13:09:39.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b14caa023d5f676563d665"
+  },
+  "orderCustomId": "O-14-23-0004",
+  "orderId": {
+    "$oid": "64b14c89023d5f676563d641"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64b14b63023d5f676563d5fc"
+  },
+  "message": "Preparation Time: 25 | Delivery Time: 30",
+  "createdAt": {
+    "$date": "2023-07-14T13:24:58.080Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T13:24:58.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b14d94023d5f676563d700"
+  },
+  "orderCustomId": "O-14-23-0004",
+  "orderId": {
+    "$oid": "64b14c89023d5f676563d641"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64b14b63023d5f676563d5fc"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-14T13:28:52.171Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T13:28:52.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b14d95023d5f676563d70b"
+  },
+  "orderCustomId": "O-14-23-0004",
+  "orderId": {
+    "$oid": "64b14c89023d5f676563d641"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64b14b63023d5f676563d5fc"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-14T13:28:53.480Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T13:28:53.480Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b14e42023d5f676563d82e"
+  },
+  "orderCustomId": "O-14-23-0003",
+  "orderId": {
+    "$oid": "64b148b9023d5f676563d28c"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "644f630546724a0350b1968b"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-14T13:31:46.078Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T13:31:46.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b14edf023d5f676563d8bb"
+  },
+  "orderCustomId": "O-14-23-0002",
+  "orderId": {
+    "$oid": "64b145ba023d5f676563cd6e"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64aaaff7d54170301cfa59f1"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-14T13:34:23.537Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T13:34:23.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b1529b023d5f676563d9d1"
+  },
+  "orderCustomId": "O-14-23-0004",
+  "orderId": {
+    "$oid": "64b14c89023d5f676563d641"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64b14b63023d5f676563d5fc"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-14T13:50:19.368Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T13:50:19.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b15acf023d5f676563df02"
+  },
+  "orderCustomId": "O-14-23-0005",
+  "orderId": {
+    "$oid": "64b156bf023d5f676563db71"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64b154e6023d5f676563da13"
+  },
+  "message": "Preparation Time: 25 | Delivery Time: 30",
+  "createdAt": {
+    "$date": "2023-07-14T14:25:19.437Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T14:25:19.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b15adb023d5f676563df10"
+  },
+  "orderCustomId": "O-14-23-0005",
+  "orderId": {
+    "$oid": "64b156bf023d5f676563db71"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64b154e6023d5f676563da13"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-14T14:25:31.507Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T14:25:31.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b15fed023d5f676563e03e"
+  },
+  "orderCustomId": "O-14-23-0005",
+  "orderId": {
+    "$oid": "64b156bf023d5f676563db71"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64b154e6023d5f676563da13"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-14T14:47:09.087Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T14:47:09.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b16047023d5f676563e054"
+  },
+  "orderCustomId": "O-14-23-0005",
+  "orderId": {
+    "$oid": "64b156bf023d5f676563db71"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64b154e6023d5f676563da13"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-14T14:48:39.517Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T14:48:39.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b27e7f4c0bd785abed6679"
+  },
+  "orderCustomId": "O-15-23-0001",
+  "orderId": {
+    "$oid": "64b27d5a4c0bd785abed611b"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b196e3"
+  },
+  "message": "Preparation Time: 25 | Delivery Time: 30",
+  "createdAt": {
+    "$date": "2023-07-15T11:09:51.562Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-15T11:09:51.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b27e854c0bd785abed6694"
+  },
+  "orderCustomId": "O-15-23-0001",
+  "orderId": {
+    "$oid": "64b27d5a4c0bd785abed611b"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "644f630546724a0350b196e3"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-15T11:09:57.094Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-15T11:09:57.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b284594c0bd785abed6836"
+  },
+  "orderCustomId": "O-15-23-0001",
+  "orderId": {
+    "$oid": "64b27d5a4c0bd785abed611b"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "644f630546724a0350b196e3"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-15T11:34:49.874Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-15T11:34:49.874Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b28f274c0bd785abed6c48"
+  },
+  "orderCustomId": "O-15-23-0002",
+  "orderId": {
+    "$oid": "64b28f094c0bd785abed6bf9"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "Preparation Time: 25 | Delivery Time: 30",
+  "createdAt": {
+    "$date": "2023-07-15T12:20:55.006Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-15T12:20:55.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b28f584c0bd785abed6c58"
+  },
+  "orderCustomId": "O-15-23-0002",
+  "orderId": {
+    "$oid": "64b28f094c0bd785abed6bf9"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-15T12:21:44.979Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-15T12:21:44.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b298b34c0bd785abed6f75"
+  },
+  "orderCustomId": "O-15-23-0002",
+  "orderId": {
+    "$oid": "64b28f094c0bd785abed6bf9"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-15T13:01:39.753Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-15T13:01:39.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b298b64c0bd785abed6f81"
+  },
+  "orderCustomId": "O-15-23-0002",
+  "orderId": {
+    "$oid": "64b28f094c0bd785abed6bf9"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-15T13:01:42.735Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-15T13:01:42.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b3e88b52b082163032b24c"
+  },
+  "orderCustomId": "O-16-23-0001",
+  "orderId": {
+    "$oid": "64b3e56552b082163032b04c"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "Preparation Time: 25 | Delivery Time: 30",
+  "createdAt": {
+    "$date": "2023-07-16T12:54:35.841Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-16T12:54:35.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b3e90352b082163032b256"
+  },
+  "orderCustomId": "O-16-23-0001",
+  "orderId": {
+    "$oid": "64b3e56552b082163032b04c"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-16T12:56:35.464Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-16T12:56:35.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b3e91352b082163032b6d2"
+  },
+  "orderCustomId": "O-16-23-0001",
+  "orderId": {
+    "$oid": "64b3e56552b082163032b04c"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-16T12:56:51.802Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-16T12:56:51.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b3edb552b082163032b875"
+  },
+  "orderCustomId": "O-16-23-0001",
+  "orderId": {
+    "$oid": "64b3e56552b082163032b04c"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-16T13:16:37.597Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-16T13:16:37.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b406fd52b082163032c16b"
+  },
+  "orderCustomId": "O-16-23-0002",
+  "orderId": {
+    "$oid": "64b4018152b082163032bf04"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64b3fa2252b082163032bc32"
+  },
+  "message": "Preparation Time: 20 | Delivery Time: 20",
+  "createdAt": {
+    "$date": "2023-07-16T15:04:29.802Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-16T15:04:29.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b4070052b082163032c179"
+  },
+  "orderCustomId": "O-16-23-0002",
+  "orderId": {
+    "$oid": "64b4018152b082163032bf04"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64b3fa2252b082163032bc32"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-16T15:04:32.908Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-16T15:04:32.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b4070352b082163032c188"
+  },
+  "orderCustomId": "O-16-23-0002",
+  "orderId": {
+    "$oid": "64b4018152b082163032bf04"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64b3fa2252b082163032bc32"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-16T15:04:35.244Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-16T15:04:35.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b40a2752b082163032c48b"
+  },
+  "orderCustomId": "O-16-23-0002",
+  "orderId": {
+    "$oid": "64b4018152b082163032bf04"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64b3fa2252b082163032bc32"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-16T15:17:59.593Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-16T15:17:59.593Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b53e51e6120f9814e68521"
+  },
+  "orderCustomId": "O-17-23-0001",
+  "orderId": {
+    "$oid": "64b53e29e6120f9814e68486"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b196bd"
+  },
+  "message": "Preparation Time: 25 | Delivery Time: 30",
+  "createdAt": {
+    "$date": "2023-07-17T13:12:49.218Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-17T13:12:49.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b53fbce6120f9814e6852e"
+  },
+  "orderCustomId": "O-17-23-0001",
+  "orderId": {
+    "$oid": "64b53e29e6120f9814e68486"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "644f630546724a0350b196bd"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-17T13:18:52.544Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-17T13:18:52.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b54b7ce6120f9814e687ad"
+  },
+  "orderCustomId": "O-17-23-0001",
+  "orderId": {
+    "$oid": "64b53e29e6120f9814e68486"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "644f630546724a0350b196bd"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-07-17T14:09:00.988Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-17T14:09:00.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da3d2df0d17850da49f598"
+  },
+  "orderCustomId": "O-14-23-0001",
+  "orderId": {
+    "$oid": "64da3d21f0d17850da49f570"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "Preparation Time: 33 | Delivery Time: 11",
+  "createdAt": {
+    "$date": "2023-08-14T14:41:49.126Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T14:41:49.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da408bf0d17850da49f614"
+  },
+  "orderCustomId": "O-08-23-0001",
+  "orderId": {
+    "$oid": "64d260f9c8b9b2a450e1c641"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "Preparation Time: 555 | Delivery Time: 555",
+  "createdAt": {
+    "$date": "2023-08-14T14:56:11.559Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T14:56:11.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da4097f0d17850da49f625"
+  },
+  "orderCustomId": "O-05-23-0003",
+  "orderId": {
+    "$oid": "64ceaff7b6a41ce812510aaf"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "Preparation Time: 55 | Delivery Time: 55",
+  "createdAt": {
+    "$date": "2023-08-14T14:56:23.326Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T14:56:23.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da409ef0d17850da49f637"
+  },
+  "orderCustomId": "O-14-23-0001",
+  "orderId": {
+    "$oid": "64da3d21f0d17850da49f570"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-08-14T14:56:30.265Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T14:56:30.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da40a1f0d17850da49f649"
+  },
+  "orderCustomId": "O-08-23-0001",
+  "orderId": {
+    "$oid": "64d260f9c8b9b2a450e1c641"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-08-14T14:56:33.354Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T14:56:33.354Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da40a2f0d17850da49f65b"
+  },
+  "orderCustomId": "O-05-23-0003",
+  "orderId": {
+    "$oid": "64ceaff7b6a41ce812510aaf"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-08-14T14:56:34.960Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T14:56:34.960Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da40a6f0d17850da49f66e"
+  },
+  "orderCustomId": "O-14-23-0001",
+  "orderId": {
+    "$oid": "64da3d21f0d17850da49f570"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-08-14T14:56:38.959Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T14:56:38.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da40a8f0d17850da49f680"
+  },
+  "orderCustomId": "O-14-23-0001",
+  "orderId": {
+    "$oid": "64da3d21f0d17850da49f570"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-08-14T14:56:40.598Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T14:56:40.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da40a9f0d17850da49f693"
+  },
+  "orderCustomId": "O-05-23-0003",
+  "orderId": {
+    "$oid": "64ceaff7b6a41ce812510aaf"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-08-14T14:56:41.656Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T14:56:41.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da40aff0d17850da49f6a7"
+  },
+  "orderCustomId": "O-14-23-0001",
+  "orderId": {
+    "$oid": "64da3d21f0d17850da49f570"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-08-14T14:56:47.933Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T14:56:47.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da40b2f0d17850da49f6ba"
+  },
+  "orderCustomId": "O-08-23-0001",
+  "orderId": {
+    "$oid": "64d260f9c8b9b2a450e1c641"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-08-14T14:56:50.766Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T14:56:50.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da40b7f0d17850da49f6ce"
+  },
+  "orderCustomId": "O-05-23-0003",
+  "orderId": {
+    "$oid": "64ceaff7b6a41ce812510aaf"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-08-14T14:56:55.290Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T14:56:55.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da40cef0d17850da49f6df"
+  },
+  "orderCustomId": "O-05-23-0002",
+  "orderId": {
+    "$oid": "64ceafc6b6a41ce812510a6a"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "Preparation Time: 11 | Delivery Time: 12",
+  "createdAt": {
+    "$date": "2023-08-14T14:57:18.248Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T14:57:18.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da40d9f0d17850da49f6f0"
+  },
+  "orderCustomId": "O-05-23-0001",
+  "orderId": {
+    "$oid": "64cea3b8b6a41ce81251091f"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "Preparation Time: 11 | Delivery Time: 22",
+  "createdAt": {
+    "$date": "2023-08-14T14:57:29.756Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T14:57:29.756Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da40e3f0d17850da49f701"
+  },
+  "orderCustomId": "O-04-23-0003",
+  "orderId": {
+    "$oid": "64cd189289e2c3f05785f27c"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "Preparation Time: 12 | Delivery Time: 22",
+  "createdAt": {
+    "$date": "2023-08-14T14:57:39.112Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T14:57:39.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da40ebf0d17850da49f712"
+  },
+  "orderCustomId": "O-04-23-0002",
+  "orderId": {
+    "$oid": "64cd185a89e2c3f05785f240"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "Preparation Time: 11 | Delivery Time: 15",
+  "createdAt": {
+    "$date": "2023-08-14T14:57:47.788Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T14:57:47.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da40f4f0d17850da49f723"
+  },
+  "orderCustomId": "O-04-23-0001",
+  "orderId": {
+    "$oid": "64cd176389e2c3f05785f1fe"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "Preparation Time: 11 | Delivery Time: 15",
+  "createdAt": {
+    "$date": "2023-08-14T14:57:56.294Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T14:57:56.294Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da40fdf0d17850da49f734"
+  },
+  "orderCustomId": "O-24-23-0001",
+  "orderId": {
+    "$oid": "64bdc269a473bcb6c52073b6"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "Preparation Time: 212 | Delivery Time: 121",
+  "createdAt": {
+    "$date": "2023-08-14T14:58:05.471Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T14:58:05.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da4106f0d17850da49f745"
+  },
+  "orderCustomId": "O-23-23-0001",
+  "orderId": {
+    "$oid": "64bd7014c9035c4f7b9a7346"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "Preparation Time: 11 | Delivery Time: 12",
+  "createdAt": {
+    "$date": "2023-08-14T14:58:14.500Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T14:58:14.500Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64db535e513941c643578ef1"
+  },
+  "orderCustomId": "O-05-23-0002",
+  "orderId": {
+    "$oid": "64ceafc6b6a41ce812510a6a"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-08-15T10:28:46.558Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-15T10:28:46.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64db5650513941c64357915a"
+  },
+  "orderCustomId": "O-05-23-0001",
+  "orderId": {
+    "$oid": "64cea3b8b6a41ce81251091f"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-08-15T10:41:20.346Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-15T10:41:20.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64db5660513941c6435792dc"
+  },
+  "orderCustomId": "O-04-23-0003",
+  "orderId": {
+    "$oid": "64cd189289e2c3f05785f27c"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "f",
+  "createdAt": {
+    "$date": "2023-08-15T10:41:36.444Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-15T10:41:36.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64db566b513941c643579304"
+  },
+  "orderCustomId": "O-04-23-0002",
+  "orderId": {
+    "$oid": "64cd185a89e2c3f05785f240"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "ss",
+  "createdAt": {
+    "$date": "2023-08-15T10:41:47.814Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-15T10:41:47.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64db568d513941c643579491"
+  },
+  "orderCustomId": "O-04-23-0001",
+  "orderId": {
+    "$oid": "64cd176389e2c3f05785f1fe"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-08-15T10:42:21.161Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-15T10:42:21.161Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ecf10752966ee82791501e"
+  },
+  "orderCustomId": "O-28-23-0004",
+  "orderId": {
+    "$oid": "64ecf0d052966ee827914fe0"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "Preparation Time: 1 | Delivery Time: 1",
+  "createdAt": {
+    "$date": "2023-08-28T19:09:59.149Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:09:59.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ecf10d52966ee82791502f"
+  },
+  "orderCustomId": "O-28-23-0003",
+  "orderId": {
+    "$oid": "64ecf00b52966ee827914935"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "Preparation Time: 1 | Delivery Time: 1",
+  "createdAt": {
+    "$date": "2023-08-28T19:10:05.777Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:10:05.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ecf11252966ee827915040"
+  },
+  "orderCustomId": "O-28-23-0002",
+  "orderId": {
+    "$oid": "64ecef7752966ee8279148f6"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "Preparation Time: 1 | Delivery Time: 1",
+  "createdAt": {
+    "$date": "2023-08-28T19:10:10.376Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:10:10.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ecf11852966ee827915051"
+  },
+  "orderCustomId": "O-28-23-0001",
+  "orderId": {
+    "$oid": "64eceec652966ee8279148b7"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "Preparation Time: 1 | Delivery Time: 1",
+  "createdAt": {
+    "$date": "2023-08-28T19:10:16.031Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:10:16.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ecf11e52966ee827915063"
+  },
+  "orderCustomId": "O-28-23-0004",
+  "orderId": {
+    "$oid": "64ecf0d052966ee827914fe0"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-08-28T19:10:22.151Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:10:22.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ecf12052966ee827915076"
+  },
+  "orderCustomId": "O-28-23-0004",
+  "orderId": {
+    "$oid": "64ecf0d052966ee827914fe0"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-08-28T19:10:24.998Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:10:24.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ecf12352966ee827915088"
+  },
+  "orderCustomId": "O-28-23-0003",
+  "orderId": {
+    "$oid": "64ecf00b52966ee827914935"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-08-28T19:10:27.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:10:27.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ecf12552966ee82791509b"
+  },
+  "orderCustomId": "O-28-23-0003",
+  "orderId": {
+    "$oid": "64ecf00b52966ee827914935"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-08-28T19:10:29.424Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:10:29.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ecf12852966ee8279150ba"
+  },
+  "orderCustomId": "O-28-23-0004",
+  "orderId": {
+    "$oid": "64ecf0d052966ee827914fe0"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-08-28T19:10:32.513Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:10:32.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ecf12a52966ee8279150cd"
+  },
+  "orderCustomId": "O-05-23-0002",
+  "orderId": {
+    "$oid": "64ceafc6b6a41ce812510a6a"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-08-28T19:10:34.132Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:10:34.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ecf12d52966ee8279150e1"
+  },
+  "orderCustomId": "O-28-23-0003",
+  "orderId": {
+    "$oid": "64ecf00b52966ee827914935"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-08-28T19:10:37.503Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:10:37.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ecf13652966ee827915100"
+  },
+  "orderCustomId": "O-05-23-0002",
+  "orderId": {
+    "$oid": "64ceafc6b6a41ce812510a6a"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64af9d3c181293fb0844e23d"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-08-28T19:10:46.094Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:10:46.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f112ac08944bf577376610"
+  },
+  "orderCustomId": "O-01-23-0002",
+  "orderId": {
+    "$oid": "64f112846029e403b4130b48"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-08-31T22:22:36.584Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-31T22:22:36.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f301543cc1adfa0c317e9f"
+  },
+  "orderCustomId": "O-27-23-0008",
+  "orderId": {
+    "$oid": "64ebb41b46bd5cb05f5b7a62"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "test",
+  "createdAt": {
+    "$date": "2023-09-02T09:33:08.832Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-02T09:33:08.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f302143cc1adfa0c318173"
+  },
+  "orderCustomId": "O-31-23-0013",
+  "orderId": {
+    "$oid": "64f11c0481e1d9321537ea85"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-02T09:36:20.853Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-02T09:36:20.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f32b3b3cc1adfa0c31f3a3"
+  },
+  "orderCustomId": "O-02-23-0001",
+  "orderId": {
+    "$oid": "64f32b223cc1adfa0c31f366"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Preparation Time: 2 | Delivery Time: 21",
+  "createdAt": {
+    "$date": "2023-09-02T12:31:55.499Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-02T12:31:55.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f32b463cc1adfa0c31f3b5"
+  },
+  "orderCustomId": "O-02-23-0001",
+  "orderId": {
+    "$oid": "64f32b223cc1adfa0c31f366"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-02T12:32:06.394Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-02T12:32:06.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f32b4a3cc1adfa0c31f3c8"
+  },
+  "orderCustomId": "O-02-23-0001",
+  "orderId": {
+    "$oid": "64f32b223cc1adfa0c31f366"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-02T12:32:10.197Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-02T12:32:10.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f32b4e3cc1adfa0c31f3dc"
+  },
+  "orderCustomId": "O-02-23-0001",
+  "orderId": {
+    "$oid": "64f32b223cc1adfa0c31f366"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-02T12:32:14.533Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-02T12:32:14.533Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f32bc13cc1adfa0c31f452"
+  },
+  "orderCustomId": "O-02-23-0002",
+  "orderId": {
+    "$oid": "64f32bb43cc1adfa0c31f415"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Preparation Time: 2 | Delivery Time: 2",
+  "createdAt": {
+    "$date": "2023-09-02T12:34:09.583Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-02T12:34:09.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f32bc73cc1adfa0c31f464"
+  },
+  "orderCustomId": "O-02-23-0002",
+  "orderId": {
+    "$oid": "64f32bb43cc1adfa0c31f415"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-02T12:34:15.531Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-02T12:34:15.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f32bce3cc1adfa0c31f477"
+  },
+  "orderCustomId": "O-02-23-0002",
+  "orderId": {
+    "$oid": "64f32bb43cc1adfa0c31f415"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-02T12:34:22.348Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-02T12:34:22.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f32bfe3cc1adfa0c31f4e9"
+  },
+  "orderCustomId": "O-02-23-0003",
+  "orderId": {
+    "$oid": "64f32bf23cc1adfa0c31f4ab"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Preparation Time: 1 | Delivery Time: 2",
+  "createdAt": {
+    "$date": "2023-09-02T12:35:10.441Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-02T12:35:10.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f32c013cc1adfa0c31f4fb"
+  },
+  "orderCustomId": "O-02-23-0003",
+  "orderId": {
+    "$oid": "64f32bf23cc1adfa0c31f4ab"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-02T12:35:13.174Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-02T12:35:13.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f32c073cc1adfa0c31f50e"
+  },
+  "orderCustomId": "O-02-23-0003",
+  "orderId": {
+    "$oid": "64f32bf23cc1adfa0c31f4ab"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-02T12:35:19.446Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-02T12:35:19.446Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f334be3cc1adfa0c3240fc"
+  },
+  "orderCustomId": "O-01-23-0012",
+  "orderId": {
+    "$oid": "64f11871707fc08c3e524ccd"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Out of our delivery range!",
+  "createdAt": {
+    "$date": "2023-09-02T13:12:30.257Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-02T13:12:30.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f335313cc1adfa0c32417f"
+  },
+  "orderCustomId": "O-02-23-0004",
+  "orderId": {
+    "$oid": "64f334e93cc1adfa0c324132"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Tel-alu sesh",
+  "createdAt": {
+    "$date": "2023-09-02T13:14:25.171Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-02T13:14:25.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f3357f3cc1adfa0c324211"
+  },
+  "orderCustomId": "O-02-23-0005",
+  "orderId": {
+    "$oid": "64f335623cc1adfa0c3241c2"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "sorry",
+  "createdAt": {
+    "$date": "2023-09-02T13:15:43.948Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-02T13:15:43.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f336db3cc1adfa0c324588"
+  },
+  "orderCustomId": "O-02-23-0006",
+  "orderId": {
+    "$oid": "64f336ba3cc1adfa0c324547"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Preparation Time: 20 | Delivery Time: 30",
+  "createdAt": {
+    "$date": "2023-09-02T13:21:31.431Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-02T13:21:31.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f33cf33cc1adfa0c325dce"
+  },
+  "orderCustomId": "O-02-23-0008",
+  "orderId": {
+    "$oid": "64f33ce43cc1adfa0c325d8c"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Preparation Time: 2 | Delivery Time: 2",
+  "createdAt": {
+    "$date": "2023-09-02T13:47:31.760Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-02T13:47:31.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f33d193cc1adfa0c32601c"
+  },
+  "orderCustomId": "O-02-23-0009",
+  "orderId": {
+    "$oid": "64f33d0c3cc1adfa0c325fdb"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Oops! We are out stock!",
+  "createdAt": {
+    "$date": "2023-09-02T13:48:09.269Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-02T13:48:09.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f33d4a3cc1adfa0c326100"
+  },
+  "orderCustomId": "O-02-23-0010",
+  "orderId": {
+    "$oid": "64f33d433cc1adfa0c3260be"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Out of our delivery range!",
+  "createdAt": {
+    "$date": "2023-09-02T13:48:58.772Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-02T13:48:58.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f4b69bc9edb4249a665d8c"
+  },
+  "orderCustomId": "O-03-23-0001",
+  "orderId": {
+    "$oid": "64f4b68cf936facbe3be8d4f"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 2 | Delivery Time: 2",
+  "createdAt": {
+    "$date": "2023-09-03T16:38:51.367Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-03T16:38:51.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f4b6b5c9edb4249a665da9"
+  },
+  "orderCustomId": "O-03-23-0001",
+  "orderId": {
+    "$oid": "64f4b68cf936facbe3be8d4f"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-03T16:39:17.202Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-03T16:39:17.202Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f4b6f9f936facbe3be9e8c"
+  },
+  "orderCustomId": "O-03-23-0002",
+  "orderId": {
+    "$oid": "64f4b6f1f936facbe3be9e49"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 2 | Delivery Time: 2",
+  "createdAt": {
+    "$date": "2023-09-03T16:40:25.556Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-03T16:40:25.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f4b8089239d4afb1f4b132"
+  },
+  "orderCustomId": "O-03-23-0002",
+  "orderId": {
+    "$oid": "64f4b6f1f936facbe3be9e49"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-03T16:44:56.352Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-03T16:44:56.352Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f83ee6e2d25a39a4276b13"
+  },
+  "orderCustomId": "O-06-23-0001",
+  "orderId": {
+    "$oid": "64f83ecbe2d25a39a4276aa7"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Preparation Time: 1 | Delivery Time: 2",
+  "createdAt": {
+    "$date": "2023-09-06T08:57:10.489Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-06T08:57:10.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fa1fae449e3ce0c3bff470"
+  },
+  "orderCustomId": "O-07-23-0007",
+  "orderId": {
+    "$oid": "64fa1f96449e3ce0c3bff41e"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Preparation Time: 2 | Delivery Time: 2",
+  "createdAt": {
+    "$date": "2023-09-07T19:08:30.717Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T19:08:30.717Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fa25cf449e3ce0c3c0171a"
+  },
+  "orderCustomId": "O-07-23-0008",
+  "orderId": {
+    "$oid": "64fa25be449e3ce0c3c016de"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "Preparation Time: 1 | Delivery Time: 1",
+  "createdAt": {
+    "$date": "2023-09-07T19:34:39.318Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T19:34:39.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fb9aea8c973bb334584b37"
+  },
+  "orderCustomId": "O-08-23-0001",
+  "orderId": {
+    "$oid": "64fb9ac48c973bb334583a93"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "Preparation Time: 1 | Delivery Time: 1",
+  "createdAt": {
+    "$date": "2023-09-08T22:06:34.536Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T22:06:34.536Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fb9afd8c973bb334584b61"
+  },
+  "orderCustomId": "O-08-23-0001",
+  "orderId": {
+    "$oid": "64fb9ac48c973bb334583a93"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-08T22:06:53.675Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T22:06:53.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fcc480e8e48a06abbc8084"
+  },
+  "orderCustomId": "O-09-23-0001",
+  "orderId": {
+    "$oid": "64fcc464e8e48a06abbc7efc"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "Preparation Time: 5 | Delivery Time: 10",
+  "createdAt": {
+    "$date": "2023-09-09T19:16:16.098Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T19:16:16.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fcc4cce8e48a06abbc80c6"
+  },
+  "orderCustomId": "O-09-23-0001",
+  "orderId": {
+    "$oid": "64fcc464e8e48a06abbc7efc"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-09T19:17:32.120Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T19:17:32.120Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fcc4d2e8e48a06abbc80da"
+  },
+  "orderCustomId": "O-09-23-0001",
+  "orderId": {
+    "$oid": "64fcc464e8e48a06abbc7efc"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-09T19:17:38.474Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T19:17:38.474Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fcc4d9e8e48a06abbc80ef"
+  },
+  "orderCustomId": "O-09-23-0001",
+  "orderId": {
+    "$oid": "64fcc464e8e48a06abbc7efc"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-09T19:17:45.649Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T19:17:45.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fe3514994528f8bd97da20"
+  },
+  "orderCustomId": "O-27-23-0005",
+  "orderId": {
+    "$oid": "64eb9fe346bd5cb05f5b465b"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 1 | Delivery Time: 1",
+  "createdAt": {
+    "$date": "2023-09-10T21:28:52.830Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T21:28:52.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fe351a994528f8bd97da33"
+  },
+  "orderCustomId": "O-27-23-0005",
+  "orderId": {
+    "$oid": "64eb9fe346bd5cb05f5b465b"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-10T21:28:58.058Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T21:28:58.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fe351d994528f8bd97da47"
+  },
+  "orderCustomId": "O-27-23-0005",
+  "orderId": {
+    "$oid": "64eb9fe346bd5cb05f5b465b"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-10T21:29:01.404Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T21:29:01.404Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fe3522994528f8bd97da5c"
+  },
+  "orderCustomId": "O-27-23-0005",
+  "orderId": {
+    "$oid": "64eb9fe346bd5cb05f5b465b"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-10T21:29:06.894Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T21:29:06.894Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fe4f9c641efe70db23be8e"
+  },
+  "orderCustomId": "O-10-23-0005",
+  "orderId": {
+    "$oid": "64fe3910994528f8bd97dc7f"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "ddsss",
+  "createdAt": {
+    "$date": "2023-09-10T23:22:04.758Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T23:22:04.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff6f10b2ecd4f5f6d23038"
+  },
+  "orderCustomId": "O-11-23-0013",
+  "orderId": {
+    "$oid": "64ff6cf9b2ecd4f5f6d20c18"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "Preparation Time: 1 | Delivery Time: 1",
+  "createdAt": {
+    "$date": "2023-09-11T19:48:32.759Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T19:48:32.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff6f35b2ecd4f5f6d23057"
+  },
+  "orderCustomId": "O-11-23-0013",
+  "orderId": {
+    "$oid": "64ff6cf9b2ecd4f5f6d20c18"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-11T19:49:09.615Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T19:49:09.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff7131b2ecd4f5f6d25cda"
+  },
+  "orderCustomId": "O-11-23-0014",
+  "orderId": {
+    "$oid": "64ff7108b2ecd4f5f6d24bf5"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "Preparation Time: 1 | Delivery Time: 1",
+  "createdAt": {
+    "$date": "2023-09-11T19:57:37.868Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T19:57:37.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff715db2ecd4f5f6d25f8d"
+  },
+  "orderCustomId": "O-11-23-0012",
+  "orderId": {
+    "$oid": "64fe6005eea0d5da969a9b99"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 2 | Delivery Time: 2",
+  "createdAt": {
+    "$date": "2023-09-11T19:58:21.092Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T19:58:21.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff71aab2ecd4f5f6d270bc"
+  },
+  "orderCustomId": "O-11-23-0014",
+  "orderId": {
+    "$oid": "64ff7108b2ecd4f5f6d24bf5"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-11T19:59:38.650Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T19:59:38.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff7252b2ecd4f5f6d27317"
+  },
+  "orderCustomId": "O-11-23-0016",
+  "orderId": {
+    "$oid": "64ff723bb2ecd4f5f6d27271"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "Preparation Time: 1 | Delivery Time: 1",
+  "createdAt": {
+    "$date": "2023-09-11T20:02:26.742Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T20:02:26.742Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff7277b2ecd4f5f6d2734a"
+  },
+  "orderCustomId": "O-11-23-0015",
+  "orderId": {
+    "$oid": "64ff7155b2ecd4f5f6d25f16"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 88 | Delivery Time: 88",
+  "createdAt": {
+    "$date": "2023-09-11T20:03:03.433Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T20:03:03.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff7297b2ecd4f5f6d27369"
+  },
+  "orderCustomId": "O-11-23-0016",
+  "orderId": {
+    "$oid": "64ff723bb2ecd4f5f6d27271"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-11T20:03:35.815Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T20:03:35.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff72a4b2ecd4f5f6d273cd"
+  },
+  "orderCustomId": "O-11-23-0016",
+  "orderId": {
+    "$oid": "64ff723bb2ecd4f5f6d27271"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-11T20:03:48.138Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T20:03:48.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff72aeb2ecd4f5f6d2740f"
+  },
+  "orderCustomId": "O-11-23-0016",
+  "orderId": {
+    "$oid": "64ff723bb2ecd4f5f6d27271"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-11T20:03:58.197Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T20:03:58.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff73e2b2ecd4f5f6d2756c"
+  },
+  "orderCustomId": "O-11-23-0017",
+  "orderId": {
+    "$oid": "64ff73d4b2ecd4f5f6d274fa"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "Preparation Time: 5 | Delivery Time: 5",
+  "createdAt": {
+    "$date": "2023-09-11T20:09:06.352Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T20:09:06.352Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff73efb2ecd4f5f6d2757f"
+  },
+  "orderCustomId": "O-11-23-0017",
+  "orderId": {
+    "$oid": "64ff73d4b2ecd4f5f6d274fa"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-11T20:09:19.195Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T20:09:19.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ffb23e45132644c49c5d8b"
+  },
+  "orderCustomId": "O-12-23-0020",
+  "orderId": {
+    "$oid": "64ffb22845132644c49c5c04"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "Preparation Time: 5 | Delivery Time: 10",
+  "createdAt": {
+    "$date": "2023-09-12T00:35:10.601Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T00:35:10.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ffb2cb45132644c49c64c2"
+  },
+  "orderCustomId": "O-12-23-0021",
+  "orderId": {
+    "$oid": "64ffb29d45132644c49c603f"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 5 | Delivery Time: 5",
+  "createdAt": {
+    "$date": "2023-09-12T00:37:31.254Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T00:37:31.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65006b3b036141a4775d5072"
+  },
+  "orderCustomId": "O-11-23-0009",
+  "orderId": {
+    "$oid": "64fe5ed0eea0d5da969a9663"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 1 | Delivery Time: 5",
+  "createdAt": {
+    "$date": "2023-09-12T13:44:27.044Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T13:44:27.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65006e6170f992aa74b07530"
+  },
+  "orderCustomId": "O-12-23-0027",
+  "orderId": {
+    "$oid": "65006e5770f992aa74b0740b"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-12T13:57:53.560Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T13:57:53.560Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65006e6470f992aa74b075bb"
+  },
+  "orderCustomId": "O-12-23-0026",
+  "orderId": {
+    "$oid": "65006dca70f992aa74b06c88"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-12T13:57:56.998Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T13:57:56.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a018be365cc360f5006c"
+  },
+  "orderCustomId": "O-12-23-0024",
+  "orderId": {
+    "$oid": "65006cf8036141a4775d52ca"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "Preparation Time: 15 | Delivery Time: 30",
+  "createdAt": {
+    "$date": "2023-09-13T11:42:16.919Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:42:16.919Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a038be365cc360f500f4"
+  },
+  "orderCustomId": "O-12-23-0019",
+  "orderId": {
+    "$oid": "64ffadeff729974f9b38c267"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 15 | Delivery Time: 30",
+  "createdAt": {
+    "$date": "2023-09-13T11:42:48.644Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:42:48.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a052be365cc360f5016a"
+  },
+  "orderCustomId": "O-12-23-0024",
+  "orderId": {
+    "$oid": "65006cf8036141a4775d52ca"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-13T11:43:14.777Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:43:14.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a055be365cc360f501e0"
+  },
+  "orderCustomId": "O-12-23-0021",
+  "orderId": {
+    "$oid": "64ffb29d45132644c49c603f"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-13T11:43:17.644Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:43:17.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a056be365cc360f50256"
+  },
+  "orderCustomId": "O-12-23-0020",
+  "orderId": {
+    "$oid": "64ffb22845132644c49c5c04"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-13T11:43:18.768Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:43:18.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a058be365cc360f502cc"
+  },
+  "orderCustomId": "O-12-23-0019",
+  "orderId": {
+    "$oid": "64ffadeff729974f9b38c267"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-13T11:43:20.249Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:43:20.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a059be365cc360f50342"
+  },
+  "orderCustomId": "O-11-23-0012",
+  "orderId": {
+    "$oid": "64fe6005eea0d5da969a9b99"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-13T11:43:21.417Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:43:21.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a06cbe365cc360f503b9"
+  },
+  "orderCustomId": "O-12-23-0024",
+  "orderId": {
+    "$oid": "65006cf8036141a4775d52ca"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-13T11:43:40.241Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:43:40.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a07fbe365cc360f50431"
+  },
+  "orderCustomId": "O-12-23-0024",
+  "orderId": {
+    "$oid": "65006cf8036141a4775d52ca"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-13T11:43:59.672Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:43:59.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a093be365cc360f504a8"
+  },
+  "orderCustomId": "O-12-23-0021",
+  "orderId": {
+    "$oid": "64ffb29d45132644c49c603f"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-13T11:44:19.656Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:44:19.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a0b3be365cc360f5051f"
+  },
+  "orderCustomId": "O-12-23-0020",
+  "orderId": {
+    "$oid": "64ffb22845132644c49c5c04"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "Out of our delivery range!",
+  "createdAt": {
+    "$date": "2023-09-13T11:44:51.820Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:44:51.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a0c3be365cc360f50596"
+  },
+  "orderCustomId": "O-12-23-0019",
+  "orderId": {
+    "$oid": "64ffadeff729974f9b38c267"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Out of our delivery range!",
+  "createdAt": {
+    "$date": "2023-09-13T11:45:07.679Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:45:07.679Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6502437dbe365cc360f52833"
+  },
+  "orderCustomId": "O-12-23-0018",
+  "orderId": {
+    "$oid": "64ffad83f83f25e875fc5c14"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Oops! We are out stock!",
+  "createdAt": {
+    "$date": "2023-09-13T23:19:25.152Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T23:19:25.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6502438abe365cc360f528c9"
+  },
+  "orderCustomId": "O-03-23-0005",
+  "orderId": {
+    "$oid": "64f4d87be39e2517a148797b"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Preparation Time: 5 | Delivery Time: 7",
+  "createdAt": {
+    "$date": "2023-09-13T23:19:38.097Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T23:19:38.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65024394be365cc360f5293f"
+  },
+  "orderCustomId": "O-11-23-0009",
+  "orderId": {
+    "$oid": "64fe5ed0eea0d5da969a9663"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-13T23:19:48.875Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T23:19:48.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6502fcc4be365cc360f61ad6"
+  },
+  "orderCustomId": "O-14-23-0002",
+  "orderId": {
+    "$oid": "6502fcbabe365cc360f61a21"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Preparation Time: 2 | Delivery Time: 2",
+  "createdAt": {
+    "$date": "2023-09-14T12:29:56.513Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T12:29:56.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6502fd7cbe365cc360f61ca7"
+  },
+  "orderCustomId": "O-14-23-0003",
+  "orderId": {
+    "$oid": "6502fd6bbe365cc360f61b80"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Preparation Time: 2 | Delivery Time: 2",
+  "createdAt": {
+    "$date": "2023-09-14T12:33:00.166Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T12:33:00.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6503019abe365cc360f6346b"
+  },
+  "orderCustomId": "O-14-23-0004",
+  "orderId": {
+    "$oid": "65030162be365cc360f63240"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Preparation Time: 33 | Delivery Time: 33",
+  "createdAt": {
+    "$date": "2023-09-14T12:50:34.236Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T12:50:34.236Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650301c6be365cc360f63594"
+  },
+  "orderCustomId": "O-14-23-0001",
+  "orderId": {
+    "$oid": "6502dc7c89e8abb14e7032b9"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 2 | Delivery Time: 2",
+  "createdAt": {
+    "$date": "2023-09-14T12:51:18.934Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T12:51:18.934Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650301fbbe365cc360f636da"
+  },
+  "orderCustomId": "O-14-23-0005",
+  "orderId": {
+    "$oid": "650301eebe365cc360f63632"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Preparation Time: 2 | Delivery Time: 2",
+  "createdAt": {
+    "$date": "2023-09-14T12:52:11.663Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T12:52:11.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65030355be365cc360f638d9"
+  },
+  "orderCustomId": "O-12-23-0028",
+  "orderId": {
+    "$oid": "65006e7970f992aa74b0770e"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 33 | Delivery Time: 33",
+  "createdAt": {
+    "$date": "2023-09-14T12:57:57.164Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T12:57:57.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65030369be365cc360f63903"
+  },
+  "orderCustomId": "O-12-23-0025",
+  "orderId": {
+    "$oid": "65006d9270f992aa74b06ae9"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 22 | Delivery Time: 22",
+  "createdAt": {
+    "$date": "2023-09-14T12:58:17.599Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T12:58:17.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65031b685128dbb3f39e4f10"
+  },
+  "orderCustomId": "O-14-23-0009",
+  "orderId": {
+    "$oid": "65031b3d5128dbb3f39e4d97"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-14T14:40:40.101Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T14:40:40.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65031b6a5128dbb3f39e4f85"
+  },
+  "orderCustomId": "O-14-23-0009",
+  "orderId": {
+    "$oid": "65031b3d5128dbb3f39e4d9b"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-14T14:40:42.921Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T14:40:42.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65031e315128dbb3f39e63ce"
+  },
+  "orderCustomId": "O-14-23-0010",
+  "orderId": {
+    "$oid": "65031c565128dbb3f39e6089"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-14T14:52:33.328Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T14:52:33.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65031e365128dbb3f39e6458"
+  },
+  "orderCustomId": "O-14-23-0010",
+  "orderId": {
+    "$oid": "65031c565128dbb3f39e6084"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 10 | Delivery Time: 23",
+  "createdAt": {
+    "$date": "2023-09-14T14:52:38.989Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T14:52:38.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65033e9260fd7287f253ec20"
+  },
+  "orderCustomId": "O-14-23-0013",
+  "orderId": {
+    "$oid": "650338059865922894da39c5"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "Preparation Time: 20 | Delivery Time: 10",
+  "createdAt": {
+    "$date": "2023-09-14T17:10:42.863Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T17:10:42.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077cb75f4eb3de880e49f2"
+  },
+  "orderCustomId": "O-15-23-0019",
+  "orderId": {
+    "$oid": "650395fb1eb81a4a2ac0ab92"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:24:55.198Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:24:55.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077cb95f4eb3de880e4a82"
+  },
+  "orderCustomId": "O-15-23-0018",
+  "orderId": {
+    "$oid": "6503955d1eb81a4a2ac0a2fe"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:24:57.935Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:24:57.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077cbb5f4eb3de880e4b12"
+  },
+  "orderCustomId": "O-14-23-0008",
+  "orderId": {
+    "$oid": "65031ae55128dbb3f39e3bbd"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:24:59.729Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:24:59.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077cbe5f4eb3de880e4bb1"
+  },
+  "orderCustomId": "O-14-23-0007",
+  "orderId": {
+    "$oid": "650314b48b9e3400892c07f2"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:25:02.682Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:25:02.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077cc25f4eb3de880e4c41"
+  },
+  "orderCustomId": "O-12-23-0023",
+  "orderId": {
+    "$oid": "64ffb65145132644c49ca244"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:25:06.736Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:25:06.736Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077cc45f4eb3de880e4cd1"
+  },
+  "orderCustomId": "O-12-23-0022",
+  "orderId": {
+    "$oid": "64ffb5f245132644c49c90a3"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:25:08.903Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:25:08.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077cc75f4eb3de880e4d61"
+  },
+  "orderCustomId": "O-11-23-0008",
+  "orderId": {
+    "$oid": "64fe5e8beea0d5da969a962d"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:25:11.089Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:25:11.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077cc95f4eb3de880e4df1"
+  },
+  "orderCustomId": "O-10-23-0004",
+  "orderId": {
+    "$oid": "64fe2bb4994528f8bd977726"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:25:13.385Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:25:13.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d215f4eb3de880e531e"
+  },
+  "orderCustomId": "O-10-23-0003",
+  "orderId": {
+    "$oid": "64fdd0dc2b01fbf8affc2eb8"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:26:41.940Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:26:41.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d245f4eb3de880e53ae"
+  },
+  "orderCustomId": "O-10-23-0002",
+  "orderId": {
+    "$oid": "64fdd0242b01fbf8affc2daf"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:26:44.528Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:26:44.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d265f4eb3de880e543e"
+  },
+  "orderCustomId": "O-10-23-0001",
+  "orderId": {
+    "$oid": "64fdb8ba2b01fbf8affc1897"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:26:46.397Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:26:46.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d285f4eb3de880e54ce"
+  },
+  "orderCustomId": "O-07-23-0010",
+  "orderId": {
+    "$oid": "64fa28ce449e3ce0c3c01886"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:26:48.372Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:26:48.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d2a5f4eb3de880e555e"
+  },
+  "orderCustomId": "O-07-23-0009",
+  "orderId": {
+    "$oid": "64fa2666449e3ce0c3c0179d"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:26:50.097Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:26:50.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d2f5f4eb3de880e55ee"
+  },
+  "orderCustomId": "O-07-23-0006",
+  "orderId": {
+    "$oid": "64f992743d0e155a9eac3a72"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:26:55.693Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:26:55.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d395f4eb3de880e567e"
+  },
+  "orderCustomId": "O-07-23-0005",
+  "orderId": {
+    "$oid": "64f9924d3d0e155a9eac18fb"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:05.956Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:05.956Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d3d5f4eb3de880e570e"
+  },
+  "orderCustomId": "O-07-23-0004",
+  "orderId": {
+    "$oid": "64f992273d0e155a9eac0d58"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:09.410Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:09.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d3f5f4eb3de880e579e"
+  },
+  "orderCustomId": "O-07-23-0003",
+  "orderId": {
+    "$oid": "64f991ec3d0e155a9eabeba3"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:11.754Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:11.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d415f4eb3de880e582e"
+  },
+  "orderCustomId": "O-07-23-0002",
+  "orderId": {
+    "$oid": "64f991df3d0e155a9eabeb6a"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:13.785Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:13.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d435f4eb3de880e58be"
+  },
+  "orderCustomId": "O-07-23-0001",
+  "orderId": {
+    "$oid": "64f991993d0e155a9eabb966"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:15.865Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:15.865Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d455f4eb3de880e594e"
+  },
+  "orderCustomId": "O-06-23-0022",
+  "orderId": {
+    "$oid": "64f8a3d94d9f66eaf051d065"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:17.800Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:17.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d475f4eb3de880e59de"
+  },
+  "orderCustomId": "O-06-23-0021",
+  "orderId": {
+    "$oid": "64f8a3cc4d9f66eaf051d024"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:19.561Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:19.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d495f4eb3de880e5a6e"
+  },
+  "orderCustomId": "O-06-23-0020",
+  "orderId": {
+    "$oid": "64f8a1ef4d9f66eaf051bab3"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:21.540Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:21.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d4b5f4eb3de880e5afe"
+  },
+  "orderCustomId": "O-06-23-0019",
+  "orderId": {
+    "$oid": "64f8a1304d9f66eaf051b853"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:23.796Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:23.796Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d4d5f4eb3de880e5b8e"
+  },
+  "orderCustomId": "O-06-23-0018",
+  "orderId": {
+    "$oid": "64f8a0f74d9f66eaf051b7e6"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:25.555Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:25.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d4f5f4eb3de880e5c1e"
+  },
+  "orderCustomId": "O-06-23-0017",
+  "orderId": {
+    "$oid": "64f8a0b14d9f66eaf051b75e"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:27.134Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:27.134Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d515f4eb3de880e5cae"
+  },
+  "orderCustomId": "O-06-23-0016",
+  "orderId": {
+    "$oid": "64f8a04f4d9f66eaf051b6e6"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:29.682Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:29.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d535f4eb3de880e5d3e"
+  },
+  "orderCustomId": "O-06-23-0015",
+  "orderId": {
+    "$oid": "64f8a0024d9f66eaf051a5f7"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:31.543Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:31.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d555f4eb3de880e5dce"
+  },
+  "orderCustomId": "O-06-23-0014",
+  "orderId": {
+    "$oid": "64f897d04d9f66eaf0517473"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:33.446Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:33.446Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d575f4eb3de880e5e5e"
+  },
+  "orderCustomId": "O-06-23-0013",
+  "orderId": {
+    "$oid": "64f897c14d9f66eaf0516386"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:35.358Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:35.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d5a5f4eb3de880e5eee"
+  },
+  "orderCustomId": "O-06-23-0012",
+  "orderId": {
+    "$oid": "64f892934d9f66eaf051316f"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:38.159Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:38.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d5b5f4eb3de880e5f7e"
+  },
+  "orderCustomId": "O-06-23-0011",
+  "orderId": {
+    "$oid": "64f8926e4d9f66eaf0510fe8"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:39.978Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:39.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d5d5f4eb3de880e600e"
+  },
+  "orderCustomId": "O-06-23-0010",
+  "orderId": {
+    "$oid": "64f88fa34d9f66eaf050ff1b"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:41.964Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:41.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d605f4eb3de880e609e"
+  },
+  "orderCustomId": "O-06-23-0009",
+  "orderId": {
+    "$oid": "64f886374d9f66eaf050db81"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:44.465Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:44.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d625f4eb3de880e612e"
+  },
+  "orderCustomId": "O-06-23-0008",
+  "orderId": {
+    "$oid": "64f8862b4d9f66eaf050db40"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:46.775Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:46.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d655f4eb3de880e61be"
+  },
+  "orderCustomId": "O-06-23-0007",
+  "orderId": {
+    "$oid": "64f886234d9f66eaf050daff"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:49.346Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:49.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d675f4eb3de880e624e"
+  },
+  "orderCustomId": "O-06-23-0006",
+  "orderId": {
+    "$oid": "64f886124d9f66eaf050c7fa"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:51.475Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:51.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d6a5f4eb3de880e62de"
+  },
+  "orderCustomId": "O-06-23-0005",
+  "orderId": {
+    "$oid": "64f885fe4d9f66eaf050b732"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:54.201Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:54.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d6c5f4eb3de880e636e"
+  },
+  "orderCustomId": "O-06-23-0004",
+  "orderId": {
+    "$oid": "64f885c94d9f66eaf05093a9"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:56.382Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:56.382Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d6e5f4eb3de880e63fe"
+  },
+  "orderCustomId": "O-06-23-0003",
+  "orderId": {
+    "$oid": "64f885514d459a8e677d99bb"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:27:58.536Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:27:58.536Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d705f4eb3de880e648e"
+  },
+  "orderCustomId": "O-06-23-0002",
+  "orderId": {
+    "$oid": "64f8849651dc1b4c8313d7a2"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:00.733Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:00.733Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d735f4eb3de880e651e"
+  },
+  "orderCustomId": "O-04-23-0003",
+  "orderId": {
+    "$oid": "64f5bf0c4463b748917c8970"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:03.529Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:03.529Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d755f4eb3de880e65ae"
+  },
+  "orderCustomId": "O-04-23-0002",
+  "orderId": {
+    "$oid": "64f54e4d30573f5a009f2ebe"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:05.378Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:05.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d7a5f4eb3de880e6653"
+  },
+  "orderCustomId": "O-04-23-0001",
+  "orderId": {
+    "$oid": "64f54e3130573f5a009f2e7a"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "Preparation Time: 5 | Delivery Time: 5",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:10.878Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:10.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d885f4eb3de880e66fb"
+  },
+  "orderCustomId": "O-01-23-0008",
+  "orderId": {
+    "$oid": "64f116ab87744318306d0a6a"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 5 | Delivery Time: 5",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:24.593Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:24.593Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d8f5f4eb3de880e678c"
+  },
+  "orderCustomId": "O-14-23-0013",
+  "orderId": {
+    "$oid": "650338059865922894da39c5"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:31.142Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:31.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d905f4eb3de880e681d"
+  },
+  "orderCustomId": "O-12-23-0028",
+  "orderId": {
+    "$oid": "65006e7970f992aa74b0770e"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:32.644Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:32.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d915f4eb3de880e68ae"
+  },
+  "orderCustomId": "O-12-23-0025",
+  "orderId": {
+    "$oid": "65006d9270f992aa74b06ae9"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:33.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:33.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d915f4eb3de880e693f"
+  },
+  "orderCustomId": "O-11-23-0015",
+  "orderId": {
+    "$oid": "64ff7155b2ecd4f5f6d25f16"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:33.822Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:33.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d925f4eb3de880e69d0"
+  },
+  "orderCustomId": "O-07-23-0008",
+  "orderId": {
+    "$oid": "64fa25be449e3ce0c3c016de"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:34.136Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:34.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d945f4eb3de880e6a61"
+  },
+  "orderCustomId": "O-07-23-0007",
+  "orderId": {
+    "$oid": "64fa1f96449e3ce0c3bff41e"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:36.897Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:36.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d955f4eb3de880e6af2"
+  },
+  "orderCustomId": "O-06-23-0001",
+  "orderId": {
+    "$oid": "64f83ecbe2d25a39a4276aa7"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:37.624Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:37.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d975f4eb3de880e6b83"
+  },
+  "orderCustomId": "O-04-23-0001",
+  "orderId": {
+    "$oid": "64f54e3130573f5a009f2e7a"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:39.139Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:39.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d975f4eb3de880e6c14"
+  },
+  "orderCustomId": "O-02-23-0006",
+  "orderId": {
+    "$oid": "64f336ba3cc1adfa0c324547"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:39.621Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:39.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d985f4eb3de880e6ca5"
+  },
+  "orderCustomId": "O-01-23-0008",
+  "orderId": {
+    "$oid": "64f116ab87744318306d0a6a"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:40.069Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:40.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d9a5f4eb3de880e6d37"
+  },
+  "orderCustomId": "O-14-23-0013",
+  "orderId": {
+    "$oid": "650338059865922894da39c5"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:42.760Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:42.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d9b5f4eb3de880e6dc9"
+  },
+  "orderCustomId": "O-12-23-0028",
+  "orderId": {
+    "$oid": "65006e7970f992aa74b0770e"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:43.170Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:43.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d9b5f4eb3de880e6e5b"
+  },
+  "orderCustomId": "O-12-23-0025",
+  "orderId": {
+    "$oid": "65006d9270f992aa74b06ae9"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:43.421Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:43.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d9b5f4eb3de880e6eed"
+  },
+  "orderCustomId": "O-11-23-0017",
+  "orderId": {
+    "$oid": "64ff73d4b2ecd4f5f6d274fa"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:43.572Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:43.572Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d9b5f4eb3de880e6f7f"
+  },
+  "orderCustomId": "O-11-23-0015",
+  "orderId": {
+    "$oid": "64ff7155b2ecd4f5f6d25f16"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:43.769Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:43.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d9b5f4eb3de880e7011"
+  },
+  "orderCustomId": "O-11-23-0014",
+  "orderId": {
+    "$oid": "64ff7108b2ecd4f5f6d24bf5"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:43.952Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:43.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d9c5f4eb3de880e70a3"
+  },
+  "orderCustomId": "O-11-23-0013",
+  "orderId": {
+    "$oid": "64ff6cf9b2ecd4f5f6d20c18"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:44.170Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:44.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d9d5f4eb3de880e7135"
+  },
+  "orderCustomId": "O-08-23-0001",
+  "orderId": {
+    "$oid": "64fb9ac48c973bb334583a93"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:45.592Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:45.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077d9e5f4eb3de880e71c7"
+  },
+  "orderCustomId": "O-07-23-0008",
+  "orderId": {
+    "$oid": "64fa25be449e3ce0c3c016de"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:46.890Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:46.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077da05f4eb3de880e7259"
+  },
+  "orderCustomId": "O-07-23-0007",
+  "orderId": {
+    "$oid": "64fa1f96449e3ce0c3bff41e"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:48.159Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:48.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077da05f4eb3de880e72eb"
+  },
+  "orderCustomId": "O-06-23-0001",
+  "orderId": {
+    "$oid": "64f83ecbe2d25a39a4276aa7"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:48.689Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:48.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077da15f4eb3de880e737d"
+  },
+  "orderCustomId": "O-04-23-0001",
+  "orderId": {
+    "$oid": "64f54e3130573f5a009f2e7a"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:49.775Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:49.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077da25f4eb3de880e740f"
+  },
+  "orderCustomId": "O-02-23-0006",
+  "orderId": {
+    "$oid": "64f336ba3cc1adfa0c324547"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:50.857Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:50.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077da35f4eb3de880e74a1"
+  },
+  "orderCustomId": "O-01-23-0008",
+  "orderId": {
+    "$oid": "64f116ab87744318306d0a6a"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:51.741Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:51.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077da85f4eb3de880e7534"
+  },
+  "orderCustomId": "O-14-23-0013",
+  "orderId": {
+    "$oid": "650338059865922894da39c5"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:56.679Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:56.679Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077daa5f4eb3de880e75c7"
+  },
+  "orderCustomId": "O-12-23-0028",
+  "orderId": {
+    "$oid": "65006e7970f992aa74b0770e"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:28:58.542Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:28:58.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077dac5f4eb3de880e765a"
+  },
+  "orderCustomId": "O-12-23-0025",
+  "orderId": {
+    "$oid": "65006d9270f992aa74b06ae9"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:29:00.347Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:29:00.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077db25f4eb3de880e76ed"
+  },
+  "orderCustomId": "O-11-23-0017",
+  "orderId": {
+    "$oid": "64ff73d4b2ecd4f5f6d274fa"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:29:06.410Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:29:06.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077db65f4eb3de880e7780"
+  },
+  "orderCustomId": "O-11-23-0015",
+  "orderId": {
+    "$oid": "64ff7155b2ecd4f5f6d25f16"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:29:10.418Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:29:10.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077db85f4eb3de880e7813"
+  },
+  "orderCustomId": "O-11-23-0014",
+  "orderId": {
+    "$oid": "64ff7108b2ecd4f5f6d24bf5"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:29:12.791Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:29:12.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077dbd5f4eb3de880e78a6"
+  },
+  "orderCustomId": "O-11-23-0013",
+  "orderId": {
+    "$oid": "64ff6cf9b2ecd4f5f6d20c18"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:29:17.408Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:29:17.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077dbf5f4eb3de880e7939"
+  },
+  "orderCustomId": "O-08-23-0001",
+  "orderId": {
+    "$oid": "64fb9ac48c973bb334583a93"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:29:19.779Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:29:19.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077dc15f4eb3de880e79cc"
+  },
+  "orderCustomId": "O-07-23-0008",
+  "orderId": {
+    "$oid": "64fa25be449e3ce0c3c016de"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:29:21.635Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:29:21.635Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077dc35f4eb3de880e7a5f"
+  },
+  "orderCustomId": "O-07-23-0007",
+  "orderId": {
+    "$oid": "64fa1f96449e3ce0c3bff41e"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:29:23.794Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:29:23.794Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077dc65f4eb3de880e7af2"
+  },
+  "orderCustomId": "O-06-23-0001",
+  "orderId": {
+    "$oid": "64f83ecbe2d25a39a4276aa7"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:29:26.136Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:29:26.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077dc85f4eb3de880e7b85"
+  },
+  "orderCustomId": "O-04-23-0001",
+  "orderId": {
+    "$oid": "64f54e3130573f5a009f2e7a"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:29:28.248Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:29:28.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077dca5f4eb3de880e7c18"
+  },
+  "orderCustomId": "O-02-23-0006",
+  "orderId": {
+    "$oid": "64f336ba3cc1adfa0c324547"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:29:30.015Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:29:30.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077dcc5f4eb3de880e7cab"
+  },
+  "orderCustomId": "O-01-23-0008",
+  "orderId": {
+    "$oid": "64f116ab87744318306d0a6a"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:29:32.009Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:29:32.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077e275f4eb3de880e855d"
+  },
+  "orderCustomId": "O-11-23-0012",
+  "orderId": {
+    "$oid": "64fe6005eea0d5da969a9b99"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:31:03.084Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:31:03.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65077e285f4eb3de880e85ef"
+  },
+  "orderCustomId": "O-11-23-0009",
+  "orderId": {
+    "$oid": "64fe5ed0eea0d5da969a9663"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-09-17T22:31:04.073Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T22:31:04.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65081b015f4eb3de880fac1d"
+  },
+  "orderCustomId": "O-18-23-0003",
+  "orderId": {
+    "$oid": "65081af68647f73fdbde4cf1"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-18T09:40:17.551Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T09:40:17.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65081b585f4eb3de880fc0f0"
+  },
+  "orderCustomId": "O-18-23-0004",
+  "orderId": {
+    "$oid": "65081b458647f73fdbde4ea7"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-18T09:41:44.010Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T09:41:44.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65081d245f4eb3de880fd4eb"
+  },
+  "orderCustomId": "O-14-23-0011",
+  "orderId": {
+    "$oid": "650327663da3fa8e30c5fa32"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-18T09:49:24.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T09:49:24.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65081d5b5f4eb3de880fd836"
+  },
+  "orderCustomId": "O-18-23-0005",
+  "orderId": {
+    "$oid": "65081d4b8647f73fdbde4f45"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-18T09:50:19.601Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T09:50:19.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65081d825f4eb3de880fda64"
+  },
+  "orderCustomId": "O-18-23-0006",
+  "orderId": {
+    "$oid": "65081d7b8647f73fdbde4f83"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-18T09:50:58.163Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T09:50:58.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65081df35f4eb3de880fdc08"
+  },
+  "orderCustomId": "O-18-23-0007",
+  "orderId": {
+    "$oid": "65081dd98647f73fdbde509c"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-18T09:52:51.920Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T09:52:51.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6508261d5f4eb3de8810556a"
+  },
+  "orderCustomId": "O-18-23-0008",
+  "orderId": {
+    "$oid": "6508260c8647f73fdbde5353"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 29 | Delivery Time: 15",
+  "createdAt": {
+    "$date": "2023-09-18T10:27:41.044Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T10:27:41.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650826b15f4eb3de88106b16"
+  },
+  "orderCustomId": "O-18-23-0009",
+  "orderId": {
+    "$oid": "650826a88cf1ac43b201b448"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 10 | Delivery Time: 15",
+  "createdAt": {
+    "$date": "2023-09-18T10:30:09.798Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T10:30:09.798Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6508277b5f4eb3de88108065"
+  },
+  "orderCustomId": "O-18-23-0010",
+  "orderId": {
+    "$oid": "6508275b6c7528a441aec42f"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 10 | Delivery Time: 15",
+  "createdAt": {
+    "$date": "2023-09-18T10:33:31.586Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T10:33:31.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650827fb5f4eb3de88108409"
+  },
+  "orderCustomId": "O-18-23-0010",
+  "orderId": {
+    "$oid": "6508275b6c7528a441aec42f"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-18T10:35:39.030Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T10:35:39.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650827fd5f4eb3de8810849a"
+  },
+  "orderCustomId": "O-18-23-0009",
+  "orderId": {
+    "$oid": "650826a88cf1ac43b201b448"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-18T10:35:41.546Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T10:35:41.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650828035f4eb3de881085b5"
+  },
+  "orderCustomId": "O-18-23-0008",
+  "orderId": {
+    "$oid": "6508260c8647f73fdbde5353"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-18T10:35:47.990Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T10:35:47.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650828165f4eb3de881086e4"
+  },
+  "orderCustomId": "O-18-23-0011",
+  "orderId": {
+    "$oid": "6508280d5c2c71b03febfeeb"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 15 | Delivery Time: 15",
+  "createdAt": {
+    "$date": "2023-09-18T10:36:06.885Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T10:36:06.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650828455f4eb3de88108820"
+  },
+  "orderCustomId": "O-18-23-0011",
+  "orderId": {
+    "$oid": "6508280d5c2c71b03febfeeb"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-18T10:36:53.913Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T10:36:53.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650828615f4eb3de8810894f"
+  },
+  "orderCustomId": "O-18-23-0012",
+  "orderId": {
+    "$oid": "650828550feefd613462672e"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 10 | Delivery Time: 15",
+  "createdAt": {
+    "$date": "2023-09-18T10:37:21.278Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T10:37:21.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650828980feefd6134627a64"
+  },
+  "orderCustomId": "O-18-23-0012",
+  "orderId": {
+    "$oid": "650828550feefd613462672e"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-18T10:38:16.448Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T10:38:16.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650828c431bc865a093a080e"
+  },
+  "orderCustomId": "O-18-23-0013",
+  "orderId": {
+    "$oid": "650828ba31bc865a093a0755"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 10 | Delivery Time: 10",
+  "createdAt": {
+    "$date": "2023-09-18T10:39:00.056Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T10:39:00.056Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650828e08743438dccd37459"
+  },
+  "orderCustomId": "O-18-23-0013",
+  "orderId": {
+    "$oid": "650828ba31bc865a093a0755"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-18T10:39:28.262Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T10:39:28.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650828f48743438dccd375c3"
+  },
+  "orderCustomId": "O-18-23-0014",
+  "orderId": {
+    "$oid": "650828e98743438dccd3750a"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 10 | Delivery Time: 10",
+  "createdAt": {
+    "$date": "2023-09-18T10:39:48.112Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T10:39:48.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6508291b660b13ccf64155a7"
+  },
+  "orderCustomId": "O-18-23-0014",
+  "orderId": {
+    "$oid": "650828e98743438dccd3750a"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-18T10:40:27.155Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T10:40:27.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650829b9660b13ccf64158d7"
+  },
+  "orderCustomId": "O-18-23-0015",
+  "orderId": {
+    "$oid": "650829b2660b13ccf641581d"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Preparation Time: 10 | Delivery Time: 10",
+  "createdAt": {
+    "$date": "2023-09-18T10:43:05.986Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T10:43:05.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650853a329204422b81e2f3c"
+  },
+  "orderCustomId": "O-18-23-0019",
+  "orderId": {
+    "$oid": "650852bf76e6e98cc0197027"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-18T13:41:55.564Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T13:41:55.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650853a629204422b81e2fcc"
+  },
+  "orderCustomId": "O-18-23-0018",
+  "orderId": {
+    "$oid": "65084ee61ee0e55d5f24ca82"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64eb9f5446bd5cb05f5b4615"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-18T13:41:58.829Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T13:41:58.829Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650880b92325a4ebce2b0e84"
+  },
+  "orderCustomId": "O-18-23-0027",
+  "orderId": {
+    "$oid": "650880672325a4ebce2b0afe"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "64838f5f7299ac63dda0ab27"
+  },
+  "message": "Preparation Time: 50 | Delivery Time: 50",
+  "createdAt": {
+    "$date": "2023-09-18T16:54:17.103Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T16:54:17.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b11bd802e2ceeff1b9e6b"
+  },
+  "orderCustomId": "O-20-23-0004",
+  "orderId": {
+    "$oid": "650b11b6802e2ceeff1b9d32"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "Out of our delivery range!",
+  "createdAt": {
+    "$date": "2023-09-20T15:37:33.566Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T15:37:33.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b125a802e2ceeff1bac51"
+  },
+  "orderCustomId": "O-20-23-0006",
+  "orderId": {
+    "$oid": "650b1252802e2ceeff1bab16"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Too busy to cook!",
+  "createdAt": {
+    "$date": "2023-09-20T15:40:10.600Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T15:40:10.600Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b18fb802e2ceeff1bc8fa"
+  },
+  "orderCustomId": "O-20-23-0007",
+  "orderId": {
+    "$oid": "650b18e3802e2ceeff1bbdc6"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "test",
+  "createdAt": {
+    "$date": "2023-09-20T16:08:27.836Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T16:08:27.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b1917802e2ceeff1bca87"
+  },
+  "orderCustomId": "O-20-23-0008",
+  "orderId": {
+    "$oid": "650b1910802e2ceeff1bc9b7"
+  },
+  "orderStatus": 0,
+  "customer": {
+    "$oid": "64659703d12ff393e3533594"
+  },
+  "message": "Oops! We are out stock!",
+  "createdAt": {
+    "$date": "2023-09-20T16:08:55.388Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T16:08:55.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6519f6676f965ec495170ec7"
+  },
+  "orderCustomId": "O-01-23-0002",
+  "orderId": {
+    "$oid": "6519f6556f965ec495170dcc"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Preparation Time: 22 | Delivery Time: 22",
+  "createdAt": {
+    "$date": "2023-10-01T22:44:55.001Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-01T22:44:55.001Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ad2a6e67d63997ef140ef"
+  },
+  "orderCustomId": "O-02-23-0001",
+  "orderId": {
+    "$oid": "651ad287e67d63997ef13bb5"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Preparation Time: 1 | Delivery Time: 1",
+  "createdAt": {
+    "$date": "2023-10-02T14:24:38.413Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-02T14:24:38.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ad5eb0a15299fdf9f7291"
+  },
+  "orderCustomId": "O-02-23-0003",
+  "orderId": {
+    "$oid": "651ad5d70a15299fdf9f7076"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Preparation Time: 12 | Delivery Time: 12",
+  "createdAt": {
+    "$date": "2023-10-02T14:38:35.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-02T14:38:35.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e4a70328e476ed8bd56dd"
+  },
+  "orderCustomId": "O-05-23-0001",
+  "orderId": {
+    "$oid": "651e4a54328e476ed8bd547f"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Preparation Time: 12 | Delivery Time: 11",
+  "createdAt": {
+    "$date": "2023-10-05T05:32:32.966Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T05:32:32.966Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e4ab4328e476ed8bd6401"
+  },
+  "orderCustomId": "O-05-23-0001",
+  "orderId": {
+    "$oid": "651e4a54328e476ed8bd547f"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-10-05T05:33:40.598Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T05:33:40.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e4b7f328e476ed8bd69f6"
+  },
+  "orderCustomId": "O-05-23-0002",
+  "orderId": {
+    "$oid": "651e4b6e328e476ed8bd670b"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Preparation Time: 1 | Delivery Time: 1",
+  "createdAt": {
+    "$date": "2023-10-05T05:37:03.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T05:37:03.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e4b8e328e476ed8bd6c0e"
+  },
+  "orderCustomId": "O-05-23-0002",
+  "orderId": {
+    "$oid": "651e4b6e328e476ed8bd670b"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-10-05T05:37:18.622Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T05:37:18.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ead63328e476ed8be2f35"
+  },
+  "orderCustomId": "O-05-23-0003",
+  "orderId": {
+    "$oid": "651ead54328e476ed8be2cef"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Preparation Time: 1 | Delivery Time: 1",
+  "createdAt": {
+    "$date": "2023-10-05T12:34:43.358Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T12:34:43.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6526d992a5b94643bc04009b"
+  },
+  "orderCustomId": "O-11-23-0001",
+  "orderId": {
+    "$oid": "6526d986a5b94643bc03fe52"
+  },
+  "orderStatus": 2,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "Preparation Time: 88 | Delivery Time: 88",
+  "createdAt": {
+    "$date": "2023-10-11T17:21:22.123Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T17:21:22.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6526d9a4a5b94643bc0402b6"
+  },
+  "orderCustomId": "O-11-23-0001",
+  "orderId": {
+    "$oid": "6526d986a5b94643bc03fe52"
+  },
+  "orderStatus": 3,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-10-11T17:21:40.720Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T17:21:40.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6526d9a8a5b94643bc040365"
+  },
+  "orderCustomId": "O-11-23-0001",
+  "orderId": {
+    "$oid": "6526d986a5b94643bc03fe52"
+  },
+  "orderStatus": 4,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-10-11T17:21:44.852Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T17:21:44.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6526d9afa5b94643bc040415"
+  },
+  "orderCustomId": "O-11-23-0001",
+  "orderId": {
+    "$oid": "6526d986a5b94643bc03fe52"
+  },
+  "orderStatus": 5,
+  "customer": {
+    "$oid": "644f630546724a0350b19691"
+  },
+  "message": "",
+  "createdAt": {
+    "$date": "2023-10-11T17:21:51.304Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T17:21:51.304Z"
+  },
+  "__v": 0
 }]

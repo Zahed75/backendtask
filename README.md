@@ -1,4 +1,4 @@
-# Welcome Backend-focused Product Exercise
+# Welcome Backend-focused Product Task By Syscomatic
 
 ```
 TIMEBOX:    Deadline 2days. We mean it! Set at timer and hard-stop at 4 hours ⏱
@@ -56,10 +56,11 @@ The goal of this exercise is to design a read-only API (REST) that returns one o
 
 * list compensation data via API `GET` request
 
-  *
+  * Get Outlet Based On Heat and show(API)-Permission only (SUPER ADMIN)
+
+  * Make and EndPoint Outlet Heat Average(API)-Permission only (SUPER ADMIN,ACCOUNT OWNER)
 
 
-  * Sort by one or more fields/attributes (e.g. `/compensation_data?sort=last_name`)
 
 
 * fetch a single record via GET request

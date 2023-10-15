@@ -1,0 +1,260 @@
+[{
+  "_id": {
+    "$oid": "65045bfc55fb8286310dfa6f"
+  },
+  "cityId": {
+    "$oid": "64ea71af9f3146cb4b9c9906"
+  },
+  "areaName": "Doha",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a78fd573f78642e1d69a"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Bijoy Sarani",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a7afd573f78642e1d69e"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Nakhalpara",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a7c5d573f78642e1d6a2"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Gulshan 1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a7ded573f78642e1d6a6"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Monipuripara",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a7f7d573f78642e1d6aa"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Satrasta",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a820d573f78642e1d6ae"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Tejkunipara",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a82ed573f78642e1d6b3"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Tejgaon",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a840d573f78642e1d6b7"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Mohakhali",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a85ad573f78642e1d6e1"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Baily Road",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a86cd573f78642e1d6e5"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Bangla Motor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a878d573f78642e1d6e9"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Kakrail",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a88ed573f78642e1e854"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Kathalbagan",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a89ad573f78642e1e858"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Kawran Bazar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a8a5d573f78642e1e85c"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Malibagh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a8acd573f78642e1e860"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Mirbag",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a8b5d573f78642e1e864"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Moghbazar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a8ced573f78642e1e868"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "New Eskaton",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a8dcd573f78642e1e86c"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Old Eskaton",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a8e8d573f78642e1e870"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Paribagh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a8f0d573f78642e1e874"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Ramna",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a8f8d573f78642e1e878"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Shahbagh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a901d573f78642e1e87c"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Shantibag",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a90bd573f78642e1e880"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Shegunbagicha",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504a914d573f78642e1e884"
+  },
+  "cityId": {
+    "$oid": "65045be355fb8286310dfa6a"
+  },
+  "areaName": "Shiddheswari",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65088350ba97d7fa17dc0f8c"
+  },
+  "cityId": {
+    "$oid": "6505db4759a4d3173950c0a5"
+  },
+  "areaName": "Xoom",
+  "__v": 0
+}]
