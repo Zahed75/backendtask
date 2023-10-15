@@ -18,10 +18,11 @@ Ideally your solution would have some way to run locally and test the results so
 
 ---
 
-> :rotating_light: :exclamation: :point_right: **Please import the all json format data into your MongoDB compass [CLOUD-KITCHEN](/Databases/)** :point_left: :exclamation: :rotating_light:
+> :rotating_light: :exclamation: :point_right: **Please import the all json format data into your MongoDB compass [CLOUD-KITCHEN]** :point_left: :exclamation: :rotating_light:
 
 
-### Exercise A: Expose an API for querying compensation data
+### Exercise A: Expose an API for querying some Statical Data
+
 
 The goal of this exercise is to design a read-only API (REST) that returns one or more records from static set of compensation data.
 
@@ -30,6 +31,8 @@ The goal of this exercise is to design a read-only API (REST) that returns one o
 * list compensation data via API `GET` request
   * Filter by one or more fields/attributes (e.g. `/compensation_data?salary[gte]=120000&zip_code=11201` )
   * Sort by one or more fields/attributes (e.g. `/compensation_data?sort=last_name`)
+
+
 * fetch a single record via GET request
   * **Stretch Goal**: return a sparse fieldset (e.g. `/compensation_data?fields=first_name,last_name,salary`)
 * have the JSON response be normalized into a uniform schema via a serializer or json template
@@ -41,6 +44,10 @@ The goal of this exercise is to design a read-only API (REST) that returns one o
 * The example above (`/compensation_data`...) is not a contract. Feel free to design the URL structure and JSON schema that you believe creates the best client/consumer experience
 
 ---
+
+
+
+
 
 ## Exercise B: Database Design Exercise - Storing Compensation Data
 
