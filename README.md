@@ -38,8 +38,7 @@ role: {
 
       orderStatus: {
       type: Number,
-      [
-        0 cancelled, 1 pending, 2 confirmed, 3 rider confimed, 4 waiting, 
+      [0 cancelled, 1 pending, 2 confirmed, 3 rider confimed, 4 waiting,
       5 on the way(Dispatch)
       ]
       enum: [0, 1, 2, 3, 4, 5],
