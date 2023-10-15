@@ -92,5 +92,9 @@ The goal of this exercise is to design a read-only API (REST) that returns one o
 * search Discount by Brand
 * Get Top Performing Brands
 
+---
+
+## Submit your Task with Proper Documentation and Github Repo Link Postman Public webview at this mail tech.syscomatic@gmail.com
+
 
 
