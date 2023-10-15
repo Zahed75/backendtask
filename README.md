@@ -14,9 +14,14 @@ This exercise is to implement the best possible solution to one of the exercises
 
 Ideally your solution would have some way to run locally and test the results so we can fully analyze your efforts.
 
+
+<i class="fa-solid fa-triangle-exclamation">You Have to install MongoDB Compass and create a Database as your preferred name </i>
+
 ## Choose **One** Of the following
 
 ---
+
+
 
 > :rotating_light: :exclamation: :point_right: **Please import the all json format data into your MongoDB compass [CLOUD-KITCHEN]** :point_left: :exclamation: :rotating_light:
 
