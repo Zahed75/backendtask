@@ -66,9 +66,9 @@ The goal of this exercise is to design a read-only API (REST) that returns one o
 * fetch a single record via GET request
 
   * **Stretch Goal**:  Return Total Order By Outlet(API)-Permission only (SUPER ADMIN,ACCOUNT OWNER)
-  
-* have the JSON response be normalized into a uniform schema via a serializer or json template
-  * **Stretch Goal**: serialize more than one compensation [data set](/Databases/)
+
+  * **Stretch Goal**: Get Cutomer History By Brand(API)--Permission only (SUPER ADMIN,ACCOUNT OWNER)
+
 
 ### A few quick notes on submitting Exercise A
 
@@ -77,32 +77,9 @@ The goal of this exercise is to design a read-only API (REST) that returns one o
 
 ---
 
-
-
-
-
 ## Exercise B: Database Design Exercise - Storing Compensation Data
 
-The goal of this exercise is to design a highly normalized database schema for storing compensation data
+* search Discount by Brand
+* Get Top Performing Brands
 
-* Create a schema for storing the compensation data provided in one of the [available data sets](/shared/salary_datasets). This schema should be in at least [3NF](https://en.wikipedia.org/wiki/Third_normal_form) with tables for **employee**, **role**, and anything else that makes sense for the data given.
-* Upload at least one dataset to the schema
-  * **Stretch Goal**: upload all 3 salary datasets to the database schema
-* Validate that you can perform the following queries. You can export the results of these queries via CSV or attach screenshots of the the output
-  * Average compensation of roles where the role is some kind of engineer (hint: `ILIKE`)
-  * Average, min, and max compensation per city (if available in dataset)
-  * One interesting query of your choice (*average compensation by gender perhaps???*)
-* Create a quick database schema diagram
-  * Many admin tools and clients will allow you to generate these from your schema. If not possible, just draw a super-simple diagram in MS Paint or similar tool 🎨
 
-### A few quick notes on submitting Exercise B
-
-* Ideally this exercise would use SQLite or Postgres, but any SQL database is OK
-* Feel free to upload the entire SQL dump (with schema) of the populated database, or create a script that creates the schema and populates the database with one or more of the provided salary data CSVs. Please do whatever makes the most sense given the time alloted.
-* If you'd like to use a scripting language like Python or Ruby along with an ORM to make this easier, thats fine with us!
-
----
-
-## Submitting your exercise
-
-1. See [instructions for submitting your work](https://github.com/pineapplehq/hiring-exercises/blob/master/README.md#general-instructions)
