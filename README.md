@@ -15,13 +15,29 @@ This exercise is to implement the best possible solution to one of the exercises
 Ideally your solution would have some way to run locally and test the results so we can fully analyze your efforts.
 
 
-<i class="fa-solid fa-triangle-exclamation">You Have to install MongoDB Compass and create a Database as your preferred name </i>
+```
+You Have to install MongoDB Compass and create a Database as your preferred name then import all off the Json files
+
+[/Dabases/example.json]
+
+```
+
+Role Based Access Control(RBCA):
+role: {
+      type: String,
+      //  ACO -> Account Owner
+      // BM -> Brand Manager
+      // OM -> Outlet Manager
+      //SA -> Super Admin
+      enum: ['ACO', 'BM', 'OM', 'SA'],
+      require: [true, 'Role must be selected'],
+    }
+
+```
 
 ## Choose **One** Of the following
 
 ---
-
-
 
 > :rotating_light: :exclamation: :point_right: **Please import the all json format data into your MongoDB compass [CLOUD-KITCHEN]** :point_left: :exclamation: :rotating_light:
 
@@ -34,7 +50,10 @@ The goal of this exercise is to design a read-only API (REST) that returns one o
 #### User Story: As a developer I want to
 
 * list compensation data via API `GET` request
-  * Filter by one or more fields/attributes (e.g. `/compensation_data?salary[gte]=120000&zip_code=11201` )
+
+  *
+
+
   * Sort by one or more fields/attributes (e.g. `/compensation_data?sort=last_name`)
 
 
