@@ -1,7 +1,7 @@
 # Welcome Backend-focused Product Task By Syscomatic
 
 ```
-TIMEBOX:    Deadline 2days. We mean it! Set at timer and hard-stop at 4 hours ⏱
+TIMEBOX:    Deadline 3days. We mean it! Set at timer and hard-stop at 4 hours ⏱
 LANGUAGES:  Python, Javascript
 FRAMEWORKS: Django, Flask, NodeJS, etc (Exercise MongoDD or MySQL)
 TESTS:      nice to have, but not mandatory
