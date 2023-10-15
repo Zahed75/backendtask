@@ -1,0 +1,2939 @@
+[{
+  "_id": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "name": "Syed Zaman",
+  "email": "tahmid@onnow.io",
+  "phoneNumber": "8801777794600",
+  "password": "$2a$10$3wdDBo68F0VukFrAcgYhNO/VexCgrXzTh.7881Nd7Mt/TNxSPtDEO",
+  "role": "ACO",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDRlNzRmNzkwMjJmMTA1M2IyNTQyMWUiLCJyb2xlIjoiQUNPIiwiaWF0IjoxNjk3MDk4OTg2LCJleHAiOjE2OTk2OTA5ODZ9.dg6QIOjLCp-f0pFK4Um4vZKX5YFYFvP0gW6GS2wHhOY"
+  ],
+  "brands": [
+    {
+      "beneficiary": false,
+      "brandName": "Onnow",
+      "banner": "HungryNaki-22.jpg",
+      "logo": "Onnow-WhatsApp-1.png",
+      "brandColor": "#F15B25",
+      "textColor": "#ffffff",
+      "subdomain": "order",
+      "outlets": [
+        {
+          "outletName": "Onnow-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon",
+            "mohakhali dohs",
+            "mohakhali"
+          ],
+          "_id": {
+            "$oid": "644eb4adde4acae9ffddb809"
+          }
+        },
+        {
+          "outletName": "Onnow-Moghbazar",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ],
+          "_id": {
+            "$oid": "644eb612848356fddbcfe4c9"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada96"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Party Pizza",
+      "banner": "Pathao-2_gFyX3uk.png",
+      "logo": "400x400.png",
+      "brandColor": "#da033e",
+      "textColor": "#ffffff",
+      "subdomain": "partypizza",
+      "outlets": [
+        {
+          "outletName": "PartyPizza-Tejgaon",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ],
+          "_id": {
+            "$oid": "644eb612848356fddbcfe481"
+          }
+        },
+        {
+          "outletName": "PartyPizza-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon"
+          ],
+          "_id": {
+            "$oid": "644eb612848356fddbcfe46d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada98"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Wrappo",
+      "banner": "HungryNaki-2_ldkqutK.jpg",
+      "logo": "Wrappo_Logo.png",
+      "brandColor": "#1240ab",
+      "textColor": "#ffffff",
+      "subdomain": "wrappo",
+      "outlets": [
+        {
+          "outletName": "Wrappo-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon"
+          ],
+          "_id": {
+            "$oid": "644eb612848356fddbcfe499"
+          }
+        },
+        {
+          "outletName": "Wrappo-Moghbazar",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ],
+          "_id": {
+            "$oid": "644eb612848356fddbcfe4b0"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada97"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Snackmate",
+      "banner": "Pathao-2.png",
+      "logo": "Snackmate-Logo.png",
+      "brandColor": "#007a3c",
+      "textColor": "#ffffff",
+      "subdomain": "snackmate",
+      "outlets": [
+        {
+          "outletName": "Snackmate-Moghbazar",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ],
+          "_id": {
+            "$oid": "644eb2f74a7c1a885937ffff"
+          }
+        },
+        {
+          "outletName": "Snackmate-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon"
+          ],
+          "_id": {
+            "$oid": "644eb4adde4acae9ffddb7f5"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada95"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Friggy's",
+      "banner": "hungry-naki.jpg",
+      "logo": "600x600.png",
+      "brandColor": "#ec0000",
+      "textColor": "#ffffff",
+      "subdomain": "friggys",
+      "outlets": [
+        {
+          "outletName": "Friggy's-Moghbazar",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ],
+          "_id": {
+            "$oid": "644eb612848356fddbcfe477"
+          }
+        },
+        {
+          "outletName": "Friggy's-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon"
+          ],
+          "_id": {
+            "$oid": "644eb612848356fddbcfe4a5"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada99"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Hangrry",
+      "banner": "Hangrry-banner.jpg",
+      "logo": "Hangrry-logo.jpg",
+      "brandColor": "#ed1c25",
+      "textColor": "#fcffee",
+      "subdomain": "hangrry",
+      "outlets": [],
+      "_id": {
+        "$oid": "6463f028d12ff393e352c9fb"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Burger Oppa",
+      "banner": "Burger-Oppa-banner.png",
+      "logo": "Burger-Oppa-logo.png",
+      "brandColor": "#cd007e",
+      "textColor": "#fffd93",
+      "subdomain": "burgeroppa",
+      "outlets": [],
+      "_id": {
+        "$oid": "6463f6afd12ff393e352cba9"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Fuiyoh",
+      "banner": "Fuiyoh-banner.png",
+      "logo": "Fuiyoh-logo.png",
+      "brandColor": "#242f67",
+      "textColor": "#f16223",
+      "subdomain": "fuiyoh",
+      "outlets": [],
+      "_id": {
+        "$oid": "6463f6fad12ff393e352cc54"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Onnow",
+      "banner": "Onnow-banner.jpeg",
+      "logo": "Onnow-logo.png",
+      "brandColor": "#F15B25",
+      "textColor": "#ffffff",
+      "subdomain": "order",
+      "outlets": [],
+      "_id": {
+        "$oid": "6469911d87ed09b0c1496fff"
+      }
+    }
+  ],
+  "outlets": [
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe499"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada97"
+      },
+      "brandName": "Wrappo",
+      "outletName": "Wrappo-Tejgaon",
+      "logo": "Wrappo_Logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe46d"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada98"
+      },
+      "brandName": "Party Pizza",
+      "outletName": "PartyPizza-Tejgaon",
+      "logo": "400x400.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4c9"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada96"
+      },
+      "brandName": "Onnow",
+      "outletName": "Onnow-Moghbazar",
+      "logo": "Onnow-WhatsApp-1.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe477"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada99"
+      },
+      "brandName": "Friggy's",
+      "outletName": "Friggy's-Moghbazar",
+      "logo": "600x600.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe499"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada97"
+      },
+      "brandName": "Wrappo",
+      "outletName": "Wrappo-Moghbazar",
+      "logo": "Wrappo_Logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe477"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada99"
+      },
+      "brandName": "Friggy's",
+      "outletName": "Friggy's-Tejgaon",
+      "logo": "600x600.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb809"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada96"
+      },
+      "brandName": "Onnow",
+      "outletName": "Onnow-Tejgaon",
+      "logo": "Onnow-WhatsApp-1.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb7f5"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada95"
+      },
+      "brandName": "Snackmate",
+      "outletName": "Snackmate-Tejgaon",
+      "logo": "Snackmate-Logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb2f74a7c1a885937ffff"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada95"
+      },
+      "brandName": "Snackmate",
+      "outletName": "Snackmate-Moghbazar",
+      "logo": "Snackmate-Logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe46d"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada98"
+      },
+      "brandName": "Party Pizza",
+      "outletName": "PartyPizza-Tejgaon",
+      "logo": "400x400.png"
+    }
+  ],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-05-01T20:49:49.171Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:23:06.843Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6451b130bd126495525cfcca"
+  },
+  "brands": [
+    {
+      "beneficiary": false,
+      "brandName": "Snackmate",
+      "banner": "Snackmate-banner.png",
+      "logo": "Snackmate-Logo.png",
+      "brandColor": "#007a3c",
+      "textColor": "#ffffff",
+      "subdomain": "snackmate",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb2f74a7c1a885937ffff"
+          },
+          "outletName": "Snackmate-Moghbazar",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb4adde4acae9ffddb7f5"
+          },
+          "outletName": "Snackmate-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada95"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Onnow+",
+      "banner": "Onnow+-banner.jpg",
+      "logo": "Onnow+-logo.png",
+      "brandColor": "#F15B25",
+      "textColor": "#ffffff",
+      "subdomain": "plus",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb4adde4acae9ffddb809"
+          },
+          "outletName": "Onnow-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon",
+            "mohakhali dohs",
+            "mohakhali"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe4c9"
+          },
+          "outletName": "Onnow-Moghbazar",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada96"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Wrappo",
+      "banner": "HungryNaki-2_ldkqutK.jpg",
+      "logo": "Wrappo_Logo.png",
+      "brandColor": "#1240ab",
+      "textColor": "#ffffff",
+      "subdomain": "wrappo",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe499"
+          },
+          "outletName": "Wrappo-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe4b0"
+          },
+          "outletName": "Wrappo-Moghbazar",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada97"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Party Pizza",
+      "banner": "Pathao-2_gFyX3uk.png",
+      "logo": "400x400.png",
+      "brandColor": "#da033e",
+      "textColor": "#ffffff",
+      "subdomain": "partypizza",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe481"
+          },
+          "outletName": "PartyPizza-Tejgaon",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe46d"
+          },
+          "outletName": "PartyPizza-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada98"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Friggy's",
+      "banner": "hungry-naki.jpg",
+      "logo": "600x600.png",
+      "brandColor": "#ec0000",
+      "textColor": "#ffffff",
+      "subdomain": "friggys",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe477"
+          },
+          "outletName": "Friggy's-Moghbazar",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe4a5"
+          },
+          "outletName": "Friggy's-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada99"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Hangrry",
+      "banner": "Hangrry-banner.jpg",
+      "logo": "Hangrry-logo.jpg",
+      "brandColor": "#ed1c25",
+      "textColor": "#fcffee",
+      "subdomain": "hangrry",
+      "outlets": [],
+      "_id": {
+        "$oid": "6463f028d12ff393e352c9fb"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Burger Oppa",
+      "banner": "Burger-Oppa-banner.png",
+      "logo": "Burger-Oppa-logo.png",
+      "brandColor": "#cd007e",
+      "textColor": "#fffd93",
+      "subdomain": "burgeroppa",
+      "outlets": [],
+      "_id": {
+        "$oid": "6463f6afd12ff393e352cba9"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Fuiyoh",
+      "banner": "Fuiyoh-banner.png",
+      "logo": "Fuiyoh-logo.png",
+      "brandColor": "#242f67",
+      "textColor": "#f16223",
+      "subdomain": "fuiyoh",
+      "outlets": [],
+      "_id": {
+        "$oid": "6463f6fad12ff393e352cc54"
+      }
+    }
+  ],
+  "name": "Mehedi Hasan",
+  "profilePic": "Mehedi-Hasan-profilePic.jpeg",
+  "ownerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "creatorId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "email": "mehedi.hasan@onnow.io",
+  "phoneNumber": "8801521561926",
+  "role": "BM",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDUxYjEzMGJkMTI2NDk1NTI1Y2ZjY2EiLCJyb2xlIjoiQk0iLCJpYXQiOjE2ODg5MDAwNjIsImV4cCI6MTY5MTQ5MjA2Mn0.Hv1Q79KSSnRKYsPnuIjmLdHk4ymEG1iAsnMgIle4kuI"
+  ],
+  "outlets": [
+    {
+      "_id": {
+        "$oid": "64649c80d12ff393e352ff7b"
+      },
+      "brandId": {
+        "$oid": "6463f6afd12ff393e352cba9"
+      },
+      "brandName": "Burger Oppa",
+      "outletName": "Burger-Oppa---Tejgaon",
+      "logo": "Burger-Oppa-logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "6464b2dbd12ff393e35305ef"
+      },
+      "brandId": {
+        "$oid": "6463f6afd12ff393e352cba9"
+      },
+      "brandName": "Burger Oppa",
+      "outletName": "Burger-Oppa---Moghbazar",
+      "logo": "Burger-Oppa-logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "6464b5d3d12ff393e3530be5"
+      },
+      "brandId": {
+        "$oid": "6463f6fad12ff393e352cc54"
+      },
+      "brandName": "Fuiyoh",
+      "outletName": "Fuiyoh--Tejgaon",
+      "logo": "Fuiyoh-logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "6465bf0ad12ff393e3535f6b"
+      },
+      "brandId": {
+        "$oid": "6463f028d12ff393e352c9fb"
+      },
+      "brandName": "Hangrry",
+      "outletName": "Hangrry--Tejgaon",
+      "logo": "Hangrry-logo.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "6465c0d9d12ff393e353676b"
+      },
+      "brandId": {
+        "$oid": "6463f028d12ff393e352c9fb"
+      },
+      "brandName": "Hangrry",
+      "outletName": "Hangrry--Moghbazar",
+      "logo": "Hangrry-logo.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "6465c44fd12ff393e3537252"
+      },
+      "brandId": {
+        "$oid": "6463f6fad12ff393e352cc54"
+      },
+      "brandName": "Fuiyoh",
+      "outletName": "Fuiyoh---Moghbazar",
+      "logo": "Fuiyoh-logo.png"
+    }
+  ],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-05-03T00:56:16.626Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-09T10:54:22.783Z"
+  },
+  "__v": 0,
+  "password": "$2a$12$1N8KpSGFHiJtFch3U/6h1OeK6wwmQLPFbLGwPbSJ53YEm3YnQ0qTG"
+},
+{
+  "_id": {
+    "$oid": "6451d8a7bd126495525d00c5"
+  },
+  "brands": [
+    {
+      "beneficiary": false,
+      "brandName": "Onnow",
+      "banner": "HungryNaki-22.jpg",
+      "logo": "Onnow-WhatsApp-1.png",
+      "brandColor": "#F15B25",
+      "textColor": "#ffffff",
+      "subdomain": "order",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb4adde4acae9ffddb809"
+          },
+          "outletName": "Onnow-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon",
+            "mohakhali dohs",
+            "mohakhali"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe4c9"
+          },
+          "outletName": "Onnow-Moghbazar",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada96"
+      }
+    }
+  ],
+  "outlets": [
+    {
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb7f5"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada95"
+      },
+      "brandName": "Snackmate",
+      "outletName": "Snackmate (Tejgaon)",
+      "logo": "Snackmate-Logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb809"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada96"
+      },
+      "brandName": "Onnow",
+      "outletName": "Onnow+ (Tejgaon)",
+      "logo": "Onnow-WhatsApp-1.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe46d"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada98"
+      },
+      "brandName": "Party Pizza",
+      "outletName": "Party Pizza (Tejgaon)",
+      "logo": "400x400.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe499"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada97"
+      },
+      "brandName": "Wrappo",
+      "outletName": "Wrappo (Tejgaon)",
+      "logo": "Wrappo_Logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4a5"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada99"
+      },
+      "brandName": "Friggy's",
+      "outletName": "Friggy's (Tejgaon)",
+      "logo": "600x600.png"
+    },
+    {
+      "_id": {
+        "$oid": "64649c80d12ff393e352ff7b"
+      },
+      "brandId": {
+        "$oid": "6463f6afd12ff393e352cba9"
+      },
+      "brandName": "Burger Oppa",
+      "outletName": "Burger Oppa (Tejgaon)",
+      "logo": "Burger-Oppa-logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "6464b5d3d12ff393e3530be5"
+      },
+      "brandId": {
+        "$oid": "6463f6fad12ff393e352cc54"
+      },
+      "brandName": "Fuiyoh",
+      "outletName": "Fuiyoh (Tejgaon)",
+      "logo": "Fuiyoh-logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "6465bf0ad12ff393e3535f6b"
+      },
+      "brandId": {
+        "$oid": "6463f028d12ff393e352c9fb"
+      },
+      "brandName": "Hangrry",
+      "outletName": "Hangrry (Tejgaon)",
+      "logo": "Hangrry-logo.jpg"
+    }
+  ],
+  "name": "DTN",
+  "profilePic": "DTN-profilePic.jpeg",
+  "ownerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "creatorId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "email": "dtn@ghostkitchen.com.bd",
+  "phoneNumber": "8801714245644",
+  "role": "OM",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDUxZDhhN2JkMTI2NDk1NTI1ZDAwYzUiLCJyb2xlIjoiT00iLCJpYXQiOjE2ODkxNjU0MTQsImV4cCI6MTY5MTc1NzQxNH0.SEpsTLdZ4j_Xex7I6e3wAl2UkgUxUf_xlxEd3yVibpw"
+  ],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-05-03T03:44:39.238Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-12T12:36:54.132Z"
+  },
+  "__v": 0,
+  "password": "$2a$04$L5tOf3TOO0LiSctPVHxEeeEX/V.LpTd18ncvfZ/ohHyYPf0gr.byu"
+},
+{
+  "_id": {
+    "$oid": "64523623bd126495525d1f02"
+  },
+  "brands": [
+    {
+      "beneficiary": false,
+      "brandName": "Snackmate",
+      "banner": "Snackmate-banner.png",
+      "logo": "Snackmate-Logo.png",
+      "brandColor": "#007a3c",
+      "textColor": "#ffffff",
+      "subdomain": "snackmate",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb2f74a7c1a885937ffff"
+          },
+          "outletName": "Snackmate-Moghbazar",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb4adde4acae9ffddb7f5"
+          },
+          "outletName": "Snackmate-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada95"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Onnow",
+      "banner": "HungryNaki-22.jpg",
+      "logo": "Onnow-WhatsApp-1.png",
+      "brandColor": "#F15B25",
+      "textColor": "#ffffff",
+      "subdomain": "order",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb4adde4acae9ffddb809"
+          },
+          "outletName": "Onnow-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon",
+            "mohakhali dohs",
+            "mohakhali"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe4c9"
+          },
+          "outletName": "Onnow-Moghbazar",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada96"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Wrappo",
+      "banner": "HungryNaki-2_ldkqutK.jpg",
+      "logo": "Wrappo_Logo.png",
+      "brandColor": "#1240ab",
+      "textColor": "#ffffff",
+      "subdomain": "wrappo",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe499"
+          },
+          "outletName": "Wrappo-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe4b0"
+          },
+          "outletName": "Wrappo-Moghbazar",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada97"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Party Pizza",
+      "banner": "Pathao-2_gFyX3uk.png",
+      "logo": "400x400.png",
+      "brandColor": "#da033e",
+      "textColor": "#ffffff",
+      "subdomain": "partypizza",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe481"
+          },
+          "outletName": "PartyPizza-Tejgaon",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe46d"
+          },
+          "outletName": "PartyPizza-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada98"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Friggy's",
+      "banner": "hungry-naki.jpg",
+      "logo": "600x600.png",
+      "brandColor": "#ec0000",
+      "textColor": "#ffffff",
+      "subdomain": "friggys",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe477"
+          },
+          "outletName": "Friggy's-Moghbazar",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe4a5"
+          },
+          "outletName": "Friggy's-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada99"
+      }
+    }
+  ],
+  "outlets": [
+    {
+      "_id": {
+        "$oid": "644eb2f74a7c1a885937ffff"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada95"
+      },
+      "brandName": "Snackmate",
+      "outletName": "Snackmate (Moghbazar)",
+      "logo": "Snackmate-Logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb7f5"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada95"
+      },
+      "brandName": "Snackmate",
+      "outletName": "Snackmate (Tejgaon)",
+      "logo": "Snackmate-Logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb809"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada96"
+      },
+      "brandName": "Onnow",
+      "outletName": "Onnow+ (Tejgaon)",
+      "logo": "Onnow-WhatsApp-1.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe46d"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada98"
+      },
+      "brandName": "Party Pizza",
+      "outletName": "Party Pizza (Tejgaon)",
+      "logo": "400x400.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe477"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada99"
+      },
+      "brandName": "Friggy's",
+      "outletName": "Friggy's (Moghbazar)",
+      "logo": "600x600.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe481"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada98"
+      },
+      "brandName": "Party Pizza",
+      "outletName": "Party Pizza (Moghbazar)",
+      "logo": "400x400.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe499"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada97"
+      },
+      "brandName": "Wrappo",
+      "outletName": "Wrappo (Tejgaon)",
+      "logo": "Wrappo_Logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4a5"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada99"
+      },
+      "brandName": "Friggy's",
+      "outletName": "Friggy's (Tejgaon)",
+      "logo": "600x600.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4b0"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada97"
+      },
+      "brandName": "Wrappo",
+      "outletName": "Wrappo (Moghbazar)",
+      "logo": "Wrappo_Logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4c9"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada96"
+      },
+      "brandName": "Onnow",
+      "outletName": "Onnow+ (Moghbazar)",
+      "logo": "Onnow-WhatsApp-1.png"
+    },
+    {
+      "_id": {
+        "$oid": "64649c80d12ff393e352ff7b"
+      },
+      "brandId": {
+        "$oid": "6463f6afd12ff393e352cba9"
+      },
+      "brandName": "Burger Oppa",
+      "outletName": "Burger Oppa (Tejgaon)",
+      "logo": "Burger-Oppa-logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "6464b2dbd12ff393e35305ef"
+      },
+      "brandId": {
+        "$oid": "6463f6afd12ff393e352cba9"
+      },
+      "brandName": "Burger Oppa",
+      "outletName": "Burger Oppa (Moghbazar)",
+      "logo": "Burger-Oppa-logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "6464b5d3d12ff393e3530be5"
+      },
+      "brandId": {
+        "$oid": "6463f6fad12ff393e352cc54"
+      },
+      "brandName": "Fuiyoh",
+      "outletName": "Fuiyoh (Tejgaon)",
+      "logo": "Fuiyoh-logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "6465bf0ad12ff393e3535f6b"
+      },
+      "brandId": {
+        "$oid": "6463f028d12ff393e352c9fb"
+      },
+      "brandName": "Hangrry",
+      "outletName": "Hangrry (Tejgaon)",
+      "logo": "Hangrry-logo.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "6465c0d9d12ff393e353676b"
+      },
+      "brandId": {
+        "$oid": "6463f028d12ff393e352c9fb"
+      },
+      "brandName": "Hangrry",
+      "outletName": "Hangrry (Moghbazar)",
+      "logo": "Hangrry-logo.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "6465c44fd12ff393e3537252"
+      },
+      "brandId": {
+        "$oid": "6463f6fad12ff393e352cc54"
+      },
+      "brandName": "Fuiyoh",
+      "outletName": "Fuiyoh (Moghbazar)",
+      "logo": "Fuiyoh-logo.png"
+    }
+  ],
+  "name": "Faiyaz-DTN+DMR",
+  "profilePic": "Faiyaz-DTN+DMR-profilePic.jpeg",
+  "ownerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "creatorId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "email": "faiyaz@onnow.io",
+  "phoneNumber": "8801679366616",
+  "role": "OM",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDUyMzYyM2JkMTI2NDk1NTI1ZDFmMDIiLCJyb2xlIjoiT00iLCJpYXQiOjE2ODQzODcwNDgsImV4cCI6MTY4Njk3OTA0OH0.BOLTJUW19SyQY9EHLqDtifIz2v-0M8sCsWZ7POS1UAc"
+  ],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-05-03T10:23:31.101Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-09T08:40:03.680Z"
+  },
+  "__v": 0,
+  "password": "$2a$04$eM0zBRxulsYt8GbjkAhpMOJJockuE3mJ7Q9MGfMn3uN0OM/Wal5Ai"
+},
+{
+  "_id": {
+    "$oid": "64524e59bd126495525d4172"
+  },
+  "brands": [
+    {
+      "beneficiary": false,
+      "brandName": "Snackmate",
+      "banner": "Snackmate-banner.png",
+      "logo": "Snackmate-Logo.png",
+      "brandColor": "#007a3c",
+      "textColor": "#ffffff",
+      "subdomain": "snackmate",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb2f74a7c1a885937ffff"
+          },
+          "outletName": "Snackmate-Moghbazar",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb4adde4acae9ffddb7f5"
+          },
+          "outletName": "Snackmate-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada95"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Onnow",
+      "banner": "HungryNaki-22.jpg",
+      "logo": "Onnow-WhatsApp-1.png",
+      "brandColor": "#F15B25",
+      "textColor": "#ffffff",
+      "subdomain": "order",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb4adde4acae9ffddb809"
+          },
+          "outletName": "Onnow-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon",
+            "mohakhali dohs",
+            "mohakhali"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe4c9"
+          },
+          "outletName": "Onnow-Moghbazar",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada96"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Wrappo",
+      "banner": "HungryNaki-2_ldkqutK.jpg",
+      "logo": "Wrappo_Logo.png",
+      "brandColor": "#1240ab",
+      "textColor": "#ffffff",
+      "subdomain": "wrappo",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe499"
+          },
+          "outletName": "Wrappo-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe4b0"
+          },
+          "outletName": "Wrappo-Moghbazar",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada97"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Party Pizza",
+      "banner": "Pathao-2_gFyX3uk.png",
+      "logo": "400x400.png",
+      "brandColor": "#da033e",
+      "textColor": "#ffffff",
+      "subdomain": "partypizza",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe481"
+          },
+          "outletName": "PartyPizza-Tejgaon",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe46d"
+          },
+          "outletName": "PartyPizza-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada98"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Friggy's",
+      "banner": "hungry-naki.jpg",
+      "logo": "600x600.png",
+      "brandColor": "#ec0000",
+      "textColor": "#ffffff",
+      "subdomain": "friggys",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe477"
+          },
+          "outletName": "Friggy's-Moghbazar",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe4a5"
+          },
+          "outletName": "Friggy's-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada99"
+      }
+    }
+  ],
+  "outlets": [
+    {
+      "_id": {
+        "$oid": "644eb2f74a7c1a885937ffff"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada95"
+      },
+      "brandName": "Snackmate",
+      "outletName": "Snackmate (Moghbazar)",
+      "logo": "Snackmate-Logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe477"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada99"
+      },
+      "brandName": "Friggy's",
+      "outletName": "Friggy's (Moghbazar)",
+      "logo": "600x600.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe481"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada98"
+      },
+      "brandName": "Party Pizza",
+      "outletName": "Party Pizza (Moghbazar)",
+      "logo": "400x400.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4b0"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada97"
+      },
+      "brandName": "Wrappo",
+      "outletName": "Wrappo (Moghbazar)",
+      "logo": "Wrappo_Logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4c9"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada96"
+      },
+      "brandName": "Onnow",
+      "outletName": "Onnow+ (Moghbazar)",
+      "logo": "Onnow-WhatsApp-1.png"
+    },
+    {
+      "_id": {
+        "$oid": "6464b2dbd12ff393e35305ef"
+      },
+      "brandId": {
+        "$oid": "6463f6afd12ff393e352cba9"
+      },
+      "brandName": "Burger Oppa",
+      "outletName": "Burger Oppa (Moghbazar)",
+      "logo": "Burger-Oppa-logo.png"
+    },
+    {
+      "_id": {
+        "$oid": "6465c0d9d12ff393e353676b"
+      },
+      "brandId": {
+        "$oid": "6463f028d12ff393e352c9fb"
+      },
+      "brandName": "Hangrry",
+      "outletName": "Hangrry (Moghbazar)",
+      "logo": "Hangrry-logo.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "6465c44fd12ff393e3537252"
+      },
+      "brandId": {
+        "$oid": "6463f6fad12ff393e352cc54"
+      },
+      "brandName": "Fuiyoh",
+      "outletName": "Fuiyoh (Moghbazar)",
+      "logo": "Fuiyoh-logo.png"
+    }
+  ],
+  "name": "DMR",
+  "profilePic": "DMR-profilePic.jpeg",
+  "ownerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "creatorId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "email": "dmronnow382@gmail.com",
+  "phoneNumber": "8801404577245",
+  "role": "OM",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDUyNGU1OWJkMTI2NDk1NTI1ZDQxNzIiLCJyb2xlIjoiT00iLCJpYXQiOjE2ODkxNjU0MjUsImV4cCI6MTY5MTc1NzQyNX0.9uyz7WxokkkxUvP8KLSdhAgh0ZrNXAaPdQfFt-frhbg"
+  ],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-05-03T12:06:49.772Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-12T12:37:05.099Z"
+  },
+  "__v": 0,
+  "password": "$2a$04$FDRCHVKpEq3/1iuDkww7F.6gRSWsHsNaTsa9QjwTAVBNEpIAFiUmK"
+},
+{
+  "_id": {
+    "$oid": "6452619bbd126495525d70cb"
+  },
+  "name": "Sahad",
+  "email": "javedp145@gmail.com",
+  "phoneNumber": "8801951446474",
+  "password": "$2a$10$2LHd5j5Kgo9ERGXQkiEHLeJcvrRr1njVrEJmcXOXQxTHGa0JkKF7m",
+  "role": "ACO",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDUyNjE5YmJkMTI2NDk1NTI1ZDcwY2IiLCJyb2xlIjoiQUNPIiwiaWF0IjoxNjgzMTIwNTU5LCJleHAiOjE2ODU3MTI1NTl9.GWJRa34x82hJ8pJWE_XpcMBhLopCyHxSMQAqB5TCzx4"
+  ],
+  "brands": [],
+  "outlets": [],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-05-03T13:28:59.940Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T13:29:19.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6452c7e227173b36bbf59dec"
+  },
+  "name": "Rakib Ullah",
+  "email": "rakibullah2014@gmail.com",
+  "phoneNumber": "8801624131260",
+  "password": "$2a$10$3thDcUBCzZcqFQuqkcmsiea9w5vZX54.d9FJj7s4W2s1TkY6Nzysy",
+  "role": "ACO",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDUyYzdlMjI3MTczYjM2YmJmNTlkZWMiLCJyb2xlIjoiQUNPIiwiaWF0IjoxNjg1OTQwMjI1LCJleHAiOjE2ODg1MzIyMjV9.xP3LbuRiyU5BdqZrEDOM2Z85jQWY2-NNs817JH5QU_Q"
+  ],
+  "brands": [],
+  "outlets": [],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-05-03T20:45:22.600Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-05T04:43:45.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6453abe20b5b3105c27c0845"
+  },
+  "name": "yemage6158@larland.com",
+  "email": "yemage6158@larland.com",
+  "phoneNumber": "8801945979821",
+  "password": "$2a$10$fjznOsIz0crkTQ3eE7jYR.5Pas2TRJmhZBxwmCZt9skLbhcObA1im",
+  "role": "ACO",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDUzYWJlMjBiNWIzMTA1YzI3YzA4NDUiLCJyb2xlIjoiQUNPIiwiaWF0IjoxNjgzMjA1MTA1LCJleHAiOjE2ODU3OTcxMDV9.V9TQt60fvkSm2FQLknVD_Kc13NL3fi29juM7wVn_3-c"
+  ],
+  "brands": [],
+  "outlets": [],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-05-04T12:58:10.004Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-04T12:58:25.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6454cfc80b5b3105c27c4082"
+  },
+  "brands": [],
+  "name": "Zahed Hasan",
+  "profilePic": "Zahed-Hasan-profilePic.png",
+  "ownerId": {
+    "$oid": "6452c7e227173b36bbf59dec"
+  },
+  "creatorId": {
+    "$oid": "6452c7e227173b36bbf59dec"
+  },
+  "email": "zahedhasan.cs@gmail.com",
+  "phoneNumber": "8801789118134",
+  "role": "BM",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDU0Y2ZjODBiNWIzMTA1YzI3YzQwODIiLCJyb2xlIjoiQk0iLCJpYXQiOjE2ODM5OTEzMjAsImV4cCI6MTY4NjU4MzMyMH0.454RcH3KHpFwtTQQkAkYxWXSWol20Bo3gkFBYCNoIVI"
+  ],
+  "outlets": [],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-05-05T09:43:36.291Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-04T13:12:47.765Z"
+  },
+  "__v": 0,
+  "password": "$2a$10$qHxiu1VC28hi89ui4bJ6FOk7ALTlfu4E0Htck/5ZKBcv5eH.nrtZK"
+},
+{
+  "_id": {
+    "$oid": "64565661f64a21f9da1bf3ce"
+  },
+  "brands": [],
+  "outlets": [],
+  "name": "Saul",
+  "profilePic": "Saul-profilePic.png",
+  "ownerId": {
+    "$oid": "6452c7e227173b36bbf59dec"
+  },
+  "creatorId": {
+    "$oid": "6454cfc80b5b3105c27c4082"
+  },
+  "email": "yostedufyu@gufum.com",
+  "phoneNumber": "8801742980212",
+  "role": "OM",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDU2NTY2MWY2NGEyMWY5ZGExYmYzY2UiLCJyb2xlIjoiT00iLCJpYXQiOjE2ODM0NDYxOTcsImV4cCI6MTY4NjAzODE5N30.wEvDs_rdmUbvPFcrCSvJWFql7SPZ4B-KJZj0iZDr7FU"
+  ],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-05-06T13:30:09.602Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-04T13:12:47.765Z"
+  },
+  "__v": 0,
+  "password": "$2a$10$sYygcxJzApOkgRqXTakEhOB3k7CMv.37coJEgBSQl3Jc0KEKY6y46"
+},
+{
+  "_id": {
+    "$oid": "645c4a19d4314481c771b342"
+  },
+  "name": "Mostafizur Rahman Sihan",
+  "email": "sihan@onnow.io",
+  "phoneNumber": "8801934609635",
+  "password": "$2a$10$rhdfdo.HJ8M6SjIOxpT0H.ZWK7a8oSzs2WaCn/S3fTXxENXxA5DOK",
+  "role": "ACO",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDVjNGExOWQ0MzE0NDgxYzc3MWIzNDIiLCJyb2xlIjoiQUNPIiwiaWF0IjoxNjgzNzY5OTIzLCJleHAiOjE2ODYzNjE5MjN9.b3K-m4yT8b1NB1isamkNPcqm0zj3qFptDpJ3AVi5saE"
+  ],
+  "brands": [],
+  "outlets": [],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-05-11T01:51:21.325Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-11T01:52:03.756Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64600f18fc3e2f5cceb1fac5"
+  },
+  "brands": [],
+  "name": "Rakib",
+  "profilePic": "Rakib-profilePic.jpg",
+  "ownerId": {
+    "$oid": "6452c7e227173b36bbf59dec"
+  },
+  "creatorId": {
+    "$oid": "6452c7e227173b36bbf59dec"
+  },
+  "email": "rakibullahhtuc@gmail.com",
+  "phoneNumber": "8801624131260",
+  "role": "BM",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDYwMGYxOGZjM2UyZjVjY2ViMWZhYzUiLCJyb2xlIjoiQk0iLCJpYXQiOjE2ODQwMTc3MzIsImV4cCI6MTY4NjYwOTczMn0.ItLby_kx4f0i9FrEcMm7UmJviL5JIhBXfHroPydfLGI"
+  ],
+  "outlets": [],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-05-13T22:28:40.703Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-04T13:12:47.765Z"
+  },
+  "__v": 0,
+  "password": "$2a$10$408jQwEpBftO5IiZA2sMou8PtuOKWFBJ3KWWLsPHpe9zxzF2CYr4K"
+},
+{
+  "_id": {
+    "$oid": "6464d26dd12ff393e3531506"
+  },
+  "name": "Sahad",
+  "email": "sahad@onnow.io",
+  "phoneNumber": "8801951446474",
+  "password": "$2a$10$wMSlwhoaps3Q0GKC7yszpeKNf7rCytxDnHDEYQO7BuOawtXCjMITe",
+  "role": "ACO",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDY0ZDI2ZGQxMmZmMzkzZTM1MzE1MDYiLCJyb2xlIjoiQUNPIiwiaWF0IjoxNjg0MzI5MDg5LCJleHAiOjE2ODY5MjEwODl9.8jf0Ldby4OVcGlMBaaIpbA6MkGOtyK_fSDDFwBJJF5s"
+  ],
+  "brands": [],
+  "outlets": [],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-05-17T13:11:09.078Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-17T13:11:29.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64651453d12ff393e35328b0"
+  },
+  "name": "<script>alert(1)</script>",
+  "email": "nabole4904@aicogz.com",
+  "phoneNumber": "8801712651332",
+  "password": "$2a$10$zMG8NA9IaDY/ctJYWMsZQOxMPIyIjtoppDcogY4Sf.hrli5bq0XH2",
+  "role": "ACO",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDY1MTQ1M2QxMmZmMzkzZTM1MzI4YjAiLCJyb2xlIjoiQUNPIiwiaWF0IjoxNjg0MzQ5NDY2LCJleHAiOjE2ODY5NDE0NjZ9.xlU7VVrikC5RQ39CdNDa0qq7glDHubzcfQn_i4lmaJ0"
+  ],
+  "brands": [
+    {
+      "beneficiary": true,
+      "brandName": "Onnow+",
+      "banner": "Onnow+-banner.jpg",
+      "logo": "Onnow+-logo.png",
+      "brandColor": "#F15B25",
+      "textColor": "#ffffff",
+      "subdomain": "plus",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb4adde4acae9ffddb809"
+          },
+          "outletName": "Onnow-Tejgaon",
+          "deliveryArea": [
+            "shahinbagh",
+            "nabisco",
+            "farmgate",
+            "niketan",
+            "arjatpara",
+            "begunbari",
+            "bijay sharani",
+            "nakhalpara",
+            "gulshan-1",
+            "monipuri para",
+            "saat rasta",
+            "tejkunipara",
+            "tejgaon",
+            "mohakhali dohs",
+            "mohakhali"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe4c9"
+          },
+          "outletName": "Onnow-Moghbazar",
+          "deliveryArea": [
+            "baily road",
+            "bangla motor",
+            "kakrail",
+            "kathalbagan",
+            "kawran bazar",
+            "malibagh",
+            "mirbag",
+            "moghbazar",
+            "new eskaton",
+            "old eskaton",
+            "paribagh",
+            "ramna",
+            "shahbagh",
+            "shantibag",
+            "shegunbagicha",
+            "siddheshwari"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada96"
+      }
+    }
+  ],
+  "outlets": [],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-05-17T17:52:19.190Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-17T18:51:06.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6479864962ab5dc3c12bb0dc"
+  },
+  "name": "MD LINKON ISLAM ",
+  "email": "poragchowdhury10@gmail.com",
+  "phoneNumber": "8801862242354",
+  "password": "$2a$10$WgF1bLOFuNl0/VAEjIi8c.cAes/V6xkIn6zIP7J51EaxFzW3Lm7FC",
+  "role": "ACO",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDc5ODY0OTYyYWI1ZGMzYzEyYmIwZGMiLCJyb2xlIjoiQUNPIiwiaWF0IjoxNjg1Njg1ODUyLCJleHAiOjE2ODgyNzc4NTJ9.BZzAr4-eepPkYOtL_6j3goa7lpQSwUH0y34uAP-AFKk"
+  ],
+  "brands": [],
+  "outlets": [],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-06-02T06:03:53.555Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-02T06:04:12.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647a4e9462ab5dc3c12c187c"
+  },
+  "name": "Sakib ",
+  "email": "malolij728@onlcool.com",
+  "phoneNumber": "8801834923596",
+  "password": "$2a$10$JjLv30Gu4UKKV1uTfwt9geJ43d3Ra7F2FlSY4Qy0keDuqKwCuBmuS",
+  "role": "ACO",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDdhNGU5NDYyYWI1ZGMzYzEyYzE4N2MiLCJyb2xlIjoiQUNPIiwiaWF0IjoxNjg1NzY5OTI2LCJleHAiOjE2ODgzNjE5MjZ9.0oMWzoBYYSaXXuAeXAfDF4iMbRkCfxJH-m9Loh6_i5E"
+  ],
+  "brands": [
+    {
+      "beneficiary": false,
+      "brandName": "yyuuy",
+      "banner": "yyuuy-banner.jpg",
+      "logo": "yyuuy-logo.jpeg",
+      "brandColor": "#04852e",
+      "textColor": "#ED174C",
+      "subdomain": "yyuu",
+      "outlets": [],
+      "_id": {
+        "$oid": "647a598462ab5dc3c12c1a0f"
+      }
+    }
+  ],
+  "outlets": [],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-06-02T20:18:28.081Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-03T07:25:25.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6481d6cbb4fbe6b69adfc568"
+  },
+  "name": "Md Arif",
+  "email": "williamsonlynn94@gmail.com",
+  "phoneNumber": "8801768453430",
+  "password": "$2a$10$jTke70FcxQ2MztVDzGlc6uihgBIM0CgzBeHp8VPi9i7Ail1LcD1PC",
+  "role": "ACO",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDgxZDZjYmI0ZmJlNmI2OWFkZmM1NjgiLCJyb2xlIjoiQUNPIiwiaWF0IjoxNjg2MjMwNzY4LCJleHAiOjE2ODg4MjI3Njh9.kXneOS6BA4WDK7hyKdYi1tt6zKH9_aj1Cdd1WXHDStg"
+  ],
+  "brands": [],
+  "outlets": [],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-06-08T13:25:31.363Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T13:26:08.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6482091f963129aabc10e129"
+  },
+  "brands": [
+    {
+      "beneficiary": false,
+      "brandName": "Wrappo",
+      "banner": "HungryNaki-2_ldkqutK.jpg",
+      "logo": "Wrappo_Logo.png",
+      "brandColor": "#1240ab",
+      "textColor": "#ffffff",
+      "subdomain": "wrappo",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe499"
+          },
+          "outletName": "Wrappo (Tejgaon)",
+          "deliveryArea": [
+            "Shahinbag",
+            "Nabisco",
+            "Farmgate",
+            "Niketan",
+            "Arjatpara",
+            "Begunbari",
+            " Bijoy Sarani",
+            "Nakhalpara",
+            " Gulshan 1",
+            "Monipuripara",
+            "Satrasta",
+            "Tejkunipara",
+            "Tejgaon"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe4b0"
+          },
+          "outletName": "Wrappo (Moghbazar)",
+          "deliveryArea": [
+            "Baily Road",
+            "Bangla Motor",
+            "Kakrail",
+            "Kathalbagan",
+            "Kawran Bazar",
+            "Malibagh",
+            "Mirbag",
+            "Moghbazar",
+            "New Eskaton",
+            "Old Eskaton",
+            "Paribagh",
+            "Ramna",
+            "Shahbagh",
+            "Shantibag",
+            "Shegunbagicha",
+            "Shiddheswari"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "6481be89b4fbe6b69adf8bed"
+          },
+          "outletName": "Wrappo (BYLC Career Expo)",
+          "deliveryArea": [
+            "bylc career expo hall"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada97"
+      }
+    }
+  ],
+  "outlets": [],
+  "name": "Mahaz (BYLC)",
+  "profilePic": "Mahaz (BYLC)-profilePic.jpeg",
+  "ownerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "creatorId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "email": "mahaz@onnow.io",
+  "phoneNumber": "8801913508151",
+  "role": "OM",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDgyMDkxZjk2MzEyOWFhYmMxMGUxMjkiLCJyb2xlIjoiT00iLCJpYXQiOjE2ODYzNzEwMzMsImV4cCI6MTY4ODk2MzAzM30.xYXLwcQzos8fpmd4qMKyy0GLvVupcD-081HD_aESVfc"
+  ],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-06-08T17:00:15.375Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-10T04:23:53.538Z"
+  },
+  "__v": 0,
+  "password": "$2a$10$2PTIUyLPcZw1mP4r1KPrC.Ct9lG9L3QimLE/KHrmFafwY1OyiaIiO"
+},
+{
+  "_id": {
+    "$oid": "648f017b7299ac63ddae743a"
+  },
+  "name": "sakib",
+  "email": "bawiki3269@aaorsi.com",
+  "phoneNumber": "8801874053247",
+  "password": "$2a$10$mjuZONN92V5R1JBnLMdLVu0BHcdGFjhxMb0HhCvramsU7dIpIt8am",
+  "role": "ACO",
+  "isActive": false,
+  "isVerified": false,
+  "refreshToken": [],
+  "brands": [],
+  "outlets": [],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-06-18T13:07:07.497Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-18T13:08:09.710Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ae53f8ff16c223f819ae25"
+  },
+  "name": "tacode",
+  "email": "tacode7812@nasskar.com",
+  "phoneNumber": "8801954878155",
+  "password": "$2a$10$m6BRh8krZpGOfDSkaznPjOJg/Sy5lmsqGyJGL6FztVRdBdWMpIcJG",
+  "role": "ACO",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NGFlNTNmOGZmMTZjMjIzZjgxOWFlMjUiLCJyb2xlIjoiQUNPIiwiaWF0IjoxNjg5MTQ2MzgyLCJleHAiOjE2OTE3MzgzODJ9.71RziEgymT0e36nX-wozxMDNVQVaYsTZ4iKuqJn_y0c"
+  ],
+  "brands": [
+    {
+      "beneficiary": true,
+      "brandName": "Burger Oppa",
+      "banner": "Burger-Oppa-banner.jpg",
+      "logo": "Burger-Oppa-logo.png",
+      "brandColor": "#cd007e",
+      "textColor": "#fffd93",
+      "subdomain": "burgeroppa",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "64649c80d12ff393e352ff7b"
+          },
+          "outletName": "Burger Oppa (Tejgaon)",
+          "deliveryArea": [
+            "Shahinbag",
+            "Nabisco",
+            "Farmgate",
+            "Niketan",
+            "Arjatpara",
+            "Begunbari",
+            "Bijoy Sarani",
+            "Nakhalpara",
+            "Gulshan 1",
+            "Monipuripara",
+            "Satrasta",
+            "Tejkunipara",
+            "Tejgaon",
+            "Mohakhali"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "6464b2dbd12ff393e35305ef"
+          },
+          "outletName": "Burger Oppa (Moghbazar)",
+          "deliveryArea": [
+            "Baily Road",
+            "Bangla Motor",
+            "Kakrail",
+            "Kathalbagan",
+            "Kawran Bazar",
+            "Malibagh",
+            "Mirbag",
+            "Moghbazar",
+            "New Eskaton",
+            "Old Eskaton",
+            "Paribagh",
+            "Ramna",
+            " Shahbagh",
+            "Shantibag",
+            "Shegunbagicha",
+            "Shiddheswari"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "6463f6afd12ff393e352cba9"
+      }
+    }
+  ],
+  "outlets": [],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-07-12T07:19:20.918Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-12T07:21:13.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64af174950cb308dfb2aed0a"
+  },
+  "name": "super-admin",
+  "email": "super-admin@gmail.com",
+  "phoneNumber": "8801691190934",
+  "password": "$2a$10$LHLnLzb9AJOVlxOSWY7p7uM2Z5QlwEFhIi1Fly0ONviyTs.8YyCTm",
+  "otp": 8949,
+  "role": "SA",
+  "isActive": true,
+  "isVerified": true,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NGFmMTc0OTUwY2IzMDhkZmIyYWVkMGEiLCJyb2xlIjoiU0EiLCJpYXQiOjE2OTMwODM3ODEsImV4cCI6MTY5NTY3NTc4MX0.9l0R8KUPR4iGVInio5-oS0WT_s1RNI8ehzqiymGpaWM"
+  ],
+  "brands": [],
+  "outlets": [],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-07-12T21:12:41.856Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T21:03:01.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c01b621e8b1dd66b3dac3"
+  },
+  "brands": [
+    {
+      "beneficiary": false,
+      "brandName": "Fuiyoh",
+      "banner": "Fuiyoh-banner.jpg",
+      "logo": "Fuiyoh-logo.png",
+      "brandColor": "#242f67",
+      "textColor": "#f16223",
+      "subdomain": "fuiyoh",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "6464b5d3d12ff393e3530be5"
+          },
+          "outletName": "Fuiyoh (Tejgaon)",
+          "deliveryArea": [
+            "Shahinbag",
+            "Nabisco",
+            "Farmgate",
+            "Niketan",
+            "Arjatpara",
+            "Begunbari",
+            " Bijoy Sarani",
+            "Nakhalpara",
+            "Gulshan 1",
+            "Monipuripara",
+            "Satrasta",
+            "Tejkunipara",
+            "Tejgaon",
+            "Mohakhali"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "6465c44fd12ff393e3537252"
+          },
+          "outletName": "Fuiyoh (Moghbazar)",
+          "deliveryArea": [
+            "Baily Road",
+            "Bangla Motor",
+            "Kakrail",
+            "Kathalbagan",
+            " Kawran Bazar",
+            "Malibagh",
+            "Mirbag",
+            " Moghbazar",
+            " New Eskaton",
+            "Old Eskaton",
+            "Paribagh",
+            "Ramna",
+            " Shahbagh",
+            " Shantibag",
+            "Shegunbagicha",
+            "Shiddheswari"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "6463f6fad12ff393e352cc54"
+      }
+    }
+  ],
+  "outlets": [
+    {
+      "_id": {
+        "$oid": "6465c44fd12ff393e3537252"
+      },
+      "brandId": {
+        "$oid": "6463f6fad12ff393e352cc54"
+      },
+      "brandName": "Fuiyoh",
+      "outletName": "Fuiyoh (Moghbazar)",
+      "logo": "Fuiyoh-logo.png"
+    }
+  ],
+  "name": "New Manager",
+  "profilePic": "New Manager-profilePic.jpg",
+  "ownerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "creatorId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "email": "manager@onnow.io",
+  "phoneNumber": "8801771493642",
+  "role": "OM",
+  "isActive": false,
+  "isVerified": false,
+  "refreshToken": [],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-10-03T11:57:42.455Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T11:57:42.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c26964c30672ce9cc8c6c"
+  },
+  "brands": [
+    {
+      "beneficiary": false,
+      "brandName": "Party Pizza",
+      "banner": "Party-Pizza-banner.png",
+      "logo": "400x400.png",
+      "brandColor": "#da033e",
+      "textColor": "#ffffff",
+      "subdomain": "partypizza",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe481"
+          },
+          "outletName": "Party Pizza (Moghbazar)",
+          "deliveryArea": [
+            "Baily Road",
+            "Bangla Motor",
+            "Kakrail",
+            "Kathalbagan",
+            "Kawran Bazar",
+            "Malibagh",
+            "Mirbag",
+            "Moghbazar",
+            "New Eskaton",
+            " Old Eskaton",
+            "Paribagh",
+            "Ramna",
+            "Shahbagh",
+            "Shantibag",
+            "Shegunbagicha",
+            "Shiddheswari"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe46d"
+          },
+          "outletName": "Party Pizza (Tejgaon)",
+          "deliveryArea": [
+            "Shahinbag",
+            "Nabisco",
+            "Farmgate",
+            "Niketan",
+            "Arjatpara",
+            "Begunbari",
+            "Bijoy Sarani",
+            "Nakhalpara",
+            "Gulshan 1",
+            "Monipuripara",
+            "Satrasta",
+            "Tejkunipara",
+            "Tejgaon",
+            "Mohakhali"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada98"
+      }
+    },
+    {
+      "beneficiary": false,
+      "brandName": "Friggy's",
+      "banner": "hungry-naki.jpg",
+      "logo": "600x600.png",
+      "brandColor": "#ec0000",
+      "textColor": "#ffffff",
+      "subdomain": "friggys",
+      "outlets": [
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe477"
+          },
+          "outletName": "Friggy's (Moghbazar)",
+          "deliveryArea": [
+            "Baily Road",
+            "Bangla Motor",
+            "Kakrail",
+            "Kathalbagan",
+            "Kawran Bazar",
+            "Malibagh",
+            "Mirbag",
+            "Moghbazar",
+            "New Eskaton",
+            "Old Eskaton",
+            "Paribagh",
+            "Ramna",
+            "Shahbagh",
+            "Shantibag",
+            "Shegunbagicha",
+            "Shiddheswari"
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "644eb612848356fddbcfe4a5"
+          },
+          "outletName": "Friggy's (Tejgaon)",
+          "deliveryArea": [
+            "Shahinbag",
+            "Nabisco",
+            "Farmgate",
+            " Niketan",
+            "Arjatpara",
+            "Begunbari",
+            "Bijoy Sarani",
+            "Nakhalpara",
+            "Gulshan 1",
+            "Monipuripara",
+            "Satrasta",
+            "Tejkunipara",
+            "Tejgaon",
+            "Mohakhali"
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "644ea9c871353d592c2ada99"
+      }
+    }
+  ],
+  "outlets": [
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe477"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada99"
+      },
+      "brandName": "Friggy's",
+      "outletName": "Friggy's (Moghbazar)",
+      "logo": "600x600.png"
+    },
+    {
+      "_id": {
+        "$oid": "644eb612848356fddbcfe481"
+      },
+      "brandId": {
+        "$oid": "644ea9c871353d592c2ada98"
+      },
+      "brandName": "Party Pizza",
+      "outletName": "Party Pizza (Moghbazar)",
+      "logo": "400x400.png"
+    }
+  ],
+  "name": "Zahed-Sysco",
+  "profilePic": "Zahed-Sysco-profilePic.jpg",
+  "ownerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "creatorId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "email": "zahed@onnow.io",
+  "phoneNumber": "8801771493456",
+  "role": "OM",
+  "isActive": false,
+  "isVerified": false,
+  "refreshToken": [],
+  "managers": [],
+  "createdAt": {
+    "$date": "2023-10-03T14:35:02.972Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T14:35:02.972Z"
+  },
+  "__v": 0
+}]

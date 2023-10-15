@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "64b52f10fbe8f45961b4b42b"
+  },
+  "name": "Silver",
+  "point": 400,
+  "benefits": [
+    {
+      "title": "Aarong25",
+      "details": "Get 100 Discount from any outlet",
+      "_id": {
+        "$oid": "64b52f10fbe8f45961b4b42c"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b5315d0547233963725a36"
+  },
+  "name": "Platinum",
+  "point": 600,
+  "benefits": [
+    {
+      "title": "Aarong40",
+      "details": "Get 400 Discount from any outlet",
+      "_id": {
+        "$oid": "64b531d90547233963725a3c"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b532d7ea0c3bf823890e5e"
+  },
+  "name": "Gold-x",
+  "point": 1200,
+  "benefits": [
+    {
+      "title": "Aarong400",
+      "details": "Get 4000 Discount from any outlet",
+      "_id": {
+        "$oid": "64b532f7ea0c3bf823890e61"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b5341fd4f5aaa2a8abe980"
+  },
+  "name": "Master",
+  "point": 2000,
+  "benefits": [
+    {
+      "title": "Aarong3000",
+      "details": "Get 30000 Discount from any outlet",
+      "_id": {
+        "$oid": "64b5341fd4f5aaa2a8abe981"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b58366f3ebce2bc19a916c"
+  },
+  "name": "OnnowMaster",
+  "point": 6000,
+  "benefits": [
+    {
+      "title": "Aarong15",
+      "details": "Get 2000 Discount from any outlet",
+      "_id": {
+        "$oid": "64b58366f3ebce2bc19a916d"
+      }
+    }
+  ],
+  "__v": 0
+}]

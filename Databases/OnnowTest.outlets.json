@@ -1,0 +1,1966 @@
+[{
+  "_id": {
+    "$oid": "644eb2f74a7c1a885937ffff"
+  },
+  "brandId": {
+    "$oid": "644ea9c871353d592c2ada95"
+  },
+  "brandName": "Snackmate",
+  "outletName": "Snackmate (Moghbazar)",
+  "slug": "snackmate (moghbazar)",
+  "logo": "Snackmate-Logo.png",
+  "outletAddress": "2nd Floor, 70, Outer Circular Road, Shahid Sangbadik Selina Parvin Rd, Dhaka 1217, Bangladesh",
+  "outletPhoneNumber": "8801730745926",
+  "deliveryCharge": 30,
+  "averageDeliveryTime": {
+    "min": 10,
+    "max": 20
+  },
+  "taxRate": 5,
+  "taxStatus": "inclusive",
+  "paymentMethod": {
+    "cashOnDelivery": true,
+    "digitalPayment": true
+  },
+  "deliveryArea": [
+    "Baily Road",
+    "Bangla Motor",
+    "Kakrail",
+    "Kathalbagan",
+    "Kawran Bazar",
+    "Malibagh",
+    "Mirbag",
+    "Moghbazar",
+    "New Eskaton",
+    "Old Eskaton",
+    "Paribagh",
+    "Ramna",
+    "Shahbagh",
+    "Shantibag",
+    "Shegunbagicha",
+    "Shiddheswari"
+  ],
+  "tableNumber": [
+    "1"
+  ],
+  "outletOwnerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "outletOwnerName": "Syed Zaman",
+  "isBeneficiary": false,
+  "outletStatus": "Open",
+  "isApproved": true,
+  "shift": [
+    {
+      "day": "sun",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb2f74a7c1a8859380000"
+      }
+    },
+    {
+      "day": "mon",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb2f74a7c1a8859380001"
+      }
+    },
+    {
+      "day": "tue",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb2f74a7c1a8859380002"
+      }
+    },
+    {
+      "day": "wed",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb2f74a7c1a8859380003"
+      }
+    },
+    {
+      "day": "thu",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb2f74a7c1a8859380004"
+      }
+    },
+    {
+      "day": "fri",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb2f74a7c1a8859380005"
+      }
+    },
+    {
+      "day": "sat",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb2f74a7c1a8859380006"
+      }
+    }
+  ],
+  "isActive": true,
+  "offlineTime": 0,
+  "inventoryId": {
+    "$oid": "644eb2f74a7c1a8859380007"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644eb4adde4acae9ffddb7f5"
+  },
+  "brandId": {
+    "$oid": "644ea9c871353d592c2ada95"
+  },
+  "brandName": "Snackmate",
+  "outletName": "Snackmate (Tejgaon)",
+  "slug": "snackmate (tejgaon)",
+  "logo": "Snackmate-Logo.png",
+  "outletAddress": "2nd Floor, Western Garden City, 442 East Nakhalpara, Tejgaon, Dhaka, Bangladesh",
+  "outletPhoneNumber": "8801730744403",
+  "deliveryCharge": 30,
+  "averageDeliveryTime": {
+    "min": 10,
+    "max": 20
+  },
+  "taxRate": 5,
+  "taxStatus": "inclusive",
+  "paymentMethod": {
+    "cashOnDelivery": true,
+    "digitalPayment": true
+  },
+  "deliveryArea": [
+    "Shahinbag",
+    "Nabisco",
+    "Farmgate",
+    " Niketan",
+    " Arjatpara",
+    " Begunbari",
+    "Bijoy Sarani",
+    "Nakhalpara",
+    "Gulshan 1",
+    "Monipuripara",
+    "Satrasta",
+    "Tejkunipara",
+    "Tejgaon",
+    "Mohakhali"
+  ],
+  "tableNumber": [
+    "1"
+  ],
+  "outletOwnerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "outletOwnerName": "Syed Zaman",
+  "isBeneficiary": false,
+  "outletStatus": "Open",
+  "isApproved": true,
+  "shift": [
+    {
+      "day": "sun",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb7f6"
+      }
+    },
+    {
+      "day": "mon",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb7f7"
+      }
+    },
+    {
+      "day": "tue",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb7f8"
+      }
+    },
+    {
+      "day": "wed",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb7f9"
+      }
+    },
+    {
+      "day": "thu",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb7fa"
+      }
+    },
+    {
+      "day": "fri",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb7fb"
+      }
+    },
+    {
+      "day": "sat",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb7fc"
+      }
+    }
+  ],
+  "isActive": true,
+  "offlineTime": 0,
+  "inventoryId": {
+    "$oid": "644eb4adde4acae9ffddb7fd"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644eb4adde4acae9ffddb809"
+  },
+  "brandId": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "brandName": "Onnow",
+  "outletName": "Onnow+ (Tejgaon)",
+  "slug": "onnow+ (tejgaon)",
+  "logo": "Onnow-WhatsApp-1.png",
+  "outletAddress": "2nd Floor, Western Garden City, 442 East Nakhalpara, Tejgaon, Dhaka, Bangladesh",
+  "outletPhoneNumber": "8801730744403",
+  "deliveryCharge": 30,
+  "averageDeliveryTime": {
+    "min": 10,
+    "max": 20
+  },
+  "taxRate": 5,
+  "taxStatus": "inclusive",
+  "paymentMethod": {
+    "cashOnDelivery": true,
+    "digitalPayment": true
+  },
+  "deliveryArea": [
+    "Shahinbag",
+    "Nabisco",
+    "Farmgate",
+    "Niketan",
+    " Arjatpara",
+    "Begunbari",
+    "Bijoy Sarani",
+    "Nakhalpara",
+    "Gulshan 1",
+    "Monipuripara",
+    "Satrasta",
+    "Tejkunipara",
+    "Tejgaon",
+    "Mohakhali"
+  ],
+  "tableNumber": [],
+  "outletOwnerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "outletOwnerName": "Syed Zaman",
+  "isBeneficiary": false,
+  "outletStatus": "Open",
+  "isApproved": true,
+  "shift": [
+    {
+      "day": "sun",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb80a"
+      }
+    },
+    {
+      "day": "mon",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "10:00",
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb80b"
+      }
+    },
+    {
+      "day": "tue",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb80c"
+      }
+    },
+    {
+      "day": "wed",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb80d"
+      }
+    },
+    {
+      "day": "thu",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb80e"
+      }
+    },
+    {
+      "day": "fri",
+      "isOpen": true,
+      "startingHour": "01:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb80f"
+      }
+    },
+    {
+      "day": "sat",
+      "isOpen": true,
+      "startingHour": "01:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb810"
+      }
+    }
+  ],
+  "isActive": true,
+  "offlineTime": 0,
+  "inventoryId": {
+    "$oid": "644eb4adde4acae9ffddb811"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644eb612848356fddbcfe46d"
+  },
+  "brandId": {
+    "$oid": "644ea9c871353d592c2ada98"
+  },
+  "brandName": "Party Pizza",
+  "outletName": "Party Pizza (Tejgaon)",
+  "slug": "party pizza (tejgaon)",
+  "logo": "400x400.png",
+  "outletAddress": "2nd Floor, Western Garden City, 442 East Nakhalpara, Tejgaon, Dhaka, Bangladesh",
+  "outletPhoneNumber": "8801730744403",
+  "deliveryCharge": 30,
+  "averageDeliveryTime": {
+    "min": 10,
+    "max": 20
+  },
+  "taxRate": 5,
+  "taxStatus": "inclusive",
+  "paymentMethod": {
+    "cashOnDelivery": true,
+    "digitalPayment": true
+  },
+  "deliveryArea": [
+    "Shahinbag",
+    "Nabisco",
+    "Farmgate",
+    "Niketan",
+    "Arjatpara",
+    "Begunbari",
+    "Bijoy Sarani",
+    "Nakhalpara",
+    "Gulshan 1",
+    "Monipuripara",
+    "Satrasta",
+    "Tejkunipara",
+    "Tejgaon",
+    "Mohakhali"
+  ],
+  "tableNumber": [
+    "1"
+  ],
+  "outletOwnerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "outletOwnerName": "Syed Zaman",
+  "isBeneficiary": false,
+  "outletStatus": "Open",
+  "isApproved": true,
+  "shift": [
+    {
+      "day": "sun",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe46e"
+      }
+    },
+    {
+      "day": "mon",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe46f"
+      }
+    },
+    {
+      "day": "tue",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe470"
+      }
+    },
+    {
+      "day": "wed",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe471"
+      }
+    },
+    {
+      "day": "thu",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe472"
+      }
+    },
+    {
+      "day": "fri",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe473"
+      }
+    },
+    {
+      "day": "sat",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe474"
+      }
+    }
+  ],
+  "isActive": true,
+  "offlineTime": 0,
+  "inventoryId": {
+    "$oid": "644eb612848356fddbcfe475"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644eb612848356fddbcfe477"
+  },
+  "brandId": {
+    "$oid": "644ea9c871353d592c2ada99"
+  },
+  "brandName": "Friggy's",
+  "outletName": "Friggy's (Moghbazar)",
+  "slug": "friggy's (moghbazar)",
+  "logo": "600x600.png",
+  "outletAddress": "2nd Floor, 70, Outer Circular Road, Shahid Sangbadik Selina Parvin Rd, Dhaka 1217, Bangladesh",
+  "outletPhoneNumber": "8801730745926",
+  "deliveryCharge": 30,
+  "averageDeliveryTime": {
+    "min": 10,
+    "max": 20
+  },
+  "taxRate": 5,
+  "taxStatus": "inclusive",
+  "paymentMethod": {
+    "cashOnDelivery": true,
+    "digitalPayment": true
+  },
+  "deliveryArea": [
+    "Baily Road",
+    "Bangla Motor",
+    "Kakrail",
+    "Kathalbagan",
+    "Kawran Bazar",
+    "Malibagh",
+    "Mirbag",
+    "Moghbazar",
+    "New Eskaton",
+    "Old Eskaton",
+    "Paribagh",
+    "Ramna",
+    "Shahbagh",
+    "Shantibag",
+    "Shegunbagicha",
+    "Shiddheswari"
+  ],
+  "tableNumber": [
+    "1"
+  ],
+  "outletOwnerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "outletOwnerName": "Syed Zaman",
+  "isBeneficiary": false,
+  "outletStatus": "Open",
+  "isApproved": true,
+  "shift": [
+    {
+      "day": "sun",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe478"
+      }
+    },
+    {
+      "day": "mon",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe479"
+      }
+    },
+    {
+      "day": "tue",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe47a"
+      }
+    },
+    {
+      "day": "wed",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe47b"
+      }
+    },
+    {
+      "day": "thu",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe47c"
+      }
+    },
+    {
+      "day": "fri",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe47d"
+      }
+    },
+    {
+      "day": "sat",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe47e"
+      }
+    }
+  ],
+  "isActive": true,
+  "offlineTime": 0,
+  "inventoryId": {
+    "$oid": "644eb612848356fddbcfe47f"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644eb612848356fddbcfe481"
+  },
+  "brandId": {
+    "$oid": "644ea9c871353d592c2ada98"
+  },
+  "brandName": "Party Pizza",
+  "outletName": "Party Pizza (Moghbazar)",
+  "slug": "party pizza (moghbazar)",
+  "logo": "400x400.png",
+  "outletAddress": "2nd Floor, 70, Outer Circular Road, Shahid Sangbadik Selina Parvin Rd, Dhaka 1217, Bangladesh",
+  "outletPhoneNumber": "8801730745926",
+  "deliveryCharge": 30,
+  "averageDeliveryTime": {
+    "min": 10,
+    "max": 20
+  },
+  "taxRate": 5,
+  "taxStatus": "inclusive",
+  "paymentMethod": {
+    "cashOnDelivery": true,
+    "digitalPayment": true
+  },
+  "deliveryArea": [
+    "Baily Road",
+    "Bangla Motor",
+    "Kakrail",
+    "Kathalbagan",
+    "Kawran Bazar",
+    "Malibagh",
+    "Mirbag",
+    "Moghbazar",
+    "New Eskaton",
+    " Old Eskaton",
+    "Paribagh",
+    "Ramna",
+    "Shahbagh",
+    "Shantibag",
+    "Shegunbagicha",
+    "Shiddheswari"
+  ],
+  "tableNumber": [
+    "1"
+  ],
+  "outletOwnerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "outletOwnerName": "Syed Zaman",
+  "isBeneficiary": false,
+  "outletStatus": "Open",
+  "isApproved": true,
+  "shift": [
+    {
+      "day": "sun",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe482"
+      }
+    },
+    {
+      "day": "mon",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe483"
+      }
+    },
+    {
+      "day": "tue",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe484"
+      }
+    },
+    {
+      "day": "wed",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe485"
+      }
+    },
+    {
+      "day": "thu",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe486"
+      }
+    },
+    {
+      "day": "fri",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe487"
+      }
+    },
+    {
+      "day": "sat",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe488"
+      }
+    }
+  ],
+  "isActive": true,
+  "offlineTime": 0,
+  "inventoryId": {
+    "$oid": "644eb612848356fddbcfe489"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644eb612848356fddbcfe499"
+  },
+  "brandId": {
+    "$oid": "644ea9c871353d592c2ada97"
+  },
+  "brandName": "Wrappo",
+  "outletName": "Wrappo (Tejgaon)",
+  "slug": "wrappo (tejgaon)",
+  "logo": "Wrappo_Logo.png",
+  "outletAddress": "2nd Floor, Western Garden City, 442 East Nakhalpara, Tejgaon, Dhaka, Bangladesh",
+  "outletPhoneNumber": "8801730744403",
+  "deliveryCharge": 30,
+  "averageDeliveryTime": {
+    "min": 10,
+    "max": 20
+  },
+  "taxRate": 5,
+  "taxStatus": "inclusive",
+  "paymentMethod": {
+    "cashOnDelivery": true,
+    "digitalPayment": true
+  },
+  "deliveryArea": [
+    "Shahinbag",
+    "Nabisco",
+    "Farmgate",
+    "Niketan",
+    "Arjatpara",
+    "Begunbari",
+    " Bijoy Sarani",
+    "Nakhalpara",
+    " Gulshan 1",
+    "Monipuripara",
+    "Satrasta",
+    "Tejkunipara",
+    "Tejgaon",
+    "Mohakhali"
+  ],
+  "tableNumber": [
+    "1"
+  ],
+  "outletOwnerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "outletOwnerName": "Syed Zaman",
+  "isBeneficiary": false,
+  "outletStatus": "Open",
+  "isApproved": true,
+  "shift": [
+    {
+      "day": "sun",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe49a"
+      }
+    },
+    {
+      "day": "mon",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe49b"
+      }
+    },
+    {
+      "day": "tue",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe49c"
+      }
+    },
+    {
+      "day": "wed",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe49d"
+      }
+    },
+    {
+      "day": "thu",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe49e"
+      }
+    },
+    {
+      "day": "fri",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe49f"
+      }
+    },
+    {
+      "day": "sat",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4a0"
+      }
+    }
+  ],
+  "isActive": true,
+  "offlineTime": 0,
+  "inventoryId": {
+    "$oid": "644eb612848356fddbcfe4a1"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644eb612848356fddbcfe4a5"
+  },
+  "brandId": {
+    "$oid": "644ea9c871353d592c2ada99"
+  },
+  "brandName": "Friggy's",
+  "outletName": "Friggy's (Tejgaon)",
+  "slug": "friggy's (tejgaon)",
+  "logo": "600x600.png",
+  "outletAddress": "2nd Floor, Western Garden City, 442 East Nakhalpara, Tejgaon, Dhaka, Bangladesh",
+  "outletPhoneNumber": "8801730744403",
+  "deliveryCharge": 30,
+  "averageDeliveryTime": {
+    "min": 10,
+    "max": 20
+  },
+  "taxRate": 5,
+  "taxStatus": "inclusive",
+  "paymentMethod": {
+    "cashOnDelivery": true,
+    "digitalPayment": true
+  },
+  "deliveryArea": [
+    "Shahinbag",
+    "Nabisco",
+    "Farmgate",
+    " Niketan",
+    "Arjatpara",
+    "Begunbari",
+    "Bijoy Sarani",
+    "Nakhalpara",
+    "Gulshan 1",
+    "Monipuripara",
+    "Satrasta",
+    "Tejkunipara",
+    "Tejgaon",
+    "Mohakhali"
+  ],
+  "tableNumber": [
+    "1"
+  ],
+  "outletOwnerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "outletOwnerName": "Syed Zaman",
+  "isBeneficiary": false,
+  "outletStatus": "Open",
+  "isApproved": true,
+  "shift": [
+    {
+      "day": "sun",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4a6"
+      }
+    },
+    {
+      "day": "mon",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4a7"
+      }
+    },
+    {
+      "day": "tue",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4a8"
+      }
+    },
+    {
+      "day": "wed",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4a9"
+      }
+    },
+    {
+      "day": "thu",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4aa"
+      }
+    },
+    {
+      "day": "fri",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4ab"
+      }
+    },
+    {
+      "day": "sat",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4ac"
+      }
+    }
+  ],
+  "isActive": true,
+  "offlineTime": 0,
+  "inventoryId": {
+    "$oid": "644eb612848356fddbcfe4ad"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644eb612848356fddbcfe4b0"
+  },
+  "brandId": {
+    "$oid": "644ea9c871353d592c2ada97"
+  },
+  "brandName": "Wrappo",
+  "outletName": "Wrappo (Moghbazar)",
+  "slug": "wrappo (moghbazar)",
+  "logo": "Wrappo_Logo.png",
+  "outletAddress": "2nd Floor, 70, Outer Circular Road, Shahid Sangbadik Selina Parvin Rd, Dhaka 1217, Bangladesh",
+  "outletPhoneNumber": "8801730745926",
+  "deliveryCharge": 30,
+  "averageDeliveryTime": {
+    "min": 10,
+    "max": 20
+  },
+  "taxRate": 5,
+  "taxStatus": "inclusive",
+  "paymentMethod": {
+    "cashOnDelivery": true,
+    "digitalPayment": true
+  },
+  "deliveryArea": [
+    "Baily Road",
+    "Bangla Motor",
+    "Kakrail",
+    "Kathalbagan",
+    "Kawran Bazar",
+    "Malibagh",
+    "Mirbag",
+    "Moghbazar",
+    "New Eskaton",
+    "Old Eskaton",
+    "Paribagh",
+    "Ramna",
+    "Shahbagh",
+    "Shantibag",
+    "Shegunbagicha",
+    "Shiddheswari"
+  ],
+  "tableNumber": [
+    "1"
+  ],
+  "outletOwnerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "outletOwnerName": "Syed Zaman",
+  "isBeneficiary": false,
+  "outletStatus": "Open",
+  "isApproved": true,
+  "shift": [
+    {
+      "day": "sun",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4b1"
+      }
+    },
+    {
+      "day": "mon",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4b2"
+      }
+    },
+    {
+      "day": "tue",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4b3"
+      }
+    },
+    {
+      "day": "wed",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4b4"
+      }
+    },
+    {
+      "day": "thu",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4b5"
+      }
+    },
+    {
+      "day": "fri",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4b6"
+      }
+    },
+    {
+      "day": "sat",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4b7"
+      }
+    }
+  ],
+  "isActive": true,
+  "offlineTime": 0,
+  "inventoryId": {
+    "$oid": "644eb612848356fddbcfe4b8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644eb612848356fddbcfe4c9"
+  },
+  "brandId": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "brandName": "Onnow",
+  "outletName": "Onnow+ (Moghbazar)",
+  "slug": "onnow+ (moghbazar)",
+  "logo": "Onnow-WhatsApp-1.png",
+  "outletAddress": "2nd Floor, 70, Outer Circular Road, Shahid Sangbadik Selina Parvin Rd, Dhaka 1217, Bangladesh",
+  "outletPhoneNumber": "8801730745926",
+  "deliveryCharge": 30,
+  "averageDeliveryTime": {
+    "min": 10,
+    "max": 20
+  },
+  "taxRate": 5,
+  "taxStatus": "inclusive",
+  "paymentMethod": {
+    "cashOnDelivery": true,
+    "digitalPayment": true
+  },
+  "deliveryArea": [
+    "Baily Road",
+    "Bangla Motor",
+    "Kakrail",
+    "Kathalbagan",
+    "Kawran Bazar",
+    "Malibagh",
+    "Mirbag",
+    "Moghbazar",
+    " New Eskaton",
+    "Old Eskaton",
+    "Paribagh",
+    "Ramna",
+    "Shahbagh",
+    "Shantibag",
+    "Shegunbagicha",
+    "Shiddheswari"
+  ],
+  "tableNumber": [
+    "1"
+  ],
+  "outletOwnerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "outletOwnerName": "Syed Zaman",
+  "isBeneficiary": false,
+  "outletStatus": "Open",
+  "isApproved": true,
+  "shift": [
+    {
+      "day": "sun",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4ca"
+      }
+    },
+    {
+      "day": "mon",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4cb"
+      }
+    },
+    {
+      "day": "tue",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4cc"
+      }
+    },
+    {
+      "day": "wed",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4cd"
+      }
+    },
+    {
+      "day": "thu",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4ce"
+      }
+    },
+    {
+      "day": "fri",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4cf"
+      }
+    },
+    {
+      "day": "sat",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4d0"
+      }
+    }
+  ],
+  "isActive": true,
+  "offlineTime": 0,
+  "inventoryId": {
+    "$oid": "644eb612848356fddbcfe4d1"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64649c80d12ff393e352ff7b"
+  },
+  "brandId": {
+    "$oid": "6463f6afd12ff393e352cba9"
+  },
+  "brandName": "Burger Oppa",
+  "outletName": "Burger Oppa (Tejgaon)",
+  "slug": "burger oppa (tejgaon)",
+  "logo": "Burger-Oppa-logo.png",
+  "outletAddress": "2nd Floor, Western Garden City, 442 East Nakhalpara, Tejgaon, Dhaka, Bangladesh",
+  "outletPhoneNumber": "8801730744403",
+  "deliveryCharge": 30,
+  "averageDeliveryTime": {
+    "min": 10,
+    "max": 20
+  },
+  "taxRate": 5,
+  "taxStatus": "inclusive",
+  "paymentMethod": {
+    "cashOnDelivery": true,
+    "digitalPayment": true
+  },
+  "deliveryArea": [
+    "Shahinbag",
+    "Nabisco",
+    "Farmgate",
+    "Niketan",
+    "Arjatpara",
+    "Begunbari",
+    "Bijoy Sarani",
+    "Nakhalpara",
+    "Gulshan 1",
+    "Monipuripara",
+    "Satrasta",
+    "Tejkunipara",
+    "Tejgaon",
+    "Mohakhali"
+  ],
+  "tableNumber": [
+    "1"
+  ],
+  "outletOwnerId": {
+    "$oid": "6451b130bd126495525cfcca"
+  },
+  "outletOwnerName": "Mehedi Hasan",
+  "isBeneficiary": false,
+  "outletStatus": "Open",
+  "isApproved": true,
+  "shift": [
+    {
+      "day": "sun",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "64649c80d12ff393e352ff7c"
+      }
+    },
+    {
+      "day": "mon",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "64649c80d12ff393e352ff7d"
+      }
+    },
+    {
+      "day": "tue",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "64649c80d12ff393e352ff7e"
+      }
+    },
+    {
+      "day": "wed",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "64649c80d12ff393e352ff7f"
+      }
+    },
+    {
+      "day": "thu",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "64649c80d12ff393e352ff80"
+      }
+    },
+    {
+      "day": "fri",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "64649c80d12ff393e352ff81"
+      }
+    },
+    {
+      "day": "sat",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "64649c80d12ff393e352ff82"
+      }
+    }
+  ],
+  "isActive": true,
+  "offlineTime": 0,
+  "inventoryId": {
+    "$oid": "64649c80d12ff393e352ff83"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6464b2dbd12ff393e35305ef"
+  },
+  "brandId": {
+    "$oid": "6463f6afd12ff393e352cba9"
+  },
+  "brandName": "Burger Oppa",
+  "outletName": "Burger Oppa (Moghbazar)",
+  "slug": "burger oppa (moghbazar)",
+  "logo": "Burger-Oppa-logo.png",
+  "outletAddress": "2nd Floor, 70, Outer Circular Road, Shahid Sangbadik Selina Parvin Rd, Dhaka 1217, Bangladesh",
+  "outletPhoneNumber": "8801730745926",
+  "deliveryCharge": 30,
+  "averageDeliveryTime": {
+    "min": 10,
+    "max": 20
+  },
+  "taxRate": 5,
+  "taxStatus": "inclusive",
+  "paymentMethod": {
+    "cashOnDelivery": true,
+    "digitalPayment": true
+  },
+  "deliveryArea": [
+    "Baily Road",
+    "Bangla Motor",
+    "Kakrail",
+    "Kathalbagan",
+    "Kawran Bazar",
+    "Malibagh",
+    "Mirbag",
+    "Moghbazar",
+    "New Eskaton",
+    "Old Eskaton",
+    "Paribagh",
+    "Ramna",
+    " Shahbagh",
+    "Shantibag",
+    "Shegunbagicha",
+    "Shiddheswari"
+  ],
+  "tableNumber": [
+    "1"
+  ],
+  "outletOwnerId": {
+    "$oid": "6451b130bd126495525cfcca"
+  },
+  "outletOwnerName": "Mehedi Hasan",
+  "isBeneficiary": false,
+  "outletStatus": "Open",
+  "isApproved": true,
+  "shift": [
+    {
+      "day": "sun",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6464b2dbd12ff393e35305f0"
+      }
+    },
+    {
+      "day": "mon",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6464b2dbd12ff393e35305f1"
+      }
+    },
+    {
+      "day": "tue",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6464b2dbd12ff393e35305f2"
+      }
+    },
+    {
+      "day": "wed",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6464b2dbd12ff393e35305f3"
+      }
+    },
+    {
+      "day": "thu",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6464b2dbd12ff393e35305f4"
+      }
+    },
+    {
+      "day": "fri",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6464b2dbd12ff393e35305f5"
+      }
+    },
+    {
+      "day": "sat",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6464b2dbd12ff393e35305f6"
+      }
+    }
+  ],
+  "isActive": true,
+  "offlineTime": 0,
+  "inventoryId": {
+    "$oid": "6464b2dbd12ff393e35305f7"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6464b5d3d12ff393e3530be5"
+  },
+  "brandId": {
+    "$oid": "6463f6fad12ff393e352cc54"
+  },
+  "brandName": "Fuiyoh",
+  "outletName": "Fuiyoh (Tejgaon)",
+  "slug": "fuiyoh (tejgaon)",
+  "logo": "Fuiyoh-logo.png",
+  "outletAddress": "2nd Floor, Western Garden City, 442 East Nakhalpara, Tejgaon, Dhaka, Bangladesh",
+  "outletPhoneNumber": "8801730744403",
+  "deliveryCharge": 30,
+  "averageDeliveryTime": {
+    "min": 10,
+    "max": 20
+  },
+  "taxRate": 5,
+  "taxStatus": "inclusive",
+  "paymentMethod": {
+    "cashOnDelivery": true,
+    "digitalPayment": true
+  },
+  "deliveryArea": [
+    "Shahinbag",
+    "Nabisco",
+    "Farmgate",
+    "Niketan",
+    "Arjatpara",
+    "Begunbari",
+    " Bijoy Sarani",
+    "Nakhalpara",
+    "Gulshan 1",
+    "Monipuripara",
+    "Satrasta",
+    "Tejkunipara",
+    "Tejgaon",
+    "Mohakhali"
+  ],
+  "tableNumber": [
+    "1"
+  ],
+  "outletOwnerId": {
+    "$oid": "6451b130bd126495525cfcca"
+  },
+  "outletOwnerName": "Mehedi Hasan",
+  "isBeneficiary": false,
+  "outletStatus": "Open",
+  "isApproved": true,
+  "shift": [
+    {
+      "day": "sun",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6464b5d3d12ff393e3530be6"
+      }
+    },
+    {
+      "day": "mon",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6464b5d3d12ff393e3530be7"
+      }
+    },
+    {
+      "day": "tue",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6464b5d3d12ff393e3530be8"
+      }
+    },
+    {
+      "day": "wed",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6464b5d3d12ff393e3530be9"
+      }
+    },
+    {
+      "day": "thu",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6464b5d3d12ff393e3530bea"
+      }
+    },
+    {
+      "day": "fri",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6464b5d3d12ff393e3530beb"
+      }
+    },
+    {
+      "day": "sat",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6464b5d3d12ff393e3530bec"
+      }
+    }
+  ],
+  "isActive": true,
+  "offlineTime": 0,
+  "inventoryId": {
+    "$oid": "6464b5d3d12ff393e3530bed"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6465bf0ad12ff393e3535f6b"
+  },
+  "brandId": {
+    "$oid": "6463f028d12ff393e352c9fb"
+  },
+  "brandName": "Hangrry",
+  "outletName": "Hangrry (Tejgaon)",
+  "slug": "hangrry (tejgaon)",
+  "logo": "Hangrry-logo.jpg",
+  "outletAddress": "2nd Floor, Western Garden City, 442 East Nakhalpara, Tejgaon, Dhaka, Bangladesh",
+  "outletPhoneNumber": "8801730744403",
+  "deliveryCharge": 30,
+  "averageDeliveryTime": {
+    "min": 10,
+    "max": 20
+  },
+  "taxRate": 5,
+  "taxStatus": "inclusive",
+  "paymentMethod": {
+    "cashOnDelivery": true,
+    "digitalPayment": true
+  },
+  "deliveryArea": [
+    "Shahinbag",
+    "Nabisco",
+    "Farmgate",
+    "Niketan",
+    "Arjatpara",
+    "Begunbari",
+    "Bijoy Sarani",
+    "Nakhalpara",
+    "Gulshan 1",
+    "Monipuripara",
+    "Satrasta",
+    " Tejkunipara",
+    "Tejgaon",
+    "Mohakhali"
+  ],
+  "tableNumber": [
+    "1"
+  ],
+  "outletOwnerId": {
+    "$oid": "6451b130bd126495525cfcca"
+  },
+  "outletOwnerName": "Mehedi Hasan",
+  "isBeneficiary": false,
+  "outletStatus": "Open",
+  "isApproved": true,
+  "shift": [
+    {
+      "day": "sun",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465bf0ad12ff393e3535f6c"
+      }
+    },
+    {
+      "day": "mon",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:30",
+      "_id": {
+        "$oid": "6465bf0ad12ff393e3535f6d"
+      }
+    },
+    {
+      "day": "tue",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465bf0ad12ff393e3535f6e"
+      }
+    },
+    {
+      "day": "wed",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465bf0ad12ff393e3535f6f"
+      }
+    },
+    {
+      "day": "thu",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465bf0ad12ff393e3535f70"
+      }
+    },
+    {
+      "day": "fri",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465bf0ad12ff393e3535f71"
+      }
+    },
+    {
+      "day": "sat",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465bf0ad12ff393e3535f72"
+      }
+    }
+  ],
+  "isActive": true,
+  "offlineTime": 0,
+  "inventoryId": {
+    "$oid": "6465bf0ad12ff393e3535f73"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6465c0d9d12ff393e353676b"
+  },
+  "brandId": {
+    "$oid": "6463f028d12ff393e352c9fb"
+  },
+  "brandName": "Hangrry",
+  "outletName": "Hangrry (Moghbazar)",
+  "slug": "hangrry (moghbazar)",
+  "logo": "Hangrry-logo.jpg",
+  "outletAddress": "2nd Floor, 70, Outer Circular Road, Shahid Sangbadik Selina Parvin Rd, Dhaka 1217, Bangladesh",
+  "outletPhoneNumber": "8801730745926",
+  "deliveryCharge": 30,
+  "averageDeliveryTime": {
+    "min": 10,
+    "max": 20
+  },
+  "taxRate": 5,
+  "taxStatus": "inclusive",
+  "paymentMethod": {
+    "cashOnDelivery": true,
+    "digitalPayment": true
+  },
+  "deliveryArea": [
+    "Baily Road",
+    "Bangla Motor",
+    "Kakrail",
+    " Kathalbagan",
+    "Kawran Bazar",
+    "Malibagh",
+    "Mirbag",
+    "Moghbazar",
+    "New Eskaton",
+    "Old Eskaton",
+    " Paribagh",
+    " Ramna",
+    "Shahbagh",
+    "Shantibag",
+    "Shegunbagicha",
+    "Shiddheswari"
+  ],
+  "tableNumber": [
+    "1"
+  ],
+  "outletOwnerId": {
+    "$oid": "6451b130bd126495525cfcca"
+  },
+  "outletOwnerName": "Mehedi Hasan",
+  "isBeneficiary": false,
+  "outletStatus": "Open",
+  "isApproved": true,
+  "shift": [
+    {
+      "day": "sun",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465c0d9d12ff393e353676c"
+      }
+    },
+    {
+      "day": "mon",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465c0d9d12ff393e353676d"
+      }
+    },
+    {
+      "day": "tue",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465c0d9d12ff393e353676e"
+      }
+    },
+    {
+      "day": "wed",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465c0d9d12ff393e353676f"
+      }
+    },
+    {
+      "day": "thu",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465c0d9d12ff393e3536770"
+      }
+    },
+    {
+      "day": "fri",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465c0d9d12ff393e3536771"
+      }
+    },
+    {
+      "day": "sat",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465c0d9d12ff393e3536772"
+      }
+    }
+  ],
+  "isActive": true,
+  "offlineTime": 0,
+  "inventoryId": {
+    "$oid": "6465c0d9d12ff393e3536773"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6465c44fd12ff393e3537252"
+  },
+  "brandId": {
+    "$oid": "6463f6fad12ff393e352cc54"
+  },
+  "brandName": "Fuiyoh",
+  "outletName": "Fuiyoh (Moghbazar)",
+  "slug": "fuiyoh (moghbazar)",
+  "logo": "Fuiyoh-logo.png",
+  "outletAddress": "2nd Floor, 70, Outer Circular Road, Shahid Sangbadik Selina Parvin Rd, Dhaka 1217, Bangladesh",
+  "outletPhoneNumber": "8801730745926",
+  "deliveryCharge": 30,
+  "averageDeliveryTime": {
+    "min": 10,
+    "max": 20
+  },
+  "taxRate": 5,
+  "taxStatus": "inclusive",
+  "paymentMethod": {
+    "cashOnDelivery": true,
+    "digitalPayment": true
+  },
+  "deliveryArea": [
+    "Baily Road",
+    "Bangla Motor",
+    "Kakrail",
+    "Kathalbagan",
+    " Kawran Bazar",
+    "Malibagh",
+    "Mirbag",
+    " Moghbazar",
+    " New Eskaton",
+    "Old Eskaton",
+    "Paribagh",
+    "Ramna",
+    " Shahbagh",
+    " Shantibag",
+    "Shegunbagicha",
+    "Shiddheswari"
+  ],
+  "tableNumber": [
+    "1"
+  ],
+  "outletOwnerId": {
+    "$oid": "6451b130bd126495525cfcca"
+  },
+  "outletOwnerName": "Mehedi Hasan",
+  "isBeneficiary": false,
+  "outletStatus": "Open",
+  "isApproved": true,
+  "shift": [
+    {
+      "day": "sun",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465c44fd12ff393e3537253"
+      }
+    },
+    {
+      "day": "mon",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465c44fd12ff393e3537254"
+      }
+    },
+    {
+      "day": "tue",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465c44fd12ff393e3537255"
+      }
+    },
+    {
+      "day": "wed",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465c44fd12ff393e3537256"
+      }
+    },
+    {
+      "day": "thu",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465c44fd12ff393e3537257"
+      }
+    },
+    {
+      "day": "fri",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465c44fd12ff393e3537258"
+      }
+    },
+    {
+      "day": "sat",
+      "isOpen": true,
+      "startingHour": "13:00",
+      "endingHour": "22:00",
+      "_id": {
+        "$oid": "6465c44fd12ff393e3537259"
+      }
+    }
+  ],
+  "isActive": true,
+  "offlineTime": 0,
+  "inventoryId": {
+    "$oid": "6465c44fd12ff393e353725a"
+  },
+  "__v": 0
+}]

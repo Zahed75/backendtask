@@ -1,0 +1,546 @@
+[{
+  "_id": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "ownerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "ownerName": "Syed Zaman",
+  "banner": "Onnow+-banner.jpg",
+  "logo": "Onnow+-logo.png",
+  "brandName": "Onnow+",
+  "brandColor": "#F15B25",
+  "textColor": "#ffffff",
+  "subdomain": "plus",
+  "outlets": [
+    {
+      "outletName": "Onnow+ (Tejgaon)",
+      "deliveryArea": [
+        "Shahinbag",
+        "Nabisco",
+        "Farmgate",
+        "Niketan",
+        " Arjatpara",
+        "Begunbari",
+        "Bijoy Sarani",
+        "Nakhalpara",
+        "Gulshan 1",
+        "Monipuripara",
+        "Satrasta",
+        "Tejkunipara",
+        "Tejgaon",
+        "Mohakhali"
+      ],
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb809"
+      }
+    },
+    {
+      "outletName": "Onnow+ (Moghbazar)",
+      "deliveryArea": [
+        "Baily Road",
+        "Bangla Motor",
+        "Kakrail",
+        "Kathalbagan",
+        "Kawran Bazar",
+        "Malibagh",
+        "Mirbag",
+        "Moghbazar",
+        " New Eskaton",
+        "Old Eskaton",
+        "Paribagh",
+        "Ramna",
+        "Shahbagh",
+        "Shantibag",
+        "Shegunbagicha",
+        "Shiddheswari"
+      ],
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4c9"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ea9c871353d592c2ada97"
+  },
+  "ownerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "ownerName": "Syed Zaman",
+  "banner": "HungryNaki-2_ldkqutK.jpg",
+  "logo": "Wrappo_Logo.png",
+  "brandName": "Wrappo",
+  "brandColor": "#1240ab",
+  "textColor": "#ffffff",
+  "subdomain": "wrappo",
+  "outlets": [
+    {
+      "outletName": "Wrappo (Tejgaon)",
+      "deliveryArea": [
+        "Shahinbag",
+        "Nabisco",
+        "Farmgate",
+        "Niketan",
+        "Arjatpara",
+        "Begunbari",
+        " Bijoy Sarani",
+        "Nakhalpara",
+        " Gulshan 1",
+        "Monipuripara",
+        "Satrasta",
+        "Tejkunipara",
+        "Tejgaon",
+        "Mohakhali"
+      ],
+      "_id": {
+        "$oid": "644eb612848356fddbcfe499"
+      }
+    },
+    {
+      "outletName": "Wrappo (Moghbazar)",
+      "deliveryArea": [
+        "Baily Road",
+        "Bangla Motor",
+        "Kakrail",
+        "Kathalbagan",
+        "Kawran Bazar",
+        "Malibagh",
+        "Mirbag",
+        "Moghbazar",
+        "New Eskaton",
+        "Old Eskaton",
+        "Paribagh",
+        "Ramna",
+        "Shahbagh",
+        "Shantibag",
+        "Shegunbagicha",
+        "Shiddheswari"
+      ],
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4b0"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ea9c871353d592c2ada95"
+  },
+  "ownerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "ownerName": "Syed Zaman",
+  "banner": "Snackmate-banner.jpg",
+  "logo": "Snackmate-Logo.png",
+  "brandName": "Snackmate",
+  "brandColor": "#007a3c",
+  "textColor": "#ffffff",
+  "subdomain": "snackmate",
+  "outlets": [
+    {
+      "outletName": "Snackmate (Moghbazar)",
+      "deliveryArea": [
+        "Baily Road",
+        "Bangla Motor",
+        "Kakrail",
+        "Kathalbagan",
+        "Kawran Bazar",
+        "Malibagh",
+        "Mirbag",
+        "Moghbazar",
+        "New Eskaton",
+        "Old Eskaton",
+        "Paribagh",
+        "Ramna",
+        "Shahbagh",
+        "Shantibag",
+        "Shegunbagicha",
+        "Shiddheswari"
+      ],
+      "_id": {
+        "$oid": "644eb2f74a7c1a885937ffff"
+      }
+    },
+    {
+      "outletName": "Snackmate (Tejgaon)",
+      "deliveryArea": [
+        "Shahinbag",
+        "Nabisco",
+        "Farmgate",
+        " Niketan",
+        " Arjatpara",
+        " Begunbari",
+        "Bijoy Sarani",
+        "Nakhalpara",
+        "Gulshan 1",
+        "Monipuripara",
+        "Satrasta",
+        "Tejkunipara",
+        "Tejgaon",
+        "Mohakhali"
+      ],
+      "_id": {
+        "$oid": "644eb4adde4acae9ffddb7f5"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ea9c871353d592c2ada98"
+  },
+  "ownerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "ownerName": "Syed Zaman",
+  "banner": "Party-Pizza-banner.png",
+  "logo": "400x400.png",
+  "brandName": "Party Pizza",
+  "brandColor": "#da033e",
+  "textColor": "#ffffff",
+  "subdomain": "partypizza",
+  "outlets": [
+    {
+      "outletName": "Party Pizza (Moghbazar)",
+      "deliveryArea": [
+        "Baily Road",
+        "Bangla Motor",
+        "Kakrail",
+        "Kathalbagan",
+        "Kawran Bazar",
+        "Malibagh",
+        "Mirbag",
+        "Moghbazar",
+        "New Eskaton",
+        " Old Eskaton",
+        "Paribagh",
+        "Ramna",
+        "Shahbagh",
+        "Shantibag",
+        "Shegunbagicha",
+        "Shiddheswari"
+      ],
+      "_id": {
+        "$oid": "644eb612848356fddbcfe481"
+      }
+    },
+    {
+      "outletName": "Party Pizza (Tejgaon)",
+      "deliveryArea": [
+        "Shahinbag",
+        "Nabisco",
+        "Farmgate",
+        "Niketan",
+        "Arjatpara",
+        "Begunbari",
+        "Bijoy Sarani",
+        "Nakhalpara",
+        "Gulshan 1",
+        "Monipuripara",
+        "Satrasta",
+        "Tejkunipara",
+        "Tejgaon",
+        "Mohakhali"
+      ],
+      "_id": {
+        "$oid": "644eb612848356fddbcfe46d"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ea9c871353d592c2ada99"
+  },
+  "ownerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "ownerName": "Syed Zaman",
+  "banner": "hungry-naki.jpg",
+  "logo": "600x600.png",
+  "brandName": "Friggy's",
+  "brandColor": "#ec0000",
+  "textColor": "#ffffff",
+  "subdomain": "friggys",
+  "outlets": [
+    {
+      "outletName": "Friggy's (Moghbazar)",
+      "deliveryArea": [
+        "Baily Road",
+        "Bangla Motor",
+        "Kakrail",
+        "Kathalbagan",
+        "Kawran Bazar",
+        "Malibagh",
+        "Mirbag",
+        "Moghbazar",
+        "New Eskaton",
+        "Old Eskaton",
+        "Paribagh",
+        "Ramna",
+        "Shahbagh",
+        "Shantibag",
+        "Shegunbagicha",
+        "Shiddheswari"
+      ],
+      "_id": {
+        "$oid": "644eb612848356fddbcfe477"
+      }
+    },
+    {
+      "outletName": "Friggy's (Tejgaon)",
+      "deliveryArea": [
+        "Shahinbag",
+        "Nabisco",
+        "Farmgate",
+        " Niketan",
+        "Arjatpara",
+        "Begunbari",
+        "Bijoy Sarani",
+        "Nakhalpara",
+        "Gulshan 1",
+        "Monipuripara",
+        "Satrasta",
+        "Tejkunipara",
+        "Tejgaon",
+        "Mohakhali"
+      ],
+      "_id": {
+        "$oid": "644eb612848356fddbcfe4a5"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6463f028d12ff393e352c9fb"
+  },
+  "ownerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "ownerName": "Syed Zaman",
+  "banner": "Hangrry-banner.jpg",
+  "logo": "Hangrry-logo.jpg",
+  "brandName": "Hangrry",
+  "brandColor": "#ed1c25",
+  "textColor": "#fcffee",
+  "subdomain": "hangrry",
+  "outlets": [
+    {
+      "outletName": "Hangrry (Tejgaon)",
+      "deliveryArea": [
+        "Shahinbag",
+        "Nabisco",
+        "Farmgate",
+        "Niketan",
+        "Arjatpara",
+        "Begunbari",
+        "Bijoy Sarani",
+        "Nakhalpara",
+        "Gulshan 1",
+        "Monipuripara",
+        "Satrasta",
+        " Tejkunipara",
+        "Tejgaon",
+        "Mohakhali"
+      ],
+      "_id": {
+        "$oid": "6465bf0ad12ff393e3535f6b"
+      }
+    },
+    {
+      "outletName": "Hangrry (Moghbazar)",
+      "deliveryArea": [
+        "Baily Road",
+        "Bangla Motor",
+        "Kakrail",
+        " Kathalbagan",
+        "Kawran Bazar",
+        "Malibagh",
+        "Mirbag",
+        "Moghbazar",
+        "New Eskaton",
+        "Old Eskaton",
+        " Paribagh",
+        " Ramna",
+        "Shahbagh",
+        "Shantibag",
+        "Shegunbagicha",
+        "Shiddheswari"
+      ],
+      "_id": {
+        "$oid": "6465c0d9d12ff393e353676b"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6463f6afd12ff393e352cba9"
+  },
+  "ownerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "ownerName": "Syed Zaman",
+  "banner": "Burger-Oppa-banner.jpg",
+  "logo": "Burger-Oppa-logo.png",
+  "brandName": "Burger Oppa",
+  "brandColor": "#cd007e",
+  "textColor": "#fffd93",
+  "subdomain": "burgeroppa",
+  "outlets": [
+    {
+      "outletName": "Burger Oppa (Tejgaon)",
+      "deliveryArea": [
+        "Shahinbag",
+        "Nabisco",
+        "Farmgate",
+        "Niketan",
+        "Arjatpara",
+        "Begunbari",
+        "Bijoy Sarani",
+        "Nakhalpara",
+        "Gulshan 1",
+        "Monipuripara",
+        "Satrasta",
+        "Tejkunipara",
+        "Tejgaon",
+        "Mohakhali"
+      ],
+      "_id": {
+        "$oid": "64649c80d12ff393e352ff7b"
+      }
+    },
+    {
+      "outletName": "Burger Oppa (Moghbazar)",
+      "deliveryArea": [
+        "Baily Road",
+        "Bangla Motor",
+        "Kakrail",
+        "Kathalbagan",
+        "Kawran Bazar",
+        "Malibagh",
+        "Mirbag",
+        "Moghbazar",
+        "New Eskaton",
+        "Old Eskaton",
+        "Paribagh",
+        "Ramna",
+        " Shahbagh",
+        "Shantibag",
+        "Shegunbagicha",
+        "Shiddheswari"
+      ],
+      "_id": {
+        "$oid": "6464b2dbd12ff393e35305ef"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6463f6fad12ff393e352cc54"
+  },
+  "ownerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "ownerName": "Syed Zaman",
+  "banner": "Fuiyoh-banner.jpg",
+  "logo": "Fuiyoh-logo.png",
+  "brandName": "Fuiyoh",
+  "brandColor": "#242f67",
+  "textColor": "#f16223",
+  "subdomain": "fuiyoh",
+  "outlets": [
+    {
+      "outletName": "Fuiyoh (Tejgaon)",
+      "deliveryArea": [
+        "Shahinbag",
+        "Nabisco",
+        "Farmgate",
+        "Niketan",
+        "Arjatpara",
+        "Begunbari",
+        " Bijoy Sarani",
+        "Nakhalpara",
+        "Gulshan 1",
+        "Monipuripara",
+        "Satrasta",
+        "Tejkunipara",
+        "Tejgaon",
+        "Mohakhali"
+      ],
+      "_id": {
+        "$oid": "6464b5d3d12ff393e3530be5"
+      }
+    },
+    {
+      "outletName": "Fuiyoh (Moghbazar)",
+      "deliveryArea": [
+        "Baily Road",
+        "Bangla Motor",
+        "Kakrail",
+        "Kathalbagan",
+        " Kawran Bazar",
+        "Malibagh",
+        "Mirbag",
+        " Moghbazar",
+        " New Eskaton",
+        "Old Eskaton",
+        "Paribagh",
+        "Ramna",
+        " Shahbagh",
+        " Shantibag",
+        "Shegunbagicha",
+        "Shiddheswari"
+      ],
+      "_id": {
+        "$oid": "6465c44fd12ff393e3537252"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6469911d87ed09b0c1496fff"
+  },
+  "ownerId": {
+    "$oid": "644e74f79022f1053b25421e"
+  },
+  "ownerName": "Syed Zaman",
+  "banner": "Onnow-banner.jpeg",
+  "logo": "Onnow-logo.png",
+  "brandName": "Onnow",
+  "brandColor": "#F15B25",
+  "textColor": "#ffffff",
+  "subdomain": "order",
+  "outlets": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647a598462ab5dc3c12c1a0f"
+  },
+  "ownerId": {
+    "$oid": "647a4e9462ab5dc3c12c187c"
+  },
+  "ownerName": "Sakib ",
+  "banner": "yyuuy-banner.jpg",
+  "logo": "yyuuy-logo.jpeg",
+  "brandName": "yyuuy",
+  "brandColor": "#04852e",
+  "textColor": "#ED174C",
+  "subdomain": "yyuu",
+  "outlets": [],
+  "__v": 0
+}]

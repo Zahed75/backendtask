@@ -1,0 +1,4649 @@
+[{
+  "_id": {
+    "$oid": "6452cce341f76d5c20d165a6"
+  },
+  "menuName": "Custom services",
+  "brand": {
+    "$oid": "6452c86727173b36bbf59e63"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "6452cd2d41f76d5c20d16641"
+      },
+      "itemImage": "E-commerce-itemImage.png",
+      "itemName": "E-commerce",
+      "itemDescription": "Digitalize your offline business for better services and to scale. ",
+      "itemPrice": 500
+    },
+    {
+      "_id": {
+        "$oid": "6452cd6841f76d5c20d16657"
+      },
+      "itemImage": "Fintech-itemImage.png",
+      "itemName": "Fintech",
+      "itemDescription": "Technological advances can enhance financial processes and operations.",
+      "itemPrice": 1000
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6452c8f827173b36bbf59fd0"
+  },
+  "menuName": "Regular services",
+  "brand": {
+    "$oid": "6452c86727173b36bbf59e63"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "6452c94127173b36bbf59fd6"
+      },
+      "itemImage": "AI-SaaS-Product-itemImage.jpg",
+      "itemName": "AI SaaS Product",
+      "itemDescription": "Our AI SaaS product is an innovative platform that utilizes advanced artificial intelligence algorithms to automate a wide range of tasks and optimize business operations. With our solution, businesses can easily automate complex processes, increase efficiency, reduce costs, and improve customer satisfaction.",
+      "itemPrice": 1400
+    },
+    {
+      "_id": {
+        "$oid": "6452c9b535d6076215b50a88"
+      },
+      "itemImage": "Mobile-application-itemImage.jpg",
+      "itemName": "Mobile application",
+      "itemDescription": "Mobile app development is the process of creating software applications that run on mobile devices like smartphones and tablets. This involves designing and building the user interface, coding the functionality, and testing the app to ensure it works smoothly and reliably.",
+      "itemPrice": 1000
+    },
+    {
+      "_id": {
+        "$oid": "6452c9fd35d6076215b50a8e"
+      },
+      "itemImage": "DevOps-itemImage.png",
+      "itemName": "DevOps",
+      "itemDescription": "DevOps is a software development methodology that emphasizes collaboration and communication between development and operations teams, with the goal of improving the speed, quality, and efficiency of software delivery. DevOps services are a set of tools, processes, and practices that enable organizations to implement DevOps principles and practices.",
+      "itemPrice": 1200
+    },
+    {
+      "_id": {
+        "$oid": "647b63c362ab5dc3c12c587a"
+      },
+      "itemImage": "Gift-service-itemImage.jpg",
+      "itemName": "Gift service",
+      "itemDescription": " but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\r\n\r\nWhy do we use it?\r\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal",
+      "itemPrice": 1
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6481c1a2b4fbe6b69adf961d"
+  },
+  "menuName": "Special Wrap",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada97"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "6481c343b4fbe6b69adf98d5"
+      },
+      "productCode": "WPO-WRA-0017",
+      "itemImage": "Sausage-and-Egg-Wrappo-itemImage.png",
+      "itemName": "Sausage and Egg Wrappo",
+      "itemDescription": "Unique fusion of Kolkata-style Kathi Roll and American fast-food, wrapped with Sausage, Double Cheese, Egg, Paratha, Lettuce in special Wrappo Sauce.",
+      "itemPrice": 100
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64745ed1f7515c0c4ffed238"
+  },
+  "menuName": "New Arrival",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada97"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "647461f0f7515c0c4ffed329"
+      },
+      "productCode": "WPO-RBO-0001",
+      "itemImage": "BBQ-Chicken-Fried-Rice-Box-itemImage.jpg",
+      "itemName": "BBQ Chicken Fried Rice Box",
+      "itemDescription": "Indulge in smoky BBQ flavors with tender chicken, diced veggies, and aromatic rice, creating a delectable fusion of taste and satisfaction.",
+      "itemPrice": 280
+    },
+    {
+      "_id": {
+        "$oid": "6474620cf7515c0c4ffed32f"
+      },
+      "productCode": "WPO-RBO-0002",
+      "itemImage": "Crispy-Chicken-Fried-Rice-Box-itemImage.jpg",
+      "itemName": "Crispy Chicken Fried Rice Box",
+      "itemDescription": "Enjoy the perfect blend of crispy goodness and savory flavors with our golden fried chicken paired with fluffy rice and diced veggies.",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "64746224f7515c0c4ffed335"
+      },
+      "productCode": "WPO-RBO-0003",
+      "itemImage": "Arab-Minced-Beef-Fried-Rice-Box-itemImage.jpg",
+      "itemName": "Arab Minced Beef Fried Rice Box",
+      "itemDescription": "Experience Middle Eastern delight with seasoned minced beef, fragrant rice, and a medley of diced vegetables, creating a hearty and flavorful meal.",
+      "itemPrice": 295
+    },
+    {
+      "_id": {
+        "$oid": "64746241f7515c0c4ffed33b"
+      },
+      "productCode": "WPO-RBO-0004",
+      "itemImage": "Tandoori-Chicken-Fried-Rice-Box-itemImage.jpg",
+      "itemName": "Tandoori Chicken Fried Rice Box",
+      "itemDescription": "Immerse your taste buds in the rich spices of India with tender tandoori chicken, aromatic rice, and a burst of diced colorful vegetables in every bite.",
+      "itemPrice": 270
+    },
+    {
+      "_id": {
+        "$oid": "647462eef7515c0c4ffed341"
+      },
+      "productCode": "WPO-RBO-0005",
+      "itemImage": "Thai-Chicken-Fried-Rice-Box-itemImage.jpg",
+      "itemName": "Thai Chicken Fried Rice Box",
+      "itemDescription": "Embark on a Thai culinary adventure with succulent chicken, fragrant rice, and an array of Thai spices, creating a harmonious blend of sweet, savory, and tangy flavors.",
+      "itemPrice": 270
+    },
+    {
+      "_id": {
+        "$oid": "6474630cf7515c0c4ffed347"
+      },
+      "productCode": "WPO-RBO-0007",
+      "itemImage": "Peri-Peri-Fried-Rice-Box-itemImage.jpg",
+      "itemName": "Peri Peri Fried Rice Box",
+      "itemDescription": "Ignite your palate with the fiery flavors of peri peri chicken, combined with aromatic rice, diced veggies, and a zesty sauce, delivering a satisfying and flavorful meal.",
+      "itemPrice": 295
+    },
+    {
+      "_id": {
+        "$oid": "6474632df7515c0c4ffed34d"
+      },
+      "productCode": "WPO-RBO-0008",
+      "itemImage": "Chinese-Masala-Fried-Rice-Box-itemImage.jpg",
+      "itemName": "Chinese Masala Fried Rice Box",
+      "itemDescription": "Discover the bold and aromatic flavors of Chinese masala, featuring tender chicken, flavorful rice, and a mix of diced vibrant veggies for a satisfying Oriental experience.",
+      "itemPrice": 300
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02bd"
+  },
+  "menuName": "Fusion Wrap",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada97"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c37"
+      },
+      "productCode": "WPO-WRA-0001",
+      "itemImage": "BBQ_Chicken_Wrappo_YGJstmF.jpg",
+      "itemName": "BBQ Chicken Wrappo with Cheddar Cheese",
+      "itemDescription": "Unique fusion of kolkata-style kathi roll and american fast-food, wrapped with bbq chicken cubes, double cheese, egg, paratha, lettuce in special wrappo sauce.",
+      "itemPrice": 270
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c38"
+      },
+      "productCode": "WPO-WRA-0002",
+      "itemImage": "Crispy_Chicken_Wrappo_5BIEhVu.jpg",
+      "itemName": "Crispy Chicken Wrappo",
+      "itemDescription": "Unique fusion of kolkata-style kathi roll and american fast-food, wrapped with crispy chicken strips, cheese, egg, paratha, lettuce in special wrappo sauce.",
+      "itemPrice": 200
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c3c"
+      },
+      "productCode": "WPO-WRA-0006",
+      "itemImage": "Beef_Bacon_Wrappo_luJriu7.jpg",
+      "itemName": "Beef Bacon Wrappo",
+      "itemDescription": "Unique fusion of kolkata-style kathi roll and american fast-food, wrapped with beef, and bacon, cheese, egg, paratha, lettuce in special wrappo sauce.",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c3d"
+      },
+      "productCode": "WPO-WRA-0013",
+      "itemImage": "Peri-_Peri_Wrappo_qHFuWKx.jpg",
+      "itemName": "Peri-Peri Wrappo",
+      "itemDescription": "Unique fusion of kolkata-style kathi roll and american fast-food, wrapped with peri-peri chicken chunks, cheese, egg, paratha, lettuce in special wrappo sauce.",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c3a"
+      },
+      "productCode": "WPO-WRA-0004",
+      "itemImage": "Tandoori_Chicken_Wrappo_YHxIjbu.jpg",
+      "itemName": "Tandoori Chicken Wrappo",
+      "itemDescription": "Unique fusion of kolkata-style kathi roll and american fast-food, wrapped with tandoori chicken bits, cheese, egg, paratha, lettuce in special wrappo sauce.",
+      "itemPrice": 200
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c3b"
+      },
+      "productCode": "WPO-WRA-0005",
+      "itemImage": "Thai_Chicken_Wrappo_qTBsEk0.jpg",
+      "itemName": "Thai Chicken Wrappo",
+      "itemDescription": "Unique fusion of kolkata-style kathi roll and american fast-food, wrapped with thai chicken chunks, cheese,egg, paratha, lettuce in special wrappo sauce.",
+      "itemPrice": 200
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c39"
+      },
+      "productCode": "WPO-WRA-0003",
+      "itemImage": "Arab_Minced_Beef_Wrappo_Qisqcid.jpg",
+      "itemName": "Arab Minced Beef Wrappo",
+      "itemDescription": "Unique fusion of kolkata-style kathi roll and american fast-food, wrapped with arabian minced beef, cheese, egg, paratha, lettuce in special wrappo sauce.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c3e"
+      },
+      "productCode": "WPO-WRA-0014",
+      "itemImage": "Chinese_Masala_Wrappo_B4zrNtB.jpg",
+      "itemName": "Chinese Masala Wrappo",
+      "itemDescription": "Unique fusion of kolkata-style kathi roll and american fast-food, wrapped with szechuan chinese chicken, cheese, egg, paratha, lettuce in special wrappo sauce.",
+      "itemPrice": 250
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02c0"
+  },
+  "menuName": "Chicken Bites",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada97"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c48"
+      },
+      "productCode": "CBS-BIT-0005",
+      "itemImage": "Peri_Peri_Chicken_Bites__80GdX6T.jpg",
+      "itemName": "CheekyBite Peri Peri Chicken Bites (Small)",
+      "itemDescription": "Moist and juicy chicken bites, with the complex marination of Southern African flavours, sided with classic home cut fries.",
+      "itemPrice": 290
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c47"
+      },
+      "productCode": "CBS-BIT-0004",
+      "itemImage": "Szechuan_Chicken_Bites__8FYu2VF.jpg",
+      "itemName": "CheekyBite Szechuan Chicken Bites (Large)",
+      "itemDescription": "A combination of the sweet, tangy, and spicy chicken bites, sided with classic home cut fries, that brings the flavour of China.",
+      "itemPrice": 400
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c46"
+      },
+      "productCode": "CBS-BIT-0003",
+      "itemImage": "Szechuan_Chicken_Bites__ypUjf7L.jpg",
+      "itemName": "CheekyBite Szechuan Chicken Bites (Small)",
+      "itemDescription": "A combination of the sweet, tangy, and spicy chicken bites, sided with classic home cut fries, that brings the flavour of China.",
+      "itemPrice": 300
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c49"
+      },
+      "productCode": "CBS-BIT-0006",
+      "itemImage": "Peri_Peri_Chicken_Bites__rQxJpic.jpg",
+      "itemName": "CheekyBite Peri Peri Chicken Bites (Large)",
+      "itemDescription": "Moist and juicy chicken bites, with the complex marination of Southern African flavours, sided with classic home cut fries.",
+      "itemPrice": 390
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c4b"
+      },
+      "productCode": "CBS-BIT-0008",
+      "itemImage": "Naked_Chicken_Bites__Doxd0Jz.jpeg",
+      "itemName": "CheekyBite Naked Chicken Bites (Large)",
+      "itemDescription": "Fully naked and sauce-less bite-sized boneless chicken chunks, double fried that makes it crunchy on the outside, and juicy inside.",
+      "itemPrice": 300
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c45"
+      },
+      "productCode": "CBS-BIT-0002",
+      "itemImage": "BBQ_Chicken_Bites__wPcZc8q.jpg",
+      "itemName": "CheekyBite BBQ Chicken Bites (Large)",
+      "itemDescription": "Crispy and smoky BBQ flavoured chicken bites, sided with classic home cut fries, together to bring an authentic Texas vibe.",
+      "itemPrice": 400
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c44"
+      },
+      "productCode": "CBS-BIT-0001",
+      "itemImage": "BBQ_Chicken_Bites__FX1nwNn.jpg",
+      "itemName": "CheekyBite BBQ Chicken Bites (Small)",
+      "itemDescription": "Crispy and smoky BBQ flavoured chicken bites, sided with classic home cut fries, together to bring an authentic Texas vibe.",
+      "itemPrice": 295
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c4a"
+      },
+      "productCode": "CBS-BIT-0007",
+      "itemImage": "Naked_Chicken_Bites__ScUNlH8.jpeg",
+      "itemName": "CheekyBite Naked Chicken Bites (Small)",
+      "itemDescription": "Fully naked and sauce-less bite-sized boneless chicken chunks, double fried that makes it crunchy on the outside, and juicy inside.",
+      "itemPrice": 230
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02cf"
+  },
+  "menuName": "Wings",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada97"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c4e"
+      },
+      "productCode": "CBS-WIN-0002",
+      "itemImage": "CheekyBite_Naga_Wings_6_Pcs_IcGitrZ.jpg",
+      "itemName": "CheekyBite Naga Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c4d"
+      },
+      "productCode": "CBS-WIN-0003",
+      "itemImage": "CheekyBite_Honey_Mustard_Wings_12_Pcs_WuSmms5.jpg",
+      "itemName": "CheekyBite Honey Mustard Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection.",
+      "itemPrice": 350
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c50"
+      },
+      "productCode": "CBS-WIN-0005",
+      "itemImage": "CheekyBite_BBQ_Wings_6_Pcs_GUShDgC.jpg",
+      "itemName": "CheekyBite BBQ Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c4f"
+      },
+      "productCode": "CBS-WIN-0004",
+      "itemImage": "CheekyBite_Naga_Wings_12_Pcs_ExebVc8.jpg",
+      "itemName": "CheekyBite Naga Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection.",
+      "itemPrice": 350
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c4c"
+      },
+      "productCode": "CBS-WIN-0001",
+      "itemImage": "CheekyBite_Honey_Mustard_Wings_6_Pcs_HW59Rsv.jpg",
+      "itemName": "CheekyBite Honey Mustard Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c51"
+      },
+      "productCode": "CBS-WIN-0006",
+      "itemImage": "CheekyBite_BBQ_Wings_12_Pcs_fY7Pewk.jpg",
+      "itemName": "CheekyBite BBQ Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection.",
+      "itemPrice": 350
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02be"
+  },
+  "menuName": "Shakes",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada97"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c40"
+      },
+      "productCode": "MOO-MSK-0002",
+      "itemImage": "Kit_Kat_Shake_1nGyy4J.jpg",
+      "itemName": "MoolkShake Kit Kat Shake",
+      "itemDescription": "Get a break with chocolate-covered wafer, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 235
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c42"
+      },
+      "productCode": "MOO-MSK-0004",
+      "itemImage": "Oreo_Shake_LcalO5w.jpg",
+      "itemName": "MoolkShake Oreo Shake",
+      "itemDescription": "Classic cookies and crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c41"
+      },
+      "productCode": "MOO-MSK-0003",
+      "itemImage": "Nutella_Shake_KmqDIxy.jpg",
+      "itemName": "MoolkShake Nutella Shake",
+      "itemDescription": "Iconic Hazelnut spread, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 290
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c3f"
+      },
+      "productCode": "MOO-MSK-0001",
+      "itemImage": "Dark_Chocolate_Shake_SG9G6oA.jpg",
+      "itemName": "MoolkShake Dark Chocolate Shake",
+      "itemDescription": "Goodness of pure dark chocolate, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c43"
+      },
+      "productCode": "MOO-MSK-0005",
+      "itemImage": "White_Chocolate_Shake_fZNwVkp.jpg",
+      "itemName": "MoolkShake White Chocolate Shake",
+      "itemDescription": "Richness of white chocolate, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02d7"
+  },
+  "menuName": "Momo Mountains",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada97"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c53"
+      },
+      "itemImage": "CHICKEN_CHEESE_MOMO_138Jc33.jpg",
+      "itemName": "Momo Mountains Cheese Chicken Momos (6 Pcs)",
+      "itemDescription": "Juicy chicken filling with melted cheese, wrapped in a soft dough and steamed to perfection. Indulge in the irresistible taste of Cheese Chicken Momos.",
+      "itemPrice": 200
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c54"
+      },
+      "itemImage": "NEPALI_MOMO_AwuoW8H.jpg",
+      "itemName": "Momo Mountains Nepali Chicken Momos (6 Pcs)",
+      "itemDescription": "Delicious Nepali-style Chicken Momos with juicy filling & perfect blend of spices, served hot & fresh for a mouthwatering snack or meal.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c55"
+      },
+      "itemImage": "NAGA_MOMO_YgqyZaH.jpg",
+      "itemName": "Momo Mountains Naga Chicken Momos (6 Pcs)",
+      "itemDescription": "Indulge in the fiery taste of Naga Chicken Momos! Succulent chicken filling infused with aromatic Naga chillies, wrapped in soft dough.",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c56"
+      },
+      "itemImage": "LEMON_MOMO_d0FWZAB.jpg",
+      "itemName": "Momo Mountains Lemon Chicken Momos (6 Pcs)",
+      "itemDescription": "Indulge in the tangy flavors of Lemon Chicken Momos! Made with juicy chicken and zesty lemon, it's a burst of freshness in every bite.",
+      "itemPrice": 250
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02d0"
+  },
+  "menuName": "Sides",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada97"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edbce62b4942008487c52"
+      },
+      "productCode": "WPO-FRI-0001",
+      "itemImage": "Cajun-Fries-(Imported)-itemImage.jpg",
+      "itemName": "Cajun Fries (Imported)",
+      "itemDescription": "Made with imported premium cut potatoes, salt, golden on the outside, and fluffy on the inside. They may look like regular French fries, but our special seasoning makes them 100% Cajun.",
+      "itemPrice": 140
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646c7338cd112c10e14dc497"
+  },
+  "menuName": "Dips",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada97"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646c736acd112c10e14dc49f"
+      },
+      "productCode": "FGS-DIP-0001",
+      "itemImage": "Friggy's-All-Time-Classic-Burger-Dip-itemImage.jpg",
+      "itemName": "Friggy's All-Time Classic Burger Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02cd"
+  },
+  "menuName": "New Arrival",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada98"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f8a"
+      },
+      "itemImage": "Sausage-Blast_1vkTKxb.jpg",
+      "itemName": "Sausage Blast Pizza - 12\"",
+      "itemDescription": "A classic pizza for sausage lovers loaded with thin sausage slices, mozzarella cheese, in-house made pizza sauce, and olives.",
+      "itemPrice": 700
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f8b"
+      },
+      "itemImage": "Sausage-Blast_dqY0VCt.jpg",
+      "itemName": "Sausage Blast Pizza - 16\"",
+      "itemDescription": "A classic pizza for sausage lovers loaded with thin sausage slices, mozzarella cheese, in-house made pizza sauce, and olives.",
+      "itemPrice": 950
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02c2"
+  },
+  "menuName": "16'' Pizza",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada98"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f71"
+      },
+      "itemImage": "Rome_nLxzuuY.jpg",
+      "itemName": "Pizza Rome - 16''",
+      "itemDescription": "A classic pizza topped with mozarella cheese, in-house made pizza sauce and basil leaves.",
+      "itemPrice": 750
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f73"
+      },
+      "itemImage": "Bankok_7QnxBfF.jpg",
+      "itemName": "Pizza Bangkok - 16''",
+      "itemDescription": "Thai-grilled chicken pieces combined with green pepper, red onion and jalapeno.",
+      "itemPrice": 1100
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f75"
+      },
+      "itemImage": "Tehran_jn5hXfl.jpg",
+      "itemName": "Pizza Tehran - 16''",
+      "itemDescription": "A combination of finely seasoned ground beef, olives and cheese.",
+      "itemPrice": 1050
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f76"
+      },
+      "itemImage": "Toronto_h6QdcbK.jpg",
+      "itemName": "Pizza Toronto - 16''",
+      "itemDescription": "A pizza for the meat lovers with two different meaty toppings - pepperoni and ground beef.",
+      "itemPrice": 1150
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f72"
+      },
+      "itemImage": "Kansas_CnTCC0b.jpg",
+      "itemName": "Pizza Kansas - 16''",
+      "itemDescription": "Made with chunks of BBQ chicken, green pepper and red onion.",
+      "itemPrice": 1100
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f74"
+      },
+      "itemImage": "Punjab_8KO8xsg.jpg",
+      "itemName": "Pizza Punjab - 16''",
+      "itemDescription": "A pizza that brings the taste of Punjab with tandoori chicken chunks as toppings.",
+      "itemPrice": 1050
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02cc"
+  },
+  "menuName": "12'' Pizza",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada98"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f85"
+      },
+      "itemImage": "Kansas_2htP8tD.jpg",
+      "itemName": "Pizza Kansas - 12''",
+      "itemDescription": "Made with chunks of BBQ chicken, green pepper and red onion.",
+      "itemPrice": 800
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f87"
+      },
+      "itemImage": "Punjab_3LTDsuw.jpg",
+      "itemName": "Pizza Punjab - 12''",
+      "itemDescription": "A pizza that brings the taste of Punjab with tandoori chicken chunks as toppings.",
+      "itemPrice": 750
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f88"
+      },
+      "itemImage": "Tehran_h6r9dZP.jpg",
+      "itemName": "Pizza Tehran - 12''",
+      "itemDescription": "A combination of finely seasoned ground beef, olives and cheese.",
+      "itemPrice": 800
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f84"
+      },
+      "itemImage": "Rome_f4tX43p.jpg",
+      "itemName": "Pizza Rome - 12''",
+      "itemDescription": "A classic pizza topped with mozarella cheese, in-house made pizza sauce and basil leaves.",
+      "itemPrice": 550
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f86"
+      },
+      "itemImage": "Bankok_wOkLUeK.jpg",
+      "itemName": "Pizza Bangkok - 12''",
+      "itemDescription": "Thai-grilled chicken pieces combined with green pepper, red onion and jalapeno.",
+      "itemPrice": 750
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f89"
+      },
+      "itemImage": "Toronto_9ok1CB1.jpg",
+      "itemName": "Pizza Toronto - 12''",
+      "itemDescription": "A pizza for the meat lovers with two different meaty toppings - pepperoni and ground beef.",
+      "itemPrice": 850
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02c1"
+  },
+  "menuName": "Single Pizzas",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada98"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f6d"
+      },
+      "itemImage": "TEK_Pizza_Bangkok.jpeg",
+      "itemName": "TEK Pizza Bangkok",
+      "itemDescription": "A pide shape single-serve pizza prepared with the combination of Thai-grilled chicken pieces, green pepper, red onion, jalapeno, and cheese.",
+      "itemPrice": 270
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f70"
+      },
+      "itemImage": "TEK_Pizza_Toronto__MJSZ8WM.jpg",
+      "itemName": "TEK Pizza Toronto",
+      "itemDescription": "A pide shape single-serve meaty pizza topped with pepperoni, ground beef, and cheese.",
+      "itemPrice": 300
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f6c"
+      },
+      "itemImage": "TEK_Pizza_Kansas_DnhdnYC.jpg",
+      "itemName": "TEK Pizza Kansas",
+      "itemDescription": "A pide shape single-serve pizza that holds the taste of Kansas city in every bite, prepared with chunks of BBQ chicken, green pepper, red onion, and cheese.",
+      "itemPrice": 280
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f6f"
+      },
+      "itemImage": "TEK_Pizza_Tehran_xezNpMK.jpg",
+      "itemName": "TEK Pizza Tehran",
+      "itemDescription": "A pide shape single-serve pizza loaded with ground beef, olive, and cheese.",
+      "itemPrice": 260
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f6e"
+      },
+      "itemImage": "TEK_Pizza_Punjab_kTVSRcK.jpg",
+      "itemName": "TEK Pizza Punjab",
+      "itemDescription": "A pide shape single-serve pizza that gives a wholesome feeling of Punjab with the topping of cubed tandoori chicken, in-house pizza sauce, spices, and cheese.",
+      "itemPrice": 270
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02ce"
+  },
+  "menuName": "Wings",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada98"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f8c"
+      },
+      "itemImage": "CheekyBite_Honey_Mustard_Wings_6_Pcs_xBjZ44K.jpg",
+      "itemName": "CheekyBite Honey Mustard Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, honey-mustard breading which are seasoned to perfection.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f8d"
+      },
+      "itemImage": "CheekyBite_Honey_Mustard_Wings_12_Pcs_rhaRkyu.jpg",
+      "itemName": "CheekyBite Honey Mustard Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, honey-mustard breading which are seasoned to perfection.",
+      "itemPrice": 350
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f8f"
+      },
+      "itemImage": "CheekyBite_Naga_Wings_12_Pcs_iUxhQRo.jpg",
+      "itemName": "CheekyBite Naga Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, BBQ breading which are seasoned to perfection.",
+      "itemPrice": 350
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f90"
+      },
+      "itemImage": "CheekyBite_BBQ_Wings_6_Pcs_qV7qDy5.jpg",
+      "itemName": "CheekyBite BBQ Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, BBQ breading which are seasoned to perfection.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f91"
+      },
+      "itemImage": "CheekyBite_BBQ_Wings_12_Pcs_7SScPlS.jpg",
+      "itemName": "CheekyBite BBQ Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, BBQ breading which are seasoned to perfection.",
+      "itemPrice": 350
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f8e"
+      },
+      "itemImage": "CheekyBite_Naga_Wings_6_Pcs_ie7TKA6.jpg",
+      "itemName": "CheekyBite Naga Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection.",
+      "itemPrice": 210
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02c4"
+  },
+  "menuName": "Chicken Bites",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada98"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f7c"
+      },
+      "productCode": "CBS-BIT-0001",
+      "itemImage": "BBQ_Chicken_Bites__qk8JfA2.jpg",
+      "itemName": "CheekyBite BBQ Chicken Bites (Small)",
+      "itemDescription": "Crispy and smoky BBQ flavoured chicken bites, sided with classic home cut fries, together to bring an authentic Texas vibe.",
+      "itemPrice": 295
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f7d"
+      },
+      "productCode": "CBS-BIT-0002",
+      "itemImage": "BBQ_Chicken_Bites__am1GpLS.jpg",
+      "itemName": "CheekyBite BBQ Chicken Bites (Large)",
+      "itemDescription": "Crispy and smoky BBQ flavoured chicken bites, sided with classic home cut fries, together to bring an authentic Texas vibe.",
+      "itemPrice": 400
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f7e"
+      },
+      "productCode": "CBS-BIT-0003",
+      "itemImage": "Szechuan_Chicken_Bites__VU3sfcG.jpg",
+      "itemName": "CheekyBite Szechuan Chicken Bites (Small)",
+      "itemDescription": "A combination of the sweet, tangy, and spicy chicken bites, sided with classic home cut fries, that brings the flavour of China.",
+      "itemPrice": 300
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f80"
+      },
+      "productCode": "CBS-BIT-0005",
+      "itemImage": "Peri_Peri_Chicken_Bites__4aV0jkH.jpg",
+      "itemName": "CheekyBite Peri Peri Chicken Bites (Small)",
+      "itemDescription": "Moist and juicy chicken bites, with the complex marination of Southern African flavours, sided with classic home cut fries.",
+      "itemPrice": 290
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f81"
+      },
+      "productCode": "CBS-BIT-0006",
+      "itemImage": "Peri_Peri_Chicken_Bites__iaL4L6u.jpg",
+      "itemName": "CheekyBite Peri Peri Chicken Bites (Large)",
+      "itemDescription": "Moist and juicy chicken bites, with the complex marination of Southern African flavours, sided with classic home cut fries.",
+      "itemPrice": 390
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f83"
+      },
+      "itemImage": "Naked_Chicken_Bites__O935QEz.jpeg",
+      "itemName": "CheekyBite Naked Chicken Bites (Large)",
+      "itemDescription": "Fully naked and sauce-less bite-sized boneless chicken chunks, double fried that makes it crunchy on the outside, and juicy inside.",
+      "itemPrice": 300
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f82"
+      },
+      "itemImage": "Naked_Chicken_Bites__fj1sHKQ.jpeg",
+      "itemName": "CheekyBite Naked Chicken Bites (Small)",
+      "itemDescription": "Fully naked and sauce-less bite-sized boneless chicken chunks, double fried that makes it crunchy on the outside, and juicy inside.",
+      "itemPrice": 230
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f7f"
+      },
+      "productCode": "CBS-BIT-0004",
+      "itemImage": "Szechuan_Chicken_Bites__9fUxpeA.jpg",
+      "itemName": "CheekyBite Szechuan Chicken Bites (Large)",
+      "itemDescription": "A combination of the sweet, tangy, and spicy chicken bites, sided with classic home cut fries, that brings the flavour of China.",
+      "itemPrice": 400
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02c3"
+  },
+  "menuName": "Shakes",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada98"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f7a"
+      },
+      "itemImage": "Oreo_Shake_fgyfcpc.jpg",
+      "itemName": "MoolkShake Oreo Shake",
+      "itemDescription": "Classic cookies and crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f79"
+      },
+      "itemImage": "Nutella_Shake_fSje24Y.jpg",
+      "itemName": "MoolkShake Nutella Shake",
+      "itemDescription": "Iconic Hazelnut spread, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 290
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f7b"
+      },
+      "itemImage": "White_Chocolate_Shake_QfE4n7J.jpg",
+      "itemName": "MoolkShake White Chocolate Shake",
+      "itemDescription": "Richness of white chocolate, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f77"
+      },
+      "itemImage": "Dark_Chocolate_Shake_pEUK4KB.jpg",
+      "itemName": "MoolkShake Dark Chocolate Shake",
+      "itemDescription": "Goodness of pure dark chocolate, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f78"
+      },
+      "itemImage": "Kit_Kat_Shake_Z3ONyzs.jpg",
+      "itemName": "MoolkShake Kit Kat Shake",
+      "itemDescription": "Get a break with chocolate-covered wafer, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 235
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02d5"
+  },
+  "menuName": "Momo Mountains",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada98"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f99"
+      },
+      "itemImage": "NEPALI_MOMO_2fnQCoD.jpg",
+      "itemName": "Momo Mountains Nepali Chicken Momos (6 Pcs)",
+      "itemDescription": "Delicious Nepali-style Chicken Momos with juicy filling & perfect blend of spices, served hot & fresh for a mouthwatering snack or meal.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f9c"
+      },
+      "itemImage": "CHOCOLATE_MOMO_himIZzA.jpg",
+      "itemName": "Momo Mountains Chocolate Momos (5 Pcs)",
+      "itemDescription": "Satisfy your sweet tooth with our unique Chocolate Momos! Soft dumplings filled with rich chocolate, perfect for a delightful dessert or a sweet snack.",
+      "itemPrice": 320
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f9b"
+      },
+      "itemImage": "LEMON_MOMO_nXuCYvk.jpg",
+      "itemName": "Momo Mountains Lemon Chicken Momos (6 Pcs)",
+      "itemDescription": "Indulge in the tangy flavors of Lemon Chicken Momos! Made with juicy chicken and zesty lemon, it's a burst of freshness in every bite.",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f9a"
+      },
+      "itemImage": "NAGA_MOMO_gtzDHYj.jpg",
+      "itemName": "Momo Mountains Naga Chicken Momos (6 Pcs)",
+      "itemDescription": "Indulge in the fiery taste of Naga Chicken Momos! Succulent chicken filling infused with aromatic Naga chillies, wrapped in soft dough.",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f98"
+      },
+      "itemImage": "CHICKEN_CHEESE_MOMO_AvRVozm.jpg",
+      "itemName": "Momo Mountains Cheese Chicken Momos (6 Pcs)",
+      "itemDescription": "Juicy chicken filling with melted cheese, wrapped in a soft dough and steamed to perfection. Indulge in the irresistible taste of Cheese Chicken Momos.",
+      "itemPrice": 200
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645b39785a685bdfb547ae74"
+  },
+  "menuName": "Sides",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada98"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "645b39fe5a685bdfb547aee5"
+      },
+      "itemImage": "Cajun-Fries-(Imported)-itemImage.jpg",
+      "itemName": "Cajun Fries (Imported)",
+      "itemDescription": "Made with imported premium cut potatoes, salt, golden on the outside, and fluffy on the inside. They may look like regular French fries, but our special seasoning makes them 100% Cajun.",
+      "itemPrice": 140
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02d3"
+  },
+  "menuName": "Dipping Sauce",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada98"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f92"
+      },
+      "itemImage": "All-Time-Classic-Burger-Dip_UJohOrg.jpg",
+      "itemName": "Friggy's All-Time Classic Burger Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f93"
+      },
+      "itemImage": "Spicy-Burning-Star-BBQ-Dip_7PDiwnX.jpg",
+      "itemName": "Friggy's Spicy Burning Star BBQ Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f96"
+      },
+      "itemImage": "Urban-Classic-Garlic-Dip_z1VejTX.jpg",
+      "itemName": "Friggy's Urban Classic Garlic Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f95"
+      },
+      "itemImage": "Americans-Tartar-Dip_Lg9RGaG.jpg",
+      "itemName": "Friggy's American's Tartar+ Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f97"
+      },
+      "itemImage": "Friggys_Spicy_Ghost_Pepper_Dip.jpeg",
+      "itemName": "Friggy's Spicy Ghost Pepper Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "644edd9ec441aad13b3f3f94"
+      },
+      "itemImage": "Silk-Touch-Mint-Mayo-Dip_pkiRryA.jpg",
+      "itemName": "Friggy's Silk Touch Mint-Mayo Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646f26c9324042943f3c0a18"
+  },
+  "menuName": "Burger Bonanza",
+  "brand": {
+    "$oid": "6463f028d12ff393e352c9fb"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646f271d324042943f3c0a22"
+      },
+      "itemImage": "Cheesy-Clucker-Chicken-Burger-itemImage.jpg",
+      "itemName": "Cheesy Clucker Chicken Burger",
+      "itemDescription": "Indulge in the mouthwatering delight of this irresistible burger, packed with juicy chicken and layers of cheesy goodness! Taste the bliss today!",
+      "itemPrice": 280
+    },
+    {
+      "_id": {
+        "$oid": "646f273c324042943f3c0a28"
+      },
+      "itemImage": "BBQ-Bombshell-Chicken-Burger-itemImage.jpg",
+      "itemName": "BBQ Bombshell Chicken Burger",
+      "itemDescription": "Experience an explosion of bold flavors with this burger! Juicy chicken, smoky BBQ sauce, and delectable toppings come together for a taste sensation like no other!",
+      "itemPrice": 320
+    },
+    {
+      "_id": {
+        "$oid": "646f2755324042943f3c0a2e"
+      },
+      "itemImage": "Thai-Tangle-Chicken-Burger-itemImage.jpg",
+      "itemName": "Thai Tangle Chicken Burger",
+      "itemDescription": "Embark on a flavor adventure with this burger. Discover the perfect blend of aromatic Thai spices, tender chicken, and zesty toppings that will transport your taste buds to new heights!",
+      "itemPrice": 280
+    },
+    {
+      "_id": {
+        "$oid": "646f2773324042943f3c0a34"
+      },
+      "itemImage": "Classic-Cowboy-Beef-Burger-itemImage.jpg",
+      "itemName": "Classic Cowboy Beef Burger",
+      "itemDescription": "Saddle up for a meaty feast with this burger. Sink your teeth into a juicy beef patty, topped with all the fixings, and savor the true taste of the Wild West!",
+      "itemPrice": 340
+    },
+    {
+      "_id": {
+        "$oid": "646f2798324042943f3c0a3a"
+      },
+      "itemImage": "Shroom-Showdown-Chicken-Burger-itemImage.jpg",
+      "itemName": "Shroom Showdown Chicken Burger",
+      "itemDescription": "Get ready for a showdown of flavors with this burger! Juicy chicken meets a medley of sautéed mushrooms, creating a mouthwatering combination that will leave you craving more!",
+      "itemPrice": 320
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646f27d5324042943f3c0a5b"
+  },
+  "menuName": "Supreme Loaded Fries",
+  "brand": {
+    "$oid": "6463f028d12ff393e352c9fb"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646f2e37324042943f3c0f8d"
+      },
+      "itemImage": "Crispy-Crunch-Loaded-Fries-(Hot-Garlic-BBQ-Sauce)-itemImage.jpg",
+      "itemName": "Crispy Crunch Loaded Fries (Hot-Garlic-BBQ Sauce)",
+      "itemDescription": "Dive into a flavor explosion with this Loaded Fries! Golden fries smothered in a tantalizing blend of hot, garlicky, and BBQ sauces, creating a crispy and savory delight!",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "646f2e52324042943f3c0f93"
+      },
+      "itemImage": "Crispy-Crunch-Loaded-Fries-(Honey-Mayo-Sauce)-itemImage.jpg",
+      "itemName": "Crispy Crunch Loaded Fries (Honey Mayo Sauce)",
+      "itemDescription": "Experience a harmonious balance of sweet and savory with this Loaded Fries! Crispy fries drizzled with a delectable honey mayo sauce that will leave your taste buds craving more!",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "646f2e71324042943f3c0f99"
+      },
+      "itemImage": "Grilled-Goodness-Loaded-Fries-(Hot-Garlic-BBQ-Sauc-itemImage.jpg",
+      "itemName": "Grilled Goodness Loaded Fries (Hot-Garlic-BBQ Sauc",
+      "itemDescription": "Indulge in the perfect combination of smoky flavors with this Loaded Fries! Grilled fries generously coated in a mouthwatering blend of hot, garlicky, and BBQ sauces for a truly satisfying treat!",
+      "itemPrice": 260
+    },
+    {
+      "_id": {
+        "$oid": "646f2e91324042943f3c0f9f"
+      },
+      "itemImage": "Grilled-Goodness-Loaded-Fries-(Honey-Mayo)-itemImage.jpg",
+      "itemName": "Grilled Goodness Loaded Fries (Honey Mayo)",
+      "itemDescription": "Immerse yourself in the divine harmony of grilled goodness with this Loaded Fries! Grilled fries paired with a delightful honey mayo sauce, offering a tantalizing fusion of flavors!",
+      "itemPrice": 260
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646f2ec2324042943f3c0fc0"
+  },
+  "menuName": "Wrap Delights",
+  "brand": {
+    "$oid": "6463f028d12ff393e352c9fb"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646f2efe324042943f3c0fdb"
+      },
+      "itemImage": "Cheesy-Clucker-Chicken-Wrap-itemImage.jpg",
+      "itemName": "Cheesy Clucker Chicken Wrap",
+      "itemDescription": "Wrap your taste buds in cheesy perfection with this Wrap! Succulent chicken wrapped in a warm paratha, filled with a gooey cheese blend that will leave you craving more!",
+      "itemPrice": 200
+    },
+    {
+      "_id": {
+        "$oid": "646f2f1c324042943f3c0fe1"
+      },
+      "itemImage": "Habibi-Minced-Beef-Wrap-itemImage.jpg",
+      "itemName": "Habibi Minced Beef Wrap",
+      "itemDescription": "Take your taste buds on a flavorful journey with this Wrap! Savory minced beef wrapped in a soft and crispy paratha, infused with aromatic spices for a Middle Eastern twist!",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "646f2f33324042943f3c0fe7"
+      },
+      "itemImage": "Phuket-Twister-Chicken-Wrap-itemImage.jpg",
+      "itemName": "Phuket Twister Chicken Wrap",
+      "itemDescription": "Get a taste of culinary adventure with this Wrap! Tender chicken wrapped in a tantalizing blend of Thai-inspired flavors, creating a harmonious explosion of taste!",
+      "itemPrice": 200
+    },
+    {
+      "_id": {
+        "$oid": "646f2f51324042943f3c0fed"
+      },
+      "itemImage": "Tandoori-Taj-Mahal-Chicken-Wrap-itemImage.jpg",
+      "itemName": "Tandoori Taj Mahal Chicken Wrap",
+      "itemDescription": "Embark on a royal feast with this Wrap! Succulent chicken marinated in traditional Tandoori spices, enveloped in a soft paratha for a regal culinary experience!",
+      "itemPrice": 200
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646f2831324042943f3c0a7c"
+  },
+  "menuName": "Premium Rice Bowl",
+  "brand": {
+    "$oid": "6463f028d12ff393e352c9fb"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646f2889324042943f3c0a82"
+      },
+      "itemImage": "Comfort-Mushroom-Chicken-Premium-Rice-Bowl-itemImage.jpg",
+      "itemName": "Comfort Mushroom Chicken Premium Rice Bowl",
+      "itemDescription": "Indulge in comfort food bliss with our this Premium Rice Bowl! Succulent chicken, sautéed mushrooms, and aromatic flavors come together in a hearty and satisfying rice bowl!",
+      "itemPrice": 360
+    },
+    {
+      "_id": {
+        "$oid": "646f28ca324042943f3c0a88"
+      },
+      "itemImage": "Asian-Adventure-Chicken-Premium-Rice-Bowl-itemImage.jpg",
+      "itemName": "Asian Adventure Chicken Premium Rice Bowl",
+      "itemDescription": "Embark on a culinary journey with this Premium Rice Bowl! Tender chicken, vibrant veggies, and exotic Asian flavors create a deliciously unforgettable rice bowl experience!",
+      "itemPrice": 320
+    },
+    {
+      "_id": {
+        "$oid": "646f28fd324042943f3c0a8e"
+      },
+      "itemImage": "Smoky-BBQ-Chicken-Premium-Rice-Bowl-itemImage.jpg",
+      "itemName": "Smoky BBQ Chicken Premium Rice Bowl",
+      "itemDescription": "Savor the smoky goodness of this Premium Rice Bowl! Juicy chicken, smothered in a rich and tangy BBQ sauce, atop a bed of fluffy rice for a mouthwatering delight!",
+      "itemPrice": 320
+    },
+    {
+      "_id": {
+        "$oid": "646f2920324042943f3c0a94"
+      },
+      "itemImage": "Crispy-Tender-Chicken-Premium-Rice-Bowl-itemImage.jpg",
+      "itemName": "Crispy Tender Chicken Premium Rice Bowl",
+      "itemDescription": "Delight in the crispy and tender perfection of this Premium Rice Bowl! Crispy chicken bites, paired with flavorful sauces and served over fragrant rice for a satisfying meal!",
+      "itemPrice": 280
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646f2cdd324042943f3c0c64"
+  },
+  "menuName": "Regular Rice Box",
+  "brand": {
+    "$oid": "6463f028d12ff393e352c9fb"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646f2d65324042943f3c0eb4"
+      },
+      "productCode": "HAN-RBO-0051",
+      "itemImage": "Cheesy-Clucker-Chicken-Fried-Rice-Box--itemImage.jpg",
+      "itemName": "Crispy Clucker Chicken Fried Rice Box ",
+      "itemDescription": "Indulge in crispy chicken perfection with this Fried Rice Box! Tender chicken, savory fried rice to create a delightful meal in a box!",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "646f2d88324042943f3c0f5d"
+      },
+      "itemImage": "Habibi-Minced-Beef-Fried-Rice-Box--itemImage.jpg",
+      "itemName": "Habibi Minced Beef Fried Rice Box ",
+      "itemDescription": "Experience the exotic flavors of the Middle East with this Fried Rice Box! Flavorful minced beef, fragrant rice, and a blend of aromatic spices make for a satisfying and hearty meal in a box!",
+      "itemPrice": 295
+    },
+    {
+      "_id": {
+        "$oid": "646f2dad324042943f3c0f63"
+      },
+      "itemImage": "Phuket-Twister-Chicken-Fried-Rice-Box--itemImage.jpg",
+      "itemName": "Phuket Twister Chicken Fried Rice Box ",
+      "itemDescription": "Take your taste buds on a whirlwind adventure with this Fried Rice Box! Tender chicken, Thai-inspired fried rice, and a burst of vibrant flavors transport you to the culinary wonders of Phuket!",
+      "itemPrice": 270
+    },
+    {
+      "_id": {
+        "$oid": "646f2dd1324042943f3c0f6a"
+      },
+      "itemImage": "Tandoori-Taj-Mahal-Chicken-Fried-Rice-Box--itemImage.jpg",
+      "itemName": "Tandoori Taj Mahal Chicken Fried Rice Box ",
+      "itemDescription": "Immerse yourself in the majestic flavors of India with this Fried Rice Box! Succulent chicken marinated in traditional Tandoori spices, served over fragrant fried rice for a regal meal experience!",
+      "itemPrice": 270
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646f19eb324042943f3bff14"
+  },
+  "menuName": "Wings",
+  "brand": {
+    "$oid": "6463f028d12ff393e352c9fb"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646f1a73324042943f3bff1c"
+      },
+      "itemImage": "CheekyBite-Honey-Mustard-Wings-(6-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite Honey Mustard Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, honey-mustard breading which are seasoned to perfection. ",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "646f1aa4324042943f3bff22"
+      },
+      "itemImage": "CheekyBite-Naga-Wings-(6-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite Naga Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection. ",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "646f1ad6324042943f3bff28"
+      },
+      "itemImage": "CheekyBite-BBQ-Wings-(6-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite BBQ Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, BBQ breading which are seasoned to perfection. ",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "646f1b08324042943f3bff2e"
+      },
+      "itemImage": "CheekyBite-Honey-Mustard-Wings-(12-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite Honey Mustard Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, honey-mustard breading which are seasoned to perfection. ",
+      "itemPrice": 350
+    },
+    {
+      "_id": {
+        "$oid": "646f1b3f324042943f3bff34"
+      },
+      "itemImage": "CheekyBite-Naga-Wings-(12-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite Naga Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection. ",
+      "itemPrice": 350
+    },
+    {
+      "_id": {
+        "$oid": "646f1b69324042943f3bff3a"
+      },
+      "itemImage": "CheekyBite-BBQ-Wings-(12-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite BBQ Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, BBQ breading which are seasoned to perfection. ",
+      "itemPrice": 350
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646f1ba6324042943f3bff5b"
+  },
+  "menuName": "Chicken Bites",
+  "brand": {
+    "$oid": "6463f028d12ff393e352c9fb"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646f1be2324042943f3bff61"
+      },
+      "productCode": "CBS-BIT-0001",
+      "itemImage": "CheekyBite-BBQ-Chicken-Bites-(Small)-itemImage.jpg",
+      "itemName": "CheekyBite BBQ Chicken Bites (Small)",
+      "itemDescription": "Crispy and smoky BBQ flavoured chicken bites, sided with classic home cut fries, together to bring an authentic Texas vibe.",
+      "itemPrice": 295
+    },
+    {
+      "_id": {
+        "$oid": "646f1c0f324042943f3bff67"
+      },
+      "productCode": "CBS-BIT-0002",
+      "itemImage": "CheekyBite-BBQ-Chicken-Bites-(Large)-itemImage.jpg",
+      "itemName": "CheekyBite BBQ Chicken Bites (Large)",
+      "itemDescription": "Crispy and smoky BBQ flavoured chicken bites, sided with classic home cut fries, together to bring an authentic Texas vibe.",
+      "itemPrice": 400
+    },
+    {
+      "_id": {
+        "$oid": "646f1c47324042943f3bff6d"
+      },
+      "productCode": "CBS-BIT-0003",
+      "itemImage": "CheekyBite-Szechuan-Chicken-Bites-(Small)-itemImage.jpg",
+      "itemName": "CheekyBite Szechuan Chicken Bites (Small)",
+      "itemDescription": "A combination of the sweet, tangy, and spicy chicken bites, sided with classic home cut fries, that brings the flavour of China.",
+      "itemPrice": 300
+    },
+    {
+      "_id": {
+        "$oid": "646f1c74324042943f3bff73"
+      },
+      "productCode": "CBS-BIT-0004",
+      "itemImage": "CheekyBite-Szechuan-Chicken-Bites-(Large)-itemImage.jpg",
+      "itemName": "CheekyBite Szechuan Chicken Bites (Large)",
+      "itemDescription": "A combination of the sweet, tangy, and spicy chicken bites, sided with classic home cut fries, that brings the flavour of China.",
+      "itemPrice": 400
+    },
+    {
+      "_id": {
+        "$oid": "646f1cac324042943f3bff79"
+      },
+      "productCode": "CBS-BIT-0005",
+      "itemImage": "CheekyBite-Peri-Peri-Chicken-Bites-(Small)-itemImage.jpg",
+      "itemName": "CheekyBite Peri Peri Chicken Bites (Small)",
+      "itemDescription": "Moist and juicy chicken bites, with the complex marination of Southern African flavours, sided with classic home cut fries.",
+      "itemPrice": 290
+    },
+    {
+      "_id": {
+        "$oid": "646f1ce6324042943f3bff7f"
+      },
+      "productCode": "CBS-BIT-0006",
+      "itemImage": "CheekyBite-Peri-Peri-Chicken-Bites-(Large)-itemImage.jpg",
+      "itemName": "CheekyBite Peri Peri Chicken Bites (Large)",
+      "itemDescription": "Moist and juicy chicken bites, with the complex marination of Southern African flavours, sided with classic home cut fries.",
+      "itemPrice": 390
+    },
+    {
+      "_id": {
+        "$oid": "646f1d24324042943f3c01ff"
+      },
+      "itemImage": "CheekyBite-Naked-Chicken-Bites-(Small)-itemImage.jpeg",
+      "itemName": "CheekyBite Naked Chicken Bites (Small)",
+      "itemDescription": "Fully naked and sauce-less bite-sized boneless chicken chunks, double fried that makes it crunchy on the outside, and juicy inside.",
+      "itemPrice": 230
+    },
+    {
+      "_id": {
+        "$oid": "646f1d5c324042943f3c0205"
+      },
+      "itemImage": "CheekyBite-Naked-Chicken-Bites-(Large)-itemImage.jpeg",
+      "itemName": "CheekyBite Naked Chicken Bites (Large)",
+      "itemDescription": "Fully naked and sauce-less bite-sized boneless chicken chunks, double fried that makes it crunchy on the outside, and juicy inside.",
+      "itemPrice": 300
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646f24f0324042943f3c09c3"
+  },
+  "menuName": "MoolkShakes",
+  "brand": {
+    "$oid": "6463f028d12ff393e352c9fb"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646f2524324042943f3c09c9"
+      },
+      "itemImage": "MoolkShake-Dark-Chocolate-Shake-itemImage.jpg",
+      "itemName": "MoolkShake Dark Chocolate Shake",
+      "itemDescription": "Goodness of pure dark chocolate, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    },
+    {
+      "_id": {
+        "$oid": "646f253f324042943f3c09cf"
+      },
+      "itemImage": "MoolkShake-Kit-Kat-Shake-itemImage.jpg",
+      "itemName": "MoolkShake Kit Kat Shake",
+      "itemDescription": "Get a break with chocolate-covered wafer, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 235
+    },
+    {
+      "_id": {
+        "$oid": "646f2561324042943f3c09d5"
+      },
+      "itemImage": "MoolkShake-Nutella-Shake-itemImage.jpg",
+      "itemName": "MoolkShake Nutella Shake",
+      "itemDescription": "Iconic Hazelnut spread, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 290
+    },
+    {
+      "_id": {
+        "$oid": "646f25a0324042943f3c09dc"
+      },
+      "itemImage": "MoolkShake-Oreo-Shake-itemImage.jpg",
+      "itemName": "MoolkShake Oreo Shake",
+      "itemDescription": "Classic cookies and crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    },
+    {
+      "_id": {
+        "$oid": "646f25bb324042943f3c09f7"
+      },
+      "itemImage": "MoolkShake-White-Chocolate-Shake-itemImage.jpg",
+      "itemName": "MoolkShake White Chocolate Shake",
+      "itemDescription": "Richness of white chocolate, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646f16eb324042943f3bfed5"
+  },
+  "menuName": "Momo Mountains",
+  "brand": {
+    "$oid": "6463f028d12ff393e352c9fb"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646f1729324042943f3bfedb"
+      },
+      "itemImage": "Momo-Mountains-Cheese-Chicken-Momos-(6-Pcs)-itemImage.jpg",
+      "itemName": "Momo Mountains Cheese Chicken Momos (6 Pcs)",
+      "itemDescription": "Juicy chicken filling with melted cheese, wrapped in a soft dough and steamed to perfection. Indulge in the irresistible taste of Cheese Chicken Momos.",
+      "itemPrice": 200
+    },
+    {
+      "_id": {
+        "$oid": "646f175d324042943f3bfee1"
+      },
+      "itemImage": "Momo-Mountains-Nepali-Chicken-Momos-(6-Pcs)--------itemImage.jpg",
+      "itemName": "Momo Mountains Nepali Chicken Momos (6 Pcs)       ",
+      "itemDescription": "Delicious Nepali-style Chicken Momos with juicy filling & perfect blend of spices, served hot & fresh for a mouthwatering snack or meal.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "646f178a324042943f3bfee7"
+      },
+      "itemImage": "Momo-Mountains-Naga-Chicken-Momos-(6-Pcs)---------itemImage.jpg",
+      "itemName": "Momo Mountains Naga Chicken Momos (6 Pcs)        ",
+      "itemDescription": "Indulge in the fiery taste of Naga Chicken Momos! Succulent chicken filling infused with aromatic Naga chillies, wrapped in soft dough.",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "646f17af324042943f3bfeed"
+      },
+      "itemImage": "Momo-Mountains-Lemon-Chicken-Momos-(6-Pcs)---------itemImage.jpg",
+      "itemName": "Momo Mountains Lemon Chicken Momos (6 Pcs)        ",
+      "itemDescription": "Indulge in the tangy flavors of Lemon Chicken Momos! Made with juicy chicken and zesty lemon, it's a burst of freshness in every bite.",
+      "itemPrice": 250
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646f2f72324042943f3c100f"
+  },
+  "menuName": "Fries",
+  "brand": {
+    "$oid": "6463f028d12ff393e352c9fb"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646f2fae324042943f3c1015"
+      },
+      "itemImage": "Cajun-Fries-(Imported)-itemImage.jpg",
+      "itemName": "Cajun Fries (Imported)",
+      "itemDescription": "Bring the bold Cajun flavors home with this Cajun Fries! Savor the spicy and savory goodness of crispy fries seasoned with our special Cajun blend, delivering a kick of flavor right to your taste buds!",
+      "itemPrice": 140
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6465e28123f3fafc84c42d4a"
+  },
+  "menuName": "Exclusive Burgers",
+  "brand": {
+    "$oid": "6463f6afd12ff393e352cba9"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "6465e5b123f3fafc84c42dcf"
+      },
+      "itemImage": "Gochujang-(Chicken)-itemImage.jpeg",
+      "itemName": "Gochujang (Chicken)",
+      "itemDescription": "Fried chicken tossed in Korean stapled Gochujang sauce will create a flavor bomb in the mouth, alongside sliced cheese, shredded lettuce, and onion.",
+      "itemPrice": 300
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6465e28f23f3fafc84c42d4e"
+  },
+  "menuName": "Premium Burgers",
+  "brand": {
+    "$oid": "6463f6afd12ff393e352cba9"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "6465e3b023f3fafc84c42d6c"
+      },
+      "itemImage": "Mint-456-(Chicken)-itemImage.jpg",
+      "itemName": "Mint 456 (Chicken)",
+      "itemDescription": "A pat of juicy, creamy, and refreshing mint flavored chicken patty, sliced cheese, shredded lettuce, and onion.",
+      "itemPrice": 240
+    },
+    {
+      "_id": {
+        "$oid": "6465e3d123f3fafc84c42d72"
+      },
+      "itemImage": "Mint-456-(Beef)-itemImage.jpeg",
+      "itemName": "Mint 456 (Beef)",
+      "itemDescription": "A pat of juicy, creamy, and refreshing mint flavored beef patty, sliced cheese, shredded lettuce, and onion.",
+      "itemPrice": 260
+    },
+    {
+      "_id": {
+        "$oid": "6465e42a23f3fafc84c42d78"
+      },
+      "itemImage": "Gganbu-Honey-Mayo-(Chicken)-itemImage.jpeg",
+      "itemName": "Gganbu Honey Mayo (Chicken)",
+      "itemDescription": "The combination of honey mayo with the chicken patty will give an absolutely scrumptious taste of sweet and sour alongside sliced cheese, shredded lettuce, and onion.",
+      "itemPrice": 230
+    },
+    {
+      "_id": {
+        "$oid": "6465e44123f3fafc84c42d7e"
+      },
+      "itemImage": "Gganbu-Honey-Mayo-(Beef)-itemImage.jpeg",
+      "itemName": "Gganbu Honey Mayo (Beef)",
+      "itemDescription": "The combination of honey mayo with the beef patty will give an absolutely scrumptious taste of sweet and sour alongside sliced cheese, shredded lettuce, and onion.",
+      "itemPrice": 270
+    },
+    {
+      "_id": {
+        "$oid": "6465e46023f3fafc84c42d84"
+      },
+      "itemImage": "Kook-Lemon-Zest-(Chicken)-itemImage.jpeg",
+      "itemName": "Kook Lemon Zest (Chicken)",
+      "itemDescription": "Forget the regular heavy-spiced burger and try this tangy, juicy, and creamy burger with a hint of lemon, chicken patty, sliced cheese, shredded lettuce, and onion.",
+      "itemPrice": 240
+    },
+    {
+      "_id": {
+        "$oid": "6465e48423f3fafc84c42d8a"
+      },
+      "itemImage": "Kook-Lemon-Zest-(Beef)-itemImage.jpeg",
+      "itemName": "Kook Lemon Zest (Beef)",
+      "itemDescription": "Forget the regular heavy-spiced burger and try this tangy,  juicy, and creamy burger with a hint of lemon, beef patty, sliced cheese, shredded lettuce, and onion.",
+      "itemPrice": 260
+    },
+    {
+      "_id": {
+        "$oid": "6465e4af23f3fafc84c42d90"
+      },
+      "itemImage": "Wasabi-PSY-(Chicken)-itemImage.jpeg",
+      "itemName": "Wasabi PSY (Chicken)",
+      "itemDescription": "A pungent hot kick you will get in the brain with our wasabi sauce fun twisted with chicken patty, sliced cheese, shredded lettuce, and onion.",
+      "itemPrice": 240
+    },
+    {
+      "_id": {
+        "$oid": "6465e4ce23f3fafc84c42d96"
+      },
+      "itemImage": "Wasabi-PSY-(Beef)-itemImage.jpeg",
+      "itemName": "Wasabi PSY (Beef)",
+      "itemDescription": "A pungent hot kick you will get in the brain with our wasabi sauce fun twisted with beef patty, sliced cheese, shredded lettuce, and onion.",
+      "itemPrice": 260
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6465e2a123f3fafc84c42d56"
+  },
+  "menuName": "Wings",
+  "brand": {
+    "$oid": "6463f6afd12ff393e352cba9"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "6465ec8123f3fafc84c42f2b"
+      },
+      "itemImage": "CheekyBite-Honey-Mustard-Wings-(6-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite Honey Mustard Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, honey-mustard breading which are seasoned to perfection. ",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "6465eca723f3fafc84c42f37"
+      },
+      "itemImage": "CheekyBite-Naga-Wings-(6-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite Naga Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection. ",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "6465eef623f3fafc84c42f3f"
+      },
+      "itemImage": "CheekyBite-BBQ-Wings-(6-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite BBQ Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, BBQ breading which are seasoned to perfection. ",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "6465f1be23f3fafc84c42f4a"
+      },
+      "itemImage": "CheekyBite-Honey-Mustard-Wings-(12-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite Honey Mustard Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, honey-mustard breading which are seasoned to perfection. ",
+      "itemPrice": 350
+    },
+    {
+      "_id": {
+        "$oid": "6465f20123f3fafc84c42f50"
+      },
+      "itemImage": "CheekyBite-Naga-Wings-(12-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite Naga Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection. ",
+      "itemPrice": 350
+    },
+    {
+      "_id": {
+        "$oid": "6465f2ac23f3fafc84c42f56"
+      },
+      "itemImage": "CheekyBite-BBQ-Wings-(12-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite BBQ Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, BBQ breading which are seasoned to perfection. ",
+      "itemPrice": 350
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6465e29a23f3fafc84c42d52"
+  },
+  "menuName": "Chicken Bites",
+  "brand": {
+    "$oid": "6463f6afd12ff393e352cba9"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "6465e6f823f3fafc84c42df2"
+      },
+      "productCode": "CBS-BIT-0001",
+      "itemImage": "CheekyBite-BBQ-Chicken-Bites-(Small)-itemImage.jpg",
+      "itemName": "CheekyBite BBQ Chicken Bites (Small)",
+      "itemDescription": "Crispy and smoky BBQ flavoured chicken bites, sided with classic home cut fries, together to bring an authentic Texas vibe.",
+      "itemPrice": 295
+    },
+    {
+      "_id": {
+        "$oid": "6465e71b23f3fafc84c42df8"
+      },
+      "productCode": "CBS-BIT-0002",
+      "itemImage": "CheekyBite-BBQ-Chicken-Bites-(Large)-itemImage.jpg",
+      "itemName": "CheekyBite BBQ Chicken Bites (Large)",
+      "itemDescription": "Crispy and smoky BBQ flavoured chicken bites, sided with classic home cut fries, together to bring an authentic Texas vibe.",
+      "itemPrice": 400
+    },
+    {
+      "_id": {
+        "$oid": "6465e73723f3fafc84c42dfe"
+      },
+      "productCode": "CBS-BIT-0003",
+      "itemImage": "CheekyBite-Szechuan-Chicken-Bites-(Small)-itemImage.jpg",
+      "itemName": "CheekyBite Szechuan Chicken Bites (Small)",
+      "itemDescription": "A combination of the sweet, tangy, and spicy chicken bites, sided with classic home cut fries, that brings the flavour of China.",
+      "itemPrice": 300
+    },
+    {
+      "_id": {
+        "$oid": "6465e75823f3fafc84c42e04"
+      },
+      "productCode": "CBS-BIT-0004",
+      "itemImage": "CheekyBite-Szechuan-Chicken-Bites-(Large)-itemImage.jpg",
+      "itemName": "CheekyBite Szechuan Chicken Bites (Large)",
+      "itemDescription": "A combination of the sweet, tangy, and spicy chicken bites, sided with classic home cut fries, that brings the flavour of China.",
+      "itemPrice": 400
+    },
+    {
+      "_id": {
+        "$oid": "6465e78023f3fafc84c42e0a"
+      },
+      "productCode": "CBS-BIT-0005",
+      "itemImage": "CheekyBite-Peri-Peri-Chicken-Bites-(Small)-itemImage.jpg",
+      "itemName": "CheekyBite Peri Peri Chicken Bites (Small)",
+      "itemDescription": "Moist and juicy chicken bites, with the complex marination of Southern African flavours, sided with classic home cut fries.",
+      "itemPrice": 290
+    },
+    {
+      "_id": {
+        "$oid": "6465e7ab23f3fafc84c42e10"
+      },
+      "productCode": "CBS-BIT-0006",
+      "itemImage": "CheekyBite-Peri-Peri-Chicken-Bites-(Large)-itemImage.jpg",
+      "itemName": "CheekyBite Peri Peri Chicken Bites (Large)",
+      "itemDescription": "Moist and juicy chicken bites, with the complex marination of Southern African flavours, sided with classic home cut fries.",
+      "itemPrice": 390
+    },
+    {
+      "_id": {
+        "$oid": "6490176e7299ac63ddaeb84c"
+      },
+      "productCode": "CBS-BIT-0007",
+      "itemImage": "CheekyBite-Naked-Chicken-Bites-(Small)-itemImage.jpeg",
+      "itemName": "CheekyBite Naked Chicken Bites (Small)",
+      "itemDescription": "Fully naked and sauce-less bite-sized boneless chicken chunks, double fried that makes it crunchy on the outside, and juicy inside.",
+      "itemPrice": 230
+    },
+    {
+      "_id": {
+        "$oid": "6490178f7299ac63ddaeb852"
+      },
+      "productCode": "CBS-BIT-0008",
+      "itemImage": "CheekyBite-Naked-Chicken-Bites-(Large)-itemImage.jpeg",
+      "itemName": "CheekyBite Naked Chicken Bites (Large)",
+      "itemDescription": "Fully naked and sauce-less bite-sized boneless chicken chunks, double fried that makes it crunchy on the outside, and juicy inside.",
+      "itemPrice": 300
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6465e2bf23f3fafc84c42d5e"
+  },
+  "menuName": "Shakes",
+  "brand": {
+    "$oid": "6463f6afd12ff393e352cba9"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646624e823f3fafc84c438be"
+      },
+      "itemImage": "MoolkShake-Dark-Chocolate-Shake-itemImage.jpg",
+      "itemName": "MoolkShake Dark Chocolate Shake",
+      "itemDescription": "Enjoy a Friggy's special goodness of pure dark chocolate, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    },
+    {
+      "_id": {
+        "$oid": "6466250423f3fafc84c438c4"
+      },
+      "itemImage": "MoolkShake-Kit-Kat-Shake-itemImage.jpg",
+      "itemName": "MoolkShake Kit Kat Shake",
+      "itemDescription": "Enjoy a Friggy's special and get a break with chocolate-covered wafer, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 235
+    },
+    {
+      "_id": {
+        "$oid": "6466251c23f3fafc84c438ca"
+      },
+      "itemImage": "MoolkShake-Nutella-Shake-itemImage.jpg",
+      "itemName": "MoolkShake Nutella Shake",
+      "itemDescription": "Enjoy a Friggy's special with Iconic Hazelnut spread, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 290
+    },
+    {
+      "_id": {
+        "$oid": "6466253a23f3fafc84c438d0"
+      },
+      "itemImage": "MoolkShake-Oreo-Shake-itemImage.jpg",
+      "itemName": "MoolkShake Oreo Shake",
+      "itemDescription": "Enjoy a Friggy's special with Classic cookies and crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    },
+    {
+      "_id": {
+        "$oid": "6466255023f3fafc84c438d6"
+      },
+      "itemImage": "MoolkShake-White-Chocolate-Shake-itemImage.jpg",
+      "itemName": "MoolkShake White Chocolate Shake",
+      "itemDescription": "Enjoy a Friggy's special richness of white chocolate, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6465e2ab23f3fafc84c42d5a"
+  },
+  "menuName": "Momo Mountains",
+  "brand": {
+    "$oid": "6463f6afd12ff393e352cba9"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "64660b7d23f3fafc84c42ff4"
+      },
+      "itemImage": "Momo-Mountains-Cheese-Chicken-Momos-(6-Pcs)--------itemImage.jpg",
+      "itemName": "Momo Mountains Cheese Chicken Momos (6 Pcs)       ",
+      "itemDescription": "Juicy chicken filling with melted cheese, wrapped in a soft dough and steamed to perfection. Indulge in the irresistible taste of Cheese Chicken Momos.",
+      "itemPrice": 200
+    },
+    {
+      "_id": {
+        "$oid": "64660bc723f3fafc84c42ffa"
+      },
+      "itemImage": "Momo-Mountains-Nepali-Chicken-Momos-(6-Pcs)--itemImage.jpg",
+      "itemName": "Momo Mountains Nepali Chicken Momos (6 Pcs) ",
+      "itemDescription": "Delicious Nepali-style Chicken Momos with juicy filling & perfect blend of spices, served hot & fresh for a mouthwatering snack or meal.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "64660be823f3fafc84c43000"
+      },
+      "itemImage": "Momo-Mountains-Naga-Chicken-Momos-(6-Pcs)---------itemImage.jpg",
+      "itemName": "Momo Mountains Naga Chicken Momos (6 Pcs)        ",
+      "itemDescription": "Indulge in the fiery taste of Naga Chicken Momos! Succulent chicken filling infused with aromatic Naga chillies, wrapped in soft dough.",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "64660c0823f3fafc84c43006"
+      },
+      "itemImage": "Momo-Mountains-Lemon-Chicken-Momos-(6-Pcs)---------itemImage.jpg",
+      "itemName": "Momo Mountains Lemon Chicken Momos (6 Pcs)        ",
+      "itemDescription": "Indulge in the tangy flavors of Lemon Chicken Momos! Made with juicy chicken and zesty lemon, it's a burst of freshness in every bite.",
+      "itemPrice": 250
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6465e2c623f3fafc84c42d62"
+  },
+  "menuName": "Sides",
+  "brand": {
+    "$oid": "6463f6afd12ff393e352cba9"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "6468956be3a59cbfed88c40c"
+      },
+      "itemImage": "Cajun-Fries-(Imported)-itemImage.jpg",
+      "itemName": "Cajun Fries (Imported)",
+      "itemDescription": "Made with imported premium cut potatoes, salt, golden on the outside, and fluffy on the inside. They may look like regular French fries, but our special seasoning makes them 100% Cajun.",
+      "itemPrice": 140
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6465e2cf23f3fafc84c42d66"
+  },
+  "menuName": "Dipping Sauce",
+  "brand": {
+    "$oid": "6463f6afd12ff393e352cba9"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646895c9e3a59cbfed88c6de"
+      },
+      "itemImage": "Friggy's-All-Time-Classic-Dip-itemImage.jpg",
+      "itemName": "Friggy's All-Time Classic Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "646895f3e3a59cbfed88c6e4"
+      },
+      "itemImage": "Friggy's-Spicy-Burning-Star-BBQ-Dip-itemImage.jpg",
+      "itemName": "Friggy's Spicy Burning Star BBQ Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "6468960de3a59cbfed88c6ea"
+      },
+      "itemImage": "Friggy's-Silk-Touch-Mint-Mayo-Dip-itemImage.jpg",
+      "itemName": "Friggy's Silk Touch Mint-Mayo Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "64689627e3a59cbfed88c803"
+      },
+      "itemImage": "Friggy's-American's-Tartar+-Dip-itemImage.jpg",
+      "itemName": "Friggy's American's Tartar+ Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "64689642e3a59cbfed88c964"
+      },
+      "itemImage": "Friggy's-Urban-Classic-Garlic-Dip-itemImage.jpg",
+      "itemName": "Friggy's Urban Classic Garlic Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "6468965de3a59cbfed88caef"
+      },
+      "itemImage": "Friggy's-Spicy-Naga-(Ghost-Pepper)-Dip-itemImage.jpg",
+      "itemName": "Friggy's Spicy Naga (Ghost Pepper) Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6468970be3a59cbfed88ce6c"
+  },
+  "menuName": "Rice Box",
+  "brand": {
+    "$oid": "6463f6fad12ff393e352cc54"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646897f6e3a59cbfed88ce86"
+      },
+      "itemImage": "East-Asian-Chicken-with-Fried-Rice-itemImage.jpg",
+      "itemName": "East Asian Chicken with Fried Rice",
+      "itemDescription": "Boneless Thai flavored chicken with secret sambal fried rice, fresh green salad, and Fuiyoh's special garlic sauce.",
+      "itemPrice": 320
+    },
+    {
+      "_id": {
+        "$oid": "646898c2e3a59cbfed88ce9a"
+      },
+      "itemImage": "Crispy-Chicken-with-Fried-Rice-itemImage.jpg",
+      "itemName": "Crispy Chicken with Fried Rice",
+      "itemDescription": "Boneless crispy chicken leg with secret sambal rice, fresh green salad, and Fuiyoh's special garlic sauce.",
+      "itemPrice": 280
+    },
+    {
+      "_id": {
+        "$oid": "646898e8e3a59cbfed88cea0"
+      },
+      "itemImage": "BBQ-Chicken-with-Fried-Rice-itemImage.jpg",
+      "itemName": "BBQ Chicken with Fried Rice",
+      "itemDescription": "Boneless smokey bbq flavored chicken leg with secret sambal rice, fresh green salad, and Fuiyoh's special garlic sauce.",
+      "itemPrice": 320
+    },
+    {
+      "_id": {
+        "$oid": "6468996ee3a59cbfed88cea6"
+      },
+      "itemImage": "Creamy-Mushroom-&-Chicken-with-Fried-Rice-itemImage.jpg",
+      "itemName": "Creamy Mushroom & Chicken with Fried Rice",
+      "itemDescription": "Bechamel sauce with mushroom and thai flavored chicken leg, secret sambal rice, fresh green salad, and Fuiyoh's special garlic sauce.",
+      "itemPrice": 360
+    },
+    {
+      "_id": {
+        "$oid": "64689993e3a59cbfed88ceac"
+      },
+      "itemImage": "BBQ-Wings-with-Fried-Rice-itemImage.jpg",
+      "itemName": "BBQ Wings with Fried Rice",
+      "itemDescription": "Smokey bbq wings with secret Sambal Fried Rice, fresh green salad, and Fuiyoh's special garlic sauce.",
+      "itemPrice": 320
+    },
+    {
+      "_id": {
+        "$oid": "646899dbe3a59cbfed88ceb2"
+      },
+      "itemImage": "Crispy-Wings-with-Fried-Rice-itemImage.jpg",
+      "itemName": "Crispy Wings with Fried Rice",
+      "itemDescription": "Crispy chicken wings with secret sambal rice, fresh green salad, and Fuiyoh's special garlic sauce.",
+      "itemPrice": 280
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64689bf9e3a59cbfed88d1e4"
+  },
+  "menuName": "Wings",
+  "brand": {
+    "$oid": "6463f6fad12ff393e352cc54"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "64689c19e3a59cbfed88d1ea"
+      },
+      "itemImage": "CheekyBite-Honey-Mustard-Wings-(6-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite Honey Mustard Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, honey-mustard breading which are seasoned to perfection. ",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "64689c32e3a59cbfed88d1f0"
+      },
+      "itemImage": "CheekyBite-Naga-Wings-(6-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite Naga Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection. ",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "64689c5be3a59cbfed88d1f8"
+      },
+      "itemImage": "CheekyBite-BBQ-Wings-(6-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite BBQ Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, BBQ breading which are seasoned to perfection. ",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "64689c81e3a59cbfed88d1fe"
+      },
+      "itemImage": "CheekyBite-Honey-Mustard-Wings-(12-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite Honey Mustard Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, honey-mustard breading which are seasoned to perfection. ",
+      "itemPrice": 350
+    },
+    {
+      "_id": {
+        "$oid": "64689c9ce3a59cbfed88d204"
+      },
+      "itemImage": "CheekyBite-Naga-Wings-(12-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite Naga Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection. ",
+      "itemPrice": 350
+    },
+    {
+      "_id": {
+        "$oid": "64689cbae3a59cbfed88d20a"
+      },
+      "itemImage": "CheekyBite-BBQ-Wings-(12-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite BBQ Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, BBQ breading which are seasoned to perfection. ",
+      "itemPrice": 350
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64689a24e3a59cbfed88ceda"
+  },
+  "menuName": "Chicken Bites",
+  "brand": {
+    "$oid": "6463f6fad12ff393e352cc54"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "64689a46e3a59cbfed88cf5f"
+      },
+      "productCode": "CBS-BIT-0001",
+      "itemImage": "CheekyBite-BBQ-Chicken-Bites-(Small)-itemImage.jpg",
+      "itemName": "CheekyBite BBQ Chicken Bites (Small)",
+      "itemDescription": "Crispy and smoky BBQ flavoured chicken bites, sided with classic home cut fries, together to bring an authentic Texas vibe.",
+      "itemPrice": 295
+    },
+    {
+      "_id": {
+        "$oid": "64689a5fe3a59cbfed88cf6c"
+      },
+      "productCode": "CBS-BIT-0002",
+      "itemImage": "CheekyBite-BBQ-Chicken-Bites-(Large)-itemImage.jpg",
+      "itemName": "CheekyBite BBQ Chicken Bites (Large)",
+      "itemDescription": "Crispy and smoky BBQ flavoured chicken bites, sided with classic home cut fries, together to bring an authentic Texas vibe.",
+      "itemPrice": 400
+    },
+    {
+      "_id": {
+        "$oid": "64689a77e3a59cbfed88cf79"
+      },
+      "productCode": "CBS-BIT-0003",
+      "itemImage": "CheekyBite-Szechuan-Chicken-Bites-(Small)-itemImage.jpg",
+      "itemName": "CheekyBite Szechuan Chicken Bites (Small)",
+      "itemDescription": "A combination of the sweet, tangy, and spicy chicken bites, sided with classic home cut fries, that brings the flavour of China.",
+      "itemPrice": 300
+    },
+    {
+      "_id": {
+        "$oid": "64689a8de3a59cbfed88cf7f"
+      },
+      "productCode": "CBS-BIT-0004",
+      "itemImage": "CheekyBite-Szechuan-Chicken-Bites-(Large)-itemImage.jpg",
+      "itemName": "CheekyBite Szechuan Chicken Bites (Large)",
+      "itemDescription": "A combination of the sweet, tangy, and spicy chicken bites, sided with classic home cut fries, that brings the flavour of China.",
+      "itemPrice": 400
+    },
+    {
+      "_id": {
+        "$oid": "64689ab0e3a59cbfed88cf85"
+      },
+      "productCode": "CBS-BIT-0005",
+      "itemImage": "CheekyBite-Peri-Peri-Chicken-Bites-(Small)-itemImage.jpg",
+      "itemName": "CheekyBite Peri Peri Chicken Bites (Small)",
+      "itemDescription": "Moist and juicy chicken bites, with the complex marination of Southern African flavours, sided with classic home cut fries.",
+      "itemPrice": 290
+    },
+    {
+      "_id": {
+        "$oid": "64689acce3a59cbfed88cf92"
+      },
+      "productCode": "CBS-BIT-0006",
+      "itemImage": "CheekyBite-Peri-Peri-Chicken-Bites-(Large)-itemImage.jpg",
+      "itemName": "CheekyBite Peri Peri Chicken Bites (Large)",
+      "itemDescription": "Moist and juicy chicken bites, with the complex marination of Southern African flavours, sided with classic home cut fries.",
+      "itemPrice": 390
+    },
+    {
+      "_id": {
+        "$oid": "64689aece3a59cbfed88cf98"
+      },
+      "itemImage": "CheekyBite-Naked-Chicken-Bites-(Small)-itemImage.jpeg",
+      "itemName": "CheekyBite Naked Chicken Bites (Small)",
+      "itemDescription": "Fully naked and sauce-less bite-sized boneless chicken chunks, double fried that makes it crunchy on the outside, and juicy inside.",
+      "itemPrice": 230
+    },
+    {
+      "_id": {
+        "$oid": "64689b76e3a59cbfed88d014"
+      },
+      "itemImage": "CheekyBite-Naked-Chicken-Bites-(Large)-itemImage.jpeg",
+      "itemName": "CheekyBite Naked Chicken Bites (Large)",
+      "itemDescription": "Fully naked and sauce-less bite-sized boneless chicken chunks, double fried that makes it crunchy on the outside, and juicy inside.",
+      "itemPrice": 300
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64689ce2e3a59cbfed88d22c"
+  },
+  "menuName": "Shakes",
+  "brand": {
+    "$oid": "6463f6fad12ff393e352cc54"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "64689d5de3a59cbfed88d232"
+      },
+      "itemImage": "MoolkShake-Dark-Chocolate-Shake-itemImage.jpg",
+      "itemName": "MoolkShake Dark Chocolate Shake",
+      "itemDescription": "Goodness of pure dark chocolate, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    },
+    {
+      "_id": {
+        "$oid": "64689d79e3a59cbfed88d238"
+      },
+      "itemImage": "MoolkShake-Kit-Kat-Shake-itemImage.jpg",
+      "itemName": "MoolkShake Kit Kat Shake",
+      "itemDescription": "Get a break with chocolate-covered wafer, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 235
+    },
+    {
+      "_id": {
+        "$oid": "64689d90e3a59cbfed88d23e"
+      },
+      "itemImage": "MoolkShake-Nutella-Shake-itemImage.jpg",
+      "itemName": "MoolkShake Nutella Shake",
+      "itemDescription": "Iconic Hazelnut spread, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 290
+    },
+    {
+      "_id": {
+        "$oid": "64689daae3a59cbfed88d244"
+      },
+      "itemImage": "MoolkShake-Oreo-Shake-itemImage.jpg",
+      "itemName": "MoolkShake Oreo Shake",
+      "itemDescription": "Classic cookies and crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    },
+    {
+      "_id": {
+        "$oid": "64689dc2e3a59cbfed88d24a"
+      },
+      "itemImage": "MoolkShake-White-Chocolate-Shake-itemImage.jpg",
+      "itemName": "MoolkShake White Chocolate Shake",
+      "itemDescription": "Richness of white chocolate, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64689dd6e3a59cbfed88d26b"
+  },
+  "menuName": "Momo Mountains",
+  "brand": {
+    "$oid": "6463f6fad12ff393e352cc54"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "64689dfae3a59cbfed88d271"
+      },
+      "itemImage": "Momo-Mountains-Cheese-Chicken-Momos-(6-Pcs)--------itemImage.jpg",
+      "itemName": "Momo Mountains Cheese Chicken Momos (6 Pcs)       ",
+      "itemDescription": "Juicy chicken filling with melted cheese, wrapped in a soft dough and steamed to perfection. Indulge in the irresistible taste of Cheese Chicken Momos.",
+      "itemPrice": 200
+    },
+    {
+      "_id": {
+        "$oid": "64689e15e3a59cbfed88d277"
+      },
+      "itemImage": "Momo-Mountains-Nepali-Chicken-Momos-(6-Pcs)--------itemImage.jpg",
+      "itemName": "Momo Mountains Nepali Chicken Momos (6 Pcs)       ",
+      "itemDescription": "Delicious Nepali-style Chicken Momos with juicy filling & perfect blend of spices, served hot & fresh for a mouthwatering snack or meal.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "64689e30e3a59cbfed88d27d"
+      },
+      "itemImage": "Momo-Mountains-Naga-Chicken-Momos-(6-Pcs)---------itemImage.jpg",
+      "itemName": "Momo Mountains Naga Chicken Momos (6 Pcs)        ",
+      "itemDescription": "Indulge in the fiery taste of Naga Chicken Momos! Succulent chicken filling infused with aromatic Naga chillies, wrapped in soft dough.",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "64689e46e3a59cbfed88d283"
+      },
+      "itemImage": "Momo-Mountains-Lemon-Chicken-Momos-(6-Pcs)---------itemImage.jpg",
+      "itemName": "Momo Mountains Lemon Chicken Momos (6 Pcs)        ",
+      "itemDescription": "Indulge in the tangy flavors of Lemon Chicken Momos! Made with juicy chicken and zesty lemon, it's a burst of freshness in every bite.",
+      "itemPrice": 250
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64689e74e3a59cbfed88d2aa"
+  },
+  "menuName": "Dipping Sauce",
+  "brand": {
+    "$oid": "6463f6fad12ff393e352cc54"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "64689e98e3a59cbfed88d2b0"
+      },
+      "itemImage": "Friggy's-All-Time-Classic-Dip-itemImage.jpg",
+      "itemName": "Friggy's All-Time Classic Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "64689eafe3a59cbfed88d2b6"
+      },
+      "itemImage": "Friggy's-Spicy-Burning-Star-BBQ-Dip-itemImage.jpg",
+      "itemName": "Friggy's Spicy Burning Star BBQ Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "64689edae3a59cbfed88d2bc"
+      },
+      "itemImage": "Friggy's-Silk-Touch-Mint-Mayo-Dip-itemImage.jpg",
+      "itemName": "Friggy's Silk Touch Mint-Mayo Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "64689ef0e3a59cbfed88d2c2"
+      },
+      "itemImage": "Friggy's-American's-Tartar+-Dip-itemImage.jpg",
+      "itemName": "Friggy's American's Tartar+ Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "64689f08e3a59cbfed88d2c8"
+      },
+      "itemImage": "Friggy's-Urban-Classic-Garlic-Dip-itemImage.jpg",
+      "itemName": "Friggy's Urban Classic Garlic Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "64689f1fe3a59cbfed88d2ce"
+      },
+      "itemImage": "Friggy's-Spicy-Naga-(Ghost-Pepper)-Dip-itemImage.jpg",
+      "itemName": "Friggy's Spicy Naga (Ghost Pepper) Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64689f2ee3a59cbfed88d2ef"
+  },
+  "menuName": "Sides",
+  "brand": {
+    "$oid": "6463f6fad12ff393e352cc54"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "64689f68e3a59cbfed88d2f5"
+      },
+      "itemImage": "Cajun-Fries-(Imported)-itemImage.jpg",
+      "itemName": "Cajun Fries (Imported)",
+      "itemDescription": "Made with imported premium cut potatoes, salt, golden on the outside, and fluffy on the inside. They may look like regular French fries, but our special seasoning makes them 100% Cajun.",
+      "itemPrice": 140
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645ceddbd4314481c771e772"
+  },
+  "menuName": "New Arrival",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "645cee03d4314481c771e7ea"
+      },
+      "productCode": "FGS-BUR-0024",
+      "itemImage": "Friggy's-Golden-Chick'n-Katsu-Cheese-Burger-itemImage.jpg",
+      "itemName": "Friggy's Golden Chick'n Katsu Cheese Burger",
+      "itemDescription": "Crispy, golden fried chicken topped with tangy sauce, served on a soft brioche bun.",
+      "itemPrice": 285
+    },
+    {
+      "_id": {
+        "$oid": "645cee1cd4314481c771e7f0"
+      },
+      "productCode": "FGS-BUR-0025",
+      "itemImage": "Friggy's-Golden-Chick'n-Katsu-Cheese-Blast-Burger--itemImage.jpg",
+      "itemName": "Friggy's Golden Chick'n Katsu Cheese Blast Burger ",
+      "itemDescription": "Crispy, golden fried chicken smothered in melty cheese, topped with tangy sauce and served on a soft brioche bun.",
+      "itemPrice": 305
+    },
+    {
+      "_id": {
+        "$oid": "645cee46d4314481c771e7f6"
+      },
+      "productCode": "FGS-BUR-0026",
+      "itemImage": "Friggy's-DDouble-Golden-Chick'n-Katsu-Cheese-Blast-itemImage.jpg",
+      "itemName": "Friggy's DDouble Golden Chick'n Katsu Cheese Blast",
+      "itemDescription": "Double the crispy, golden fried chicken and double the melty cheese, topped with tangy sauce and served on a soft brioche bun.",
+      "itemPrice": 415
+    },
+    {
+      "_id": {
+        "$oid": "645cee62d4314481c771e7fc"
+      },
+      "productCode": "FGS-BUR-0027",
+      "itemImage": "Friggy's-Fried-Chick'n-Paneer-Burger--itemImage.jpg",
+      "itemName": "Grilled Chick'n Paneer Burger",
+      "itemDescription": "Crispy grilled chicken and paneer, served with fresh lettuce and tangy sauce on a soft brioche bun.",
+      "itemPrice": 295
+    },
+    {
+      "_id": {
+        "$oid": "645cee7fd4314481c771e802"
+      },
+      "productCode": "FGS-BUR-0028",
+      "itemImage": "Friggy's-Fried-Chick'n-Paneer-Blast-Burger--itemImage.jpg",
+      "itemName": "Grilled Chick'n Paneer Blast Burger ",
+      "itemDescription": "Crispy grilled chicken and paneer smothered in tangy sauce and served on a soft brioche bun.",
+      "itemPrice": 320
+    },
+    {
+      "_id": {
+        "$oid": "645cee98d4314481c771e808"
+      },
+      "productCode": "FGS-BUR-0029",
+      "itemImage": "Friggy's-DDouble-Fried-Chick'n-Paneer-Blast-Burger-itemImage.jpg",
+      "itemName": "DDouble Grilled Chick'n Paneer Blast Burger ",
+      "itemDescription": "Double the grilled fried chicken and paneer, served with fresh lettuce and tangy sauce on a soft brioche bun.",
+      "itemPrice": 450
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646c55f4cd112c10e14db02b"
+  },
+  "menuName": "Friggy's Beef Burgers",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646c57eacd112c10e14db0a1"
+      },
+      "productCode": "FGS-BUR-0001",
+      "itemImage": "Friggy's-Classic-Beef-&-Cheese-Burger-itemImage.jpeg",
+      "itemName": "Friggy's Classic Beef & Cheese Burger",
+      "itemDescription": "Juicy sunflower-goodness grilled beef patty with sliced cheese, fresh garden salad, Friggy's secret sauce, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 340
+    },
+    {
+      "_id": {
+        "$oid": "646c5823cd112c10e14db135"
+      },
+      "productCode": "FGS-BUR-0002",
+      "itemImage": "Friggy's-Classic-Beef-&-Cheese-Blast-Burger-itemImage.jpeg",
+      "itemName": "Friggy's Classic Beef & Cheese Blast Burger",
+      "itemDescription": "Juicy sunflower-goodness grilled beef patty with double cheese, fresh garden salad, Friggy's secret sauce, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 360
+    },
+    {
+      "_id": {
+        "$oid": "646c5847cd112c10e14db13c"
+      },
+      "productCode": "FGS-BUR-0016",
+      "itemImage": "Friggy's-Shroom-Beef-&-Cheese-Burger-itemImage.jpeg",
+      "itemName": "Friggy's Shroom Beef & Cheese Burger",
+      "itemDescription": "Juicy sunflower-goodness grilled beef patty with creamy mushrooms on top, sliced cheese, fresh garden salad, Friggy's secret sauce, served on a freshly baked brioche bun.",
+      "itemPrice": 370
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02b3"
+  },
+  "menuName": "Friggy's Chicken Burgers",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc468"
+      },
+      "productCode": "FGS-BUR-0011",
+      "itemImage": "Thai-Grilled_Chickn_Cheese_Burger.jpeg",
+      "itemName": "Friggy's Thai-Grilled Chick’n Cheese Burger",
+      "itemDescription": "Thai-flavoured juicy grilled chicken patty with sliced cheese, fresh garden salad, Friggy's secret sauce, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 280
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc465"
+      },
+      "productCode": "FGS-BUR-0006",
+      "itemImage": "Crispy_Chickn_Cheese_Burger_1.jpeg",
+      "itemName": "Friggy's Crispy Chick’n Cheese Burger",
+      "itemDescription": "Crunchy, yet juicy fried chicken patty with sliced cheese, fresh garden salad, Friggy's secret sauce, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 280
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc469"
+      },
+      "productCode": "FGS-BUR-0012",
+      "itemImage": "Thai-Grilled_Chickn_Blast_Burger.jpeg",
+      "itemName": "Friggy's Thai-Grilled Chick’n Blast Burger",
+      "itemDescription": "Thai-flavoured juicy grilled chicken patty with double cheese, fresh garden salad, Friggy's secret sauce, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 300
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc46b"
+      },
+      "productCode": "FGS-BUR-0017",
+      "itemImage": "Shroom_Chickn_Cheese_Burger.jpeg",
+      "itemName": "Friggy's Shroom Chick’n Cheese Burger",
+      "itemDescription": "Juicy sunflower-goodness grilled chicken thigh patty with creamy mushrooms on top, sliced cheese, fresh garden salad, Friggy's secret sauce, served on a freshly baked brioche bun.",
+      "itemPrice": 320
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc466"
+      },
+      "productCode": "FGS-BUR-0007",
+      "itemImage": "Crispy_Chickn_Cheese_Blast_Burger.jpeg",
+      "itemName": "Friggy's Crispy Chick’n Blast Burger",
+      "itemDescription": "Crunchy, yet juicy fried chicken patty with double cheese, fresh garden salad, Friggy's secret sauce, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 310
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc46a"
+      },
+      "productCode": "FGS-BUR-0013",
+      "itemImage": "DDouble_Thai-Grilled_Chickn_Burger.jpeg",
+      "itemName": "Friggy's DDouble Thai-Grilled Chick’n Burger",
+      "itemDescription": "Two Thai-flavoured juicy grilled chicken patties with double cheese, fresh garden salad, Friggy's secret sauce, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 370
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc46c"
+      },
+      "productCode": "FGS-BUR-0020",
+      "itemImage": "BBQ-Grilled-Chicken.jpg",
+      "itemName": "Friggy's BBQ-Grilled Chicken Cheese Blast Burger",
+      "itemDescription": "BBQ-flavoured juicy grilled chicken patty with double cheese, Worcestershire sauce, fresh garden salad, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 320
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc467"
+      },
+      "productCode": "FGS-BUR-0008",
+      "itemImage": "DDouble_Crispy_Chickn_Burger.jpeg",
+      "itemName": "Friggy's DDouble Crispy Chick’n Burger",
+      "itemDescription": "Two crunchy, yet juicy fried chicken patties with double cheese, fresh garden salad, Friggy's secret sauce, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 360
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646c58fccd112c10e14db1ab"
+  },
+  "menuName": "Friggy's Premium Burgers",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646c638ecd112c10e14db8b7"
+      },
+      "productCode": "FGS-BUR-0018",
+      "itemImage": "Friggy's-DDouble-Wonder-Bacon-Beef-Burger--itemImage.jpg",
+      "itemName": "Friggy's DDouble Wonder Bacon Beef Burger ",
+      "itemDescription": "Two juicy sunflower-goodness grilled beef patties with double cheese, salty bacon, fresh garden salad, Friggy’s unique sauce, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 520
+    },
+    {
+      "_id": {
+        "$oid": "646c63dacd112c10e14dba80"
+      },
+      "productCode": "FGS-BUR-0023",
+      "itemImage": "Friggy's-Double-Delight-Burger-itemImage.jpeg",
+      "itemName": "Friggy's Double Delight Burger",
+      "itemDescription": "Here comes a unique burger with double patties (chicken and beef), including double cheese, Friggy's secret sauce, and fresh garden salad served on a freshly baked brioche bun.",
+      "itemPrice": 490
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646c5e67cd112c10e14db6fa"
+  },
+  "menuName": "CheekyBite Wings",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646c5e91cd112c10e14db700"
+      },
+      "productCode": "CBS-WIN-0001",
+      "itemImage": "CheekyBite-Honey-Mustard-Wings-(6-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite Honey Mustard Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, honey-mustard breading which are seasoned to perfection. ",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "646c5eb1cd112c10e14db706"
+      },
+      "productCode": "CBS-WIN-0002",
+      "itemImage": "CheekyBite-Naga-Wings-(6-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite Naga Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection. ",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "646c5ed5cd112c10e14db70c"
+      },
+      "productCode": "CBS-WIN-0005",
+      "itemImage": "CheekyBite-BBQ-Wings-(6-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite BBQ Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, BBQ breading which are seasoned to perfection. ",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "646c5ef5cd112c10e14db712"
+      },
+      "productCode": "CBS-WIN-0003",
+      "itemImage": "CheekyBite-Honey-Mustard-Wings-(12-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite Honey Mustard Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, honey-mustard breading which are seasoned to perfection. ",
+      "itemPrice": 350
+    },
+    {
+      "_id": {
+        "$oid": "646c5fd4cd112c10e14db78d"
+      },
+      "productCode": "CBS-WIN-0004",
+      "itemImage": "CheekyBite-Naga-Wings-(12-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite Naga Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection. ",
+      "itemPrice": 350
+    },
+    {
+      "_id": {
+        "$oid": "646c5ff2cd112c10e14db793"
+      },
+      "productCode": "CBS-WIN-0006",
+      "itemImage": "CheekyBite-BBQ-Wings-(12-Pcs)-itemImage.jpg",
+      "itemName": "CheekyBite BBQ Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, BBQ breading which are seasoned to perfection. ",
+      "itemPrice": 350
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02b8"
+  },
+  "menuName": "CheekyBite Chicken Bites",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc48b"
+      },
+      "productCode": "CBS-BIT-0001",
+      "itemImage": "BBQ_Chicken_Bites_.jpg",
+      "itemName": "CheekyBite BBQ Chicken Bites (Small)",
+      "itemDescription": "Crispy and smoky BBQ flavoured chicken bites, sided with classic home cut fries, together to bring an authentic Texas vibe.",
+      "itemPrice": 295
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc48e"
+      },
+      "productCode": "CBS-BIT-0004",
+      "itemImage": "Szechuan_Chicken_Bites__2_vPZIsCd.jpg",
+      "itemName": "CheekyBite Szechuan Chicken Bites (Large)",
+      "itemDescription": "A combination of the sweet, tangy, and spicy chicken bites, sided with classic home cut fries, that brings the flavour of China.",
+      "itemPrice": 400
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc48f"
+      },
+      "productCode": "CBS-BIT-0005",
+      "itemImage": "Peri_Peri_Chicken_Bites__1.jpg",
+      "itemName": "CheekyBite Peri Peri Chicken Bites (Small)",
+      "itemDescription": "Moist and juicy chicken bites, with the complex marination of Southern African flavours, sided with classic home cut fries.",
+      "itemPrice": 290
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc48d"
+      },
+      "productCode": "CBS-BIT-0003",
+      "itemImage": "Szechuan_Chicken_Bites__2.jpg",
+      "itemName": "CheekyBite Szechuan Chicken Bites (Small)",
+      "itemDescription": "A combination of the sweet, tangy, and spicy chicken bites, sided with classic home cut fries, that brings the flavour of China.",
+      "itemPrice": 300
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc491"
+      },
+      "productCode": "CBS-BIT-0007",
+      "itemImage": "Naked_Chicken_Bites_.jpeg",
+      "itemName": "CheekyBite Naked Chicken Bites (Small)",
+      "itemDescription": "Fully naked and sauce-less bite-sized boneless chicken chunks, double fried that makes it crunchy on the outside, and juicy inside.",
+      "itemPrice": 230
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc492"
+      },
+      "productCode": "CBS-BIT-0008",
+      "itemImage": "Naked_Chicken_Bites__JvnDwOW.jpeg",
+      "itemName": "CheekyBite Naked Chicken Bites (Large)",
+      "itemDescription": "Fully naked and sauce-less bite-sized boneless chicken chunks, double fried that makes it crunchy on the outside, and juicy inside.",
+      "itemPrice": 300
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc490"
+      },
+      "productCode": "CBS-BIT-0006",
+      "itemImage": "Peri_Peri_Chicken_Bites__1_FbH3b9L.jpg",
+      "itemName": "CheekyBite Peri Peri Chicken Bites (Large)",
+      "itemDescription": "Moist and juicy chicken bites, with the complex marination of Southern African flavours, sided with classic home cut fries.",
+      "itemPrice": 390
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc48c"
+      },
+      "productCode": "CBS-BIT-0002",
+      "itemImage": "BBQ_Chicken_Bites__zJzI6rw.jpg",
+      "itemName": "CheekyBite BBQ Chicken Bites (Large)",
+      "itemDescription": "Crispy and smoky BBQ flavoured chicken bites, sided with classic home cut fries, together to bring an authentic Texas vibe.",
+      "itemPrice": 400
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646c6286cd112c10e14db894"
+  },
+  "menuName": "Party Pizza 12'' Pizza",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646c7682cd112c10e14dc63c"
+      },
+      "productCode": "PPA-PIZ-0001",
+      "itemImage": "Party-Pizza-Rome---12''-itemImage.jpg",
+      "itemName": "Party Pizza Rome - 12''",
+      "itemDescription": "A classic pizza topped with mozarella cheese, in-house made pizza sauce and basil leaves.",
+      "itemPrice": 550
+    },
+    {
+      "_id": {
+        "$oid": "646c76a4cd112c10e14dc642"
+      },
+      "productCode": "PPA-PIZ-0002",
+      "itemImage": "Party-Pizza-Kansas---12''-itemImage.jpg",
+      "itemName": "Party Pizza Kansas - 12''",
+      "itemDescription": "Made with chunks of BBQ chicken, green pepper and red onion.",
+      "itemPrice": 800
+    },
+    {
+      "_id": {
+        "$oid": "646c76bfcd112c10e14dc64b"
+      },
+      "productCode": "PPA-PIZ-0003",
+      "itemImage": "Party-Pizza-Bangkok---12''-itemImage.jpg",
+      "itemName": "Party Pizza Bangkok - 12''",
+      "itemDescription": "Thai-grilled chicken pieces combined with green pepper, red onion and jalapeno.",
+      "itemPrice": 750
+    },
+    {
+      "_id": {
+        "$oid": "646c7795cd112c10e14dc654"
+      },
+      "productCode": "PPA-PIZ-0004",
+      "itemImage": "Party-Pizza-Punjab---12''-itemImage.jpg",
+      "itemName": "Party Pizza Punjab - 12''",
+      "itemDescription": "A pizza that brings the taste of Punjab with tandoori chicken chunks as toppings.",
+      "itemPrice": 750
+    },
+    {
+      "_id": {
+        "$oid": "646c77bacd112c10e14dc65a"
+      },
+      "productCode": "PPA-PIZ-0005",
+      "itemImage": "Party-Pizza-Tehran---12''-itemImage.jpg",
+      "itemName": "Party Pizza Tehran - 12''",
+      "itemDescription": "A combination of finely seasoned ground beef, olives and cheese.",
+      "itemPrice": 800
+    },
+    {
+      "_id": {
+        "$oid": "646c77d3cd112c10e14dc660"
+      },
+      "productCode": "PPA-PIZ-0006",
+      "itemImage": "Party-Pizza-Toronto---12''-itemImage.jpg",
+      "itemName": "Party Pizza Toronto - 12''",
+      "itemDescription": "A pizza for the meat lovers with two different meaty toppings - pepperoni and ground beef.",
+      "itemPrice": 850
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02b4"
+  },
+  "menuName": "Party Pizza 16'' Pizza",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc476"
+      },
+      "itemImage": "Rome_fmz3fIa.jpg",
+      "itemName": "Party Pizza Rome - 16''",
+      "itemDescription": "A classic pizza topped with mozarella cheese, in-house made pizza sauce and basil leaves.",
+      "itemPrice": 750
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc478"
+      },
+      "itemImage": "Bankok_wxyIBgs.jpg",
+      "itemName": "Party Pizza Bangkok - 16''",
+      "itemDescription": "Thai-grilled chicken pieces combined with green pepper, red onion and jalapeno.",
+      "itemPrice": 1100
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc479"
+      },
+      "itemImage": "Punjab_8225jIG.jpg",
+      "itemName": "Party Pizza Punjab - 16''",
+      "itemDescription": "A pizza that brings the taste of Punjab with tandoori chicken chunks as toppings.",
+      "itemPrice": 1050
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc47d"
+      },
+      "itemImage": "Sausage-Blast_K47q5NZ.jpg",
+      "itemName": "Party Pizza Blast - 16",
+      "itemDescription": "A classic pizza for sausage lovers loaded with thin sausage slices, mozzarella cheese, in-house made pizza sauce, and olives.",
+      "itemPrice": 950
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc47b"
+      },
+      "itemImage": "Toronto_GSt9OZ1.jpg",
+      "itemName": "Party Pizza Toronto - 16''",
+      "itemDescription": "A pizza for the meat lovers with two different meaty toppings - pepperoni and ground beef.",
+      "itemPrice": 1150
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc477"
+      },
+      "itemImage": "Kansas_7LJcmxq.jpg",
+      "itemName": "Party Pizza Kansas - 16''",
+      "itemDescription": "Made with chunks of BBQ chicken, green pepper and red onion.",
+      "itemPrice": 1100
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc47a"
+      },
+      "itemImage": "Tehran_cNe87HJ.jpg",
+      "itemName": "Party Pizza Tehran - 16''",
+      "itemDescription": "A combination of finely seasoned ground beef, olives and cheese.",
+      "itemPrice": 1050
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02b9"
+  },
+  "menuName": "TEK Pizza Single Pizzas",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc499"
+      },
+      "itemImage": "TEK_Pizza_Kansas.jpg",
+      "itemName": "TEK Pizza Kansas",
+      "itemDescription": "A pide shape single-serve pizza that holds the taste of Kansas city in every bite, prepared with chunks of BBQ chicken, green pepper, red onion, and cheese.",
+      "itemPrice": 280
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc49b"
+      },
+      "itemImage": "TEK_Pizza_Tehran.jpg",
+      "itemName": "TEK Pizza Tehran",
+      "itemDescription": "A pide shape single-serve pizza loaded with ground beef, olive, and cheese.",
+      "itemPrice": 260
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc49a"
+      },
+      "itemImage": "TEK_Pizza_Punjab.jpg",
+      "itemName": "TEK Pizza Punjab",
+      "itemDescription": "A pide shape single-serve pizza that gives a wholesome feeling of Punjab with the topping of cubed tandoori chicken, in-house pizza sauce, spices, and cheese.",
+      "itemPrice": 270
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc49c"
+      },
+      "itemImage": "TEK_Pizza_Toronto_.jpg",
+      "itemName": "TEK Pizza Toronto",
+      "itemDescription": "A pide shape single-serve meaty pizza topped with pepperoni, ground beef, and cheese.",
+      "itemPrice": 300
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4ab"
+      },
+      "itemImage": "angle.jpg",
+      "itemName": "TEK Pizza Bangkok",
+      "itemDescription": "A pide shape single-serve pizza prepared with the combination of Thai-grilled chicken pieces, green pepper, red onion, jalapeno, and cheese.",
+      "itemPrice": 270
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02ba"
+  },
+  "menuName": "Wrappo Fusion Wrap",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc49e"
+      },
+      "itemImage": "Crispy_Chicken_Wrappo.jpg",
+      "itemName": "Crispy Chicken Wrappo",
+      "itemDescription": "Unique fusion of Kolkata-style Kathi Roll and American fast-food, wrapped with Crispy Chicken Strips, Cheese, Egg, Paratha, Lettuce in special Wrappo Sauce.",
+      "itemPrice": 200
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc49f"
+      },
+      "itemImage": "Arab_Minced_Beef_Wrappo.jpg",
+      "itemName": "Arab Minced Beef Wrappo",
+      "itemDescription": "Unique fusion of Kolkata-style Kathi Roll and American fast-food, wrapped with Arabian Minced Beef, Cheese, Egg, Paratha, Lettuce in special Wrappo Sauce.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4a2"
+      },
+      "itemImage": "Beef_Bacon_Wrappo.jpg",
+      "itemName": "Beef Bacon Wrappo",
+      "itemDescription": "Unique fusion of Kolkata-style Kathi Roll and American fast-food, wrapped with Beef, and Bacon, Cheese, Egg, Paratha, Lettuce in special Wrappo Sauce.",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4a1"
+      },
+      "itemImage": "Thai_Chicken_Wrappo.jpg",
+      "itemName": "Thai Chicken Wrappo",
+      "itemDescription": "Unique fusion of Kolkata-style Kathi Roll and American fast-food, wrapped with Thai Chicken Chunks, Cheese, Egg, Paratha, Lettuce in special Wrappo Sauce.",
+      "itemPrice": 200
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4a4"
+      },
+      "itemImage": "Chinese_Masala_Wrappo.jpg",
+      "itemName": "Chinese Masala Wrappo",
+      "itemDescription": "Unique fusion of Kolkata-style Kathi Roll and American fast-food, wrapped with Szechuan Chinese Chicken, Cheese, Egg, Paratha, Lettuce in special Wrappo Sauce.",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4a3"
+      },
+      "itemImage": "Peri-_Peri_Wrappo.jpg",
+      "itemName": "Peri-Peri Wrappo",
+      "itemDescription": "Unique fusion of Kolkata-style Kathi Roll and American fast-food, wrapped with Peri-Peri Chicken Chunks, Cheese, Egg, Paratha, Lettuce in special Wrappo Sauce.",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc49d"
+      },
+      "itemImage": "BBQ_Chicken_Wrappo.jpg",
+      "itemName": "BBQ Chicken Wrappo with Cheddar Cheese",
+      "itemDescription": "Unique fusion of Kolkata-style Kathi Roll and American fast-food, wrapped with BBQ Chicken Cubes, Double Cheese, Egg, Paratha, Lettuce in special Wrappo Sauce.",
+      "itemPrice": 270
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4a0"
+      },
+      "itemImage": "Tandoori_Chicken_Wrappo.jpg",
+      "itemName": "Tandoori Chicken Wrappo",
+      "itemDescription": "Unique fusion of Kolkata-style Kathi Roll and American fast-food, wrapped with Tandoori Chicken Bits, Cheese, Egg, Paratha, Lettuce in special Wrappo Sauce.",
+      "itemPrice": 200
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02b6"
+  },
+  "menuName": "Snackmate Loaded Fries",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc47e"
+      },
+      "itemImage": "Chicken_Crisper_uBzCRgk.jpg",
+      "itemName": "Snackmate Chicken Crisper (HSP)",
+      "itemDescription": "A premium Loaded Fries combined with bitty Crispy Chicken Chunks, Nugget, Fries, Shrooms, Chef's Secret HSP Sauce, garnished with Onions.",
+      "itemPrice": 260
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc482"
+      },
+      "itemImage": "Chicken_Griller_sdyX06T.jpg",
+      "itemName": "Snackmate Chicken Griller (HSP)",
+      "itemDescription": "A premium Loaded Fries combined with bitty Thai Chicken Chunks, Fries, Shrooms, Chef's Secret HSP Sauce, garnished with Onions.",
+      "itemPrice": 290
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc481"
+      },
+      "itemImage": "Chicken_Saucer_tUq1WrP.jpg",
+      "itemName": "Snackmate Chicken Saucer (Honey Mayo)",
+      "itemDescription": "A premium Loaded Fries for core chicken lovers combined with Chicken Sausage, Chicken Nugget, Fries, Shrooms, Honey Mayo Sauce, garnished with Onions.",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc484"
+      },
+      "itemImage": "Chicken_Madness_6I1rbgh.jpg",
+      "itemName": "Snackmate Chicken Madness (HSP)",
+      "itemDescription": "A premium Loaded Fries combined with Thai Chunks, Chicken Nuggets, Fries, Shrooms, Chef's Secret HSP Sauce, garnished with Onions.",
+      "itemPrice": 300
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc485"
+      },
+      "itemImage": "Chicken_Madness_3dPbNWt.jpg",
+      "itemName": "Snackmate Chicken Madness (Honey Mayo)",
+      "itemDescription": "A premium Loaded Fries combined with Thai Chunks, Chicken Nuggets, Fries, Shrooms, Honey Mayo Sauce, garnished with Onions.",
+      "itemPrice": 300
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc483"
+      },
+      "itemImage": "Chicken_Griller_cl4HGVd.jpg",
+      "itemName": "Snackmate Chicken Griller (Honey Mayo)",
+      "itemDescription": "A premium Loaded Fries combined with bitty Thai Chicken Chunks, Fries, Shrooms, Honey Mayo Sauce, garnished with Onions.",
+      "itemPrice": 290
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc480"
+      },
+      "itemImage": "Chicken_Saucer_8IyjNT4.jpg",
+      "itemName": "Snackmate Chicken Saucer (HSP)",
+      "itemDescription": "A premium Loaded Fries for core chicken lovers combined with Chicken Sausage, Chicken Nugget, Fries, Shrooms, Chef's Secret HSP Sauce, garnished with Onions.",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc47f"
+      },
+      "itemImage": "Chicken_Crisper_zXOat55.jpg",
+      "itemName": "Snackmate Chicken Crisper (Honey Mayo)",
+      "itemDescription": "A premium Loaded Fries combined with bitty Crispy Chicken Chunks, Nugget, Fries, Shrooms, Honey Mayo Sauce, garnished with Onions.",
+      "itemPrice": 260
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02bb"
+  },
+  "menuName": "Fuiyoh Rice Box",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4a7"
+      },
+      "itemImage": "BBQ_CHICKEN.jpg",
+      "itemName": "Fuiyoh BBQ Chicken with Fried Rice",
+      "itemDescription": "Boneless smokey bbq flavored chicken leg with secret sambal rice, fresh green salad, and Fuiyoh's special garlic sauce.",
+      "itemPrice": 320
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4aa"
+      },
+      "itemImage": "CRISPY_WINGS.jpg",
+      "itemName": "Fuiyoh Crispy Wings with Fried Rice",
+      "itemDescription": "Crispy chicken wings with secret sambal rice, fresh green salad, and Fuiyoh's special garlic sauce.",
+      "itemPrice": 280
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4a9"
+      },
+      "itemImage": "BBQ_WINGS.jpg",
+      "itemName": "Fuiyoh BBQ Wings with Fried Rice",
+      "itemDescription": "Smokey bbq wings with secret Sambal Fried Rice, fresh green salad, and Fuiyoh's special garlic sauce.",
+      "itemPrice": 320
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4a6"
+      },
+      "itemImage": "CRISPY_CHICKEN.jpg",
+      "itemName": "Fuiyoh Crispy Chicken with Fried Rice",
+      "itemDescription": "Boneless crispy chicken leg with secret sambal rice, fresh green salad, and Fuiyoh's special garlic sauce.",
+      "itemPrice": 280
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4a8"
+      },
+      "itemImage": "CREAMY_MUSHROOM.jpg",
+      "itemName": "Fuiyoh Creamy Mushroom & Chicken with Fried Rice",
+      "itemDescription": "Bechamel sauce with mushroom and thai flavored chicken leg, secret sambal rice, fresh green salad, and Fuiyoh's special garlic sauce.",
+      "itemPrice": 360
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4a5"
+      },
+      "itemImage": "THAI_CHICKEN.jpg",
+      "itemName": "Fuiyoh East Asian Chicken with Fried Rice",
+      "itemDescription": "Boneless Thai flavored chicken with secret sambal fried rice, fresh green salad, and Fuiyoh's special garlic sauce.",
+      "itemPrice": 320
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02bc"
+  },
+  "menuName": "Burger Oppa Premium Burgers",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4ad"
+      },
+      "productCode": "BOP-BUR-0002",
+      "itemImage": "Mint_456_Beef.jpeg",
+      "itemName": "Burger Oppa Mint 456 (Beef)",
+      "itemDescription": "A pat of juicy, creamy, and refreshing mint flavored beef patty, sliced cheese, shredded lettuce, and onion.",
+      "itemPrice": 260
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4ac"
+      },
+      "productCode": "BOP-BUR-0001",
+      "itemImage": "Mint_456_Chicken.jpg",
+      "itemName": "Burger Oppa Mint 456 (Chicken)",
+      "itemDescription": "A pat of juicy, creamy, and refreshing mint flavored chicken patty, sliced cheese, shredded lettuce, and onion.",
+      "itemPrice": 240
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4ae"
+      },
+      "productCode": "BOP-BUR-0003",
+      "itemImage": "Gganbu_Honey_Mayo_Chicken.jpeg",
+      "itemName": "Burger Oppa Gganbu Honey Mayo (Chicken)",
+      "itemDescription": "The combination of honey mayo with the chicken patty will give an absolutely scrumptious taste of sweet and sour alongside sliced cheese, shredded lettuce, and onion.",
+      "itemPrice": 230
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4b1"
+      },
+      "productCode": "BOP-BUR-0006",
+      "itemImage": "Kook_Lemon_Zest_Beef.jpeg",
+      "itemName": "Burger Oppa Kook Lemon Zest (Beef)",
+      "itemDescription": "Forget the regular heavy-spiced burger and try this tangy,  juicy, and creamy burger with a hint of lemon, beef patty, sliced cheese, shredded lettuce, and onion.",
+      "itemPrice": 260
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4af"
+      },
+      "productCode": "BOP-BUR-0004",
+      "itemImage": "Gganbu_Honey_Mayo_Beef.jpeg",
+      "itemName": "Burger Oppa Gganbu Honey Mayo (Beef)",
+      "itemDescription": "The combination of honey mayo with the beef patty will give an absolutely scrumptious taste of sweet and sour alongside sliced cheese, shredded lettuce, and onion.",
+      "itemPrice": 270
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4b3"
+      },
+      "productCode": "BOP-BUR-0008",
+      "itemImage": "Wasabi_PSY_Beef.jpeg",
+      "itemName": "Burger Oppa Wasabi PSY (Beef)",
+      "itemDescription": "A pungent hot kick you will get in the brain with our wasabi sauce fun twisted with beef patty, sliced cheese, shredded lettuce, and onion.",
+      "itemPrice": 260
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4b2"
+      },
+      "productCode": "BOP-BUR-0007",
+      "itemImage": "Wasabi_PSY_Chicken.jpeg",
+      "itemName": "Burger Oppa Wasabi PSY (Chicken)",
+      "itemDescription": "A pungent hot kick you will get in the brain with our wasabi sauce fun twisted with chicken patty, sliced cheese, shredded lettuce, and onion.",
+      "itemPrice": 240
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4b0"
+      },
+      "productCode": "BOP-BUR-0005",
+      "itemImage": "Kook_Lemon_Zest_Chicken.jpeg",
+      "itemName": "Burger Oppa Kook Lemon Zest (Chicken)",
+      "itemDescription": "Forget the regular heavy-spiced burger and try this tangy, juicy, and creamy burger with a hint of lemon, chicken patty, sliced cheese, shredded lettuce, and onion.",
+      "itemPrice": 240
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646c5cb7cd112c10e14db6a9"
+  },
+  "menuName": "Burger Oppa Exclusive Burgers",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646c5d2ecd112c10e14db6b6"
+      },
+      "itemImage": "Burger-Oppa-Gochujang-(Chicken)-itemImage.jpeg",
+      "itemName": "Burger Oppa Gochujang (Chicken)",
+      "itemDescription": "Fried chicken tossed in Korean stapled Gochujang sauce will create a flavor bomb in the mouth, alongside sliced cheese, shredded lettuce, and onion.",
+      "itemPrice": 300
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02d4"
+  },
+  "menuName": "Momo Mountains",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4bc"
+      },
+      "itemImage": "CHICKEN_CHEESE_MOMO.jpg",
+      "itemName": "Momo Mountains Cheese Chicken Momos (6 Pcs)",
+      "itemDescription": "Juicy chicken filling with melted cheese, wrapped in a soft dough and steamed to perfection. Indulge in the irresistible taste of Cheese Chicken Momos.",
+      "itemPrice": 200
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4bd"
+      },
+      "itemImage": "NEPALI_MOMO.jpg",
+      "itemName": "Momo Mountains Nepali Chicken Momos (6 Pcs)",
+      "itemDescription": "Delicious Nepali-style Chicken Momos with juicy filling & perfect blend of spices, served hot & fresh for a mouthwatering snack or meal.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4be"
+      },
+      "itemImage": "NAGA_MOMO.jpg",
+      "itemName": "Momo Mountains Naga Chicken Momos (6 Pcs)",
+      "itemDescription": "Indulge in the fiery taste of Naga Chicken Momos! Succulent chicken filling infused with aromatic Naga chillies, wrapped in soft dough.",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc4bf"
+      },
+      "itemImage": "LEMON_MOMO.jpg",
+      "itemName": "Momo Mountains Lemon Chicken Momos (6 Pcs)",
+      "itemDescription": "Indulge in the tangy flavors of Lemon Chicken Momos! Made with juicy chicken and zesty lemon, it's a burst of freshness in every bite.",
+      "itemPrice": 250
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02b7"
+  },
+  "menuName": "MoolkShake",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc487"
+      },
+      "productCode": "MOO-MSK-0002",
+      "itemImage": "Kit_Kat_Shake_HmvdeHk.jpg",
+      "itemName": "MoolkShake Kit Kat Shake",
+      "itemDescription": "Get a break with chocolate-covered wafer, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 235
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc486"
+      },
+      "productCode": "MOO-MSK-0001",
+      "itemImage": "Dark_Chocolate_Shake_egKQWIi.jpg",
+      "itemName": "MoolkShake Dark Chocolate Shake",
+      "itemDescription": "Goodness of pure dark chocolate, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc488"
+      },
+      "productCode": "MOO-MSK-0003",
+      "itemImage": "Nutella_Shake_o2B9xCt.jpg",
+      "itemName": "MoolkShake Nutella Shake",
+      "itemDescription": "Iconic Hazelnut spread, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 290
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc489"
+      },
+      "productCode": "MOO-MSK-0004",
+      "itemImage": "Oreo_Shake.jpg",
+      "itemName": "MoolkShake Oreo Shake",
+      "itemDescription": "Classic cookies and crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    },
+    {
+      "_id": {
+        "$oid": "644ed9f24ded38c948abc48a"
+      },
+      "productCode": "MOO-MSK-0005",
+      "itemImage": "White_Chocolate_Shake_ImoHnyt.jpg",
+      "itemName": "MoolkShake White Chocolate Shake",
+      "itemDescription": "Richness of white chocolate, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645b43795a685bdfb547b2d5"
+  },
+  "menuName": "Sides",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "645b43b25a685bdfb547b2db"
+      },
+      "productCode": "FGS-FRI-0001",
+      "itemImage": "Cajun-Fries-(Imported)-itemImage.jpg",
+      "itemName": "Cajun Fries (Imported)",
+      "itemDescription": "Made with imported premium cut potatoes, salt, golden on the outside, and fluffy on the inside. They may look like regular French fries, but our special seasoning makes them 100% Cajun.",
+      "itemPrice": 140
+    },
+    {
+      "_id": {
+        "$oid": "645b43cc5a685bdfb547b2e1"
+      },
+      "productCode": "FGS-FNG-0001",
+      "itemImage": "Frings-Box-itemImage.jpg",
+      "itemName": "Frings Box",
+      "itemDescription": "A heavenly combination of Friggy’s Cajun Fries and Chicken Wings, with Friggy’s secret flavorful spices, and dips. These epic fries are crispy and golden on the outside and fluffy on the inside.",
+      "itemPrice": 70
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646c662acd112c10e14dbaa2"
+  },
+  "menuName": "Dipping Sauce",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada96"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "646c664acd112c10e14dbaa8"
+      },
+      "productCode": "FGS-DIP-0001",
+      "itemImage": "Friggy's-All-Time-Classic-Dip-itemImage.jpg",
+      "itemName": "Friggy's All-Time Classic Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "646c666dcd112c10e14dbaae"
+      },
+      "productCode": "FGS-DIP-0002",
+      "itemImage": "Friggy's-Spicy-Burning-Star-BBQ-Dip-itemImage.jpg",
+      "itemName": "Friggy's Spicy Burning Star BBQ Dip",
+      "itemDescription": "Friggy's Spicy Burning Star BBQ Dip",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "646c669ecd112c10e14dbaea"
+      },
+      "productCode": "FGS-DIP-0003",
+      "itemImage": "Friggy's-Silk-Touch-Mint-Mayo-Dip-itemImage.jpg",
+      "itemName": "Friggy's Silk Touch Mint-Mayo Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "646c66bccd112c10e14dbaf0"
+      },
+      "productCode": "FGS-DIP-0004",
+      "itemImage": "Friggy's-American's-Tartar+-Dip-itemImage.jpg",
+      "itemName": "Friggy's American's Tartar+ Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "646c66d9cd112c10e14dbd4d"
+      },
+      "productCode": "FGS-DIP-0005",
+      "itemImage": "Friggy's-Urban-Classic-Garlic-Dip-itemImage.jpg",
+      "itemName": "Friggy's Urban Classic Garlic Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "646c66f1cd112c10e14dbd53"
+      },
+      "productCode": "FGS-DIP-0006",
+      "itemImage": "Friggy's-Spicy-Naga-(Ghost-Pepper)-Dip-itemImage.jpg",
+      "itemName": "Friggy's Spicy Naga (Ghost Pepper) Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02c5"
+  },
+  "menuName": "Beef Burgers",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada99"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ece0"
+      },
+      "itemImage": "Classic_Beef__Cheese_Burger_ppVfzzK.jpeg",
+      "itemName": "Classic Beef & Cheese Burger",
+      "itemDescription": "Juicy sunflower-goodness grilled beef patty with sliced cheese, fresh garden salad, Friggy's secret sauce, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 340
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ece2"
+      },
+      "itemImage": "Shroom_Beef__Cheese_Burger_tkglBXd.jpeg",
+      "itemName": "Shroom Beef & Cheese Burger",
+      "itemDescription": "Juicy sunflower-goodness grilled beef patty with creamy mushrooms on top, sliced cheese, fresh garden salad, Friggy's secret sauce, served on a freshly baked brioche bun.",
+      "itemPrice": 370
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ece1"
+      },
+      "itemImage": "Classic_Beef__Cheese_Blast_Burger_uzKpu18.jpeg",
+      "itemName": "Classic Beef & Cheese Blast Burger",
+      "itemDescription": "Juicy sunflower-goodness grilled beef patty with double cheese, fresh garden salad, Friggy's secret sauce, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 360
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02c6"
+  },
+  "menuName": "Chicken Burgers",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada99"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ece5"
+      },
+      "itemImage": "DDouble_Crispy_Chickn_Burger_ilCx0TP.jpeg",
+      "itemName": "DDouble Crispy Chick’n Burger",
+      "itemDescription": "Two crunchy, yet juicy fried chicken patties with double cheese, fresh garden salad, Friggy's secret sauce, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 360
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ece3"
+      },
+      "itemImage": "Crispy_Chickn_Cheese_Burger_1_1eT4lQJ.jpeg",
+      "itemName": "Crispy Chick’n Cheese Burger",
+      "itemDescription": "Crunchy, yet juicy fried chicken patty with sliced cheese, fresh garden salad, Friggy's secret sauce, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 280
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ece7"
+      },
+      "itemImage": "Thai-Grilled_Chickn_Blast_Burger_MgkXLY3.jpeg",
+      "itemName": "Thai-Grilled Chick’n Blast Burger",
+      "itemDescription": "Thai-flavoured juicy grilled chicken patty with double cheese, fresh garden salad, Friggy's secret sauce, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 300
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ecea"
+      },
+      "itemImage": "BBQ-Grilled-Chicken_110iX71.jpg",
+      "itemName": "BBQ-Grilled Chicken Cheese Blast Burger",
+      "itemDescription": "BBQ-flavoured juicy grilled chicken patty with double cheese, Worcestershire sauce, fresh garden salad, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 320
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ece6"
+      },
+      "itemImage": "Thai-Grilled_Chickn_Cheese_Burger_khRh2dt.jpeg",
+      "itemName": "Thai-Grilled Chick’n Cheese Burger",
+      "itemDescription": "Thai-flavoured juicy grilled chicken patty with sliced cheese, fresh garden salad, Friggy's secret sauce, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 280
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ece8"
+      },
+      "itemImage": "DDouble_Thai-Grilled_Chickn_Burger_tu2b8r4.jpeg",
+      "itemName": "DDouble Thai-Grilled Chick’n Burger",
+      "itemDescription": "Two Thai-flavoured juicy grilled chicken patties with double cheese, fresh garden salad, Friggy's secret sauce, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 370
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ece4"
+      },
+      "itemImage": "Crispy_Chickn_Cheese_Blast_Burger_BnoBL7h.jpeg",
+      "itemName": "Crispy Chick’n Blast Burger",
+      "itemDescription": "Crunchy, yet juicy fried chicken patty with double cheese, fresh garden salad, Friggy's secret sauce, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 310
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ece9"
+      },
+      "itemImage": "Shroom_Chickn_Cheese_Burger_jj0NMUH.jpeg",
+      "itemName": "Shroom Chick’n Cheese Burger",
+      "itemDescription": "Juicy sunflower-goodness grilled chicken thigh patty with creamy mushrooms on top, sliced cheese, fresh garden salad, Friggy's secret sauce, served on a freshly baked brioche bun.",
+      "itemPrice": 320
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02c7"
+  },
+  "menuName": "Premium Burgers",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada99"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8eced"
+      },
+      "itemImage": "DDouble_Wonder_Bacon_Beef_Burger_UxMLMoK.jpg",
+      "itemName": "DDouble Wonder Bacon Beef Burger",
+      "itemDescription": "Two juicy sunflower-goodness grilled beef patties with double cheese, salty bacon, fresh garden salad, Friggy’s unique sauce, pickles, served on a freshly baked brioche bun.",
+      "itemPrice": 520
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ecee"
+      },
+      "itemImage": "Exclusive_Padma_Bridge_Burger.jpeg",
+      "itemName": "Double Delight Burger",
+      "itemDescription": "Here comes a unique burger with double patties (chicken and beef), including double cheese, Friggy's secret sauce, and fresh garden salad served on a freshly baked brioche bun.",
+      "itemPrice": 490
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02c9"
+  },
+  "menuName": "Wings",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada99"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ecf1"
+      },
+      "itemImage": "CheekyBite_Naga_Wings_6_Pcs_qugVldF.jpg",
+      "itemName": "CheekyBite Naga Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ecf2"
+      },
+      "itemImage": "CheekyBite_Naga_Wings_12_Pcs_ND1gJmV.jpg",
+      "itemName": "CheekyBite Naga Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection.",
+      "itemPrice": 350
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ecf3"
+      },
+      "itemImage": "CheekyBite_BBQ_Wings_6_Pcs_lnup8df.jpg",
+      "itemName": "CheekyBite BBQ Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, BBQ breading which are seasoned to perfection.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ecef"
+      },
+      "itemImage": "CheekyBite_Honey_Mustard_Wings_6_Pcs_7PBlZPT.jpg",
+      "itemName": "CheekyBite Honey Mustard Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, honey-mustard breading which are seasoned to perfection.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ecf4"
+      },
+      "itemImage": "CheekyBite_BBQ_Wings_12_Pcs_LssxK0O.jpg",
+      "itemName": "CheekyBite BBQ Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, BBQ breading which are seasoned to perfection.",
+      "itemPrice": 350
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ecf0"
+      },
+      "itemImage": "CheekyBite_Honey_Mustard_Wings_12_Pcs_atIRqfs.jpg",
+      "itemName": "CheekyBite Honey Mustard Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, honey-mustard breading which are seasoned to perfection.",
+      "itemPrice": 350
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02cb"
+  },
+  "menuName": "Chicken Bites",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada99"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ecf6"
+      },
+      "productCode": "CBS-BIT-0002",
+      "itemImage": "BBQ_Chicken_Bites__X1KeSXn.jpg",
+      "itemName": "CheekyBite BBQ Chicken Bites (Large)",
+      "itemDescription": "Crispy and smoky BBQ flavoured chicken bites, sided with classic home cut fries, together to bring an authentic Texas vibe.",
+      "itemPrice": 400
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ecf5"
+      },
+      "productCode": "CBS-BIT-0001",
+      "itemImage": "BBQ_Chicken_Bites__5KMwOWB.jpg",
+      "itemName": "CheekyBite BBQ Chicken Bites (Small)",
+      "itemDescription": "Crispy and smoky BBQ flavoured chicken bites, sided with classic home cut fries, together to bring an authentic Texas vibe.",
+      "itemPrice": 295
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ecf9"
+      },
+      "productCode": "CBS-BIT-0005",
+      "itemImage": "Peri_Peri_Chicken_Bites__ZcomLw8.jpg",
+      "itemName": "CheekyBite Peri Peri Chicken Bites (Small)",
+      "itemDescription": "Moist and juicy chicken bites, with the complex marination of Southern African flavours, sided with classic home cut fries.",
+      "itemPrice": 290
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ecf8"
+      },
+      "productCode": "CBS-BIT-0004",
+      "itemImage": "Szechuan_Chicken_Bites__GllH5XU.jpg",
+      "itemName": "CheekyBite Szechuan Chicken Bites (Large)",
+      "itemDescription": "A combination of the sweet, tangy, and spicy chicken bites, sided with classic home cut fries, that brings the flavour of China.",
+      "itemPrice": 400
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ecfa"
+      },
+      "productCode": "CBS-BIT-0006",
+      "itemImage": "Peri_Peri_Chicken_Bites__ASr8Qwv.jpg",
+      "itemName": "CheekyBite Peri Peri Chicken Bites (Large)",
+      "itemDescription": "Moist and juicy chicken bites, with the complex marination of Southern African flavours, sided with classic home cut fries.",
+      "itemPrice": 390
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ecfc"
+      },
+      "itemImage": "Naked_Chicken_Bites__t0aqgJb.jpeg",
+      "itemName": "CheekyBite Naked Chicken Bites (Large)",
+      "itemDescription": "Fully naked and sauce-less bite-sized boneless Friggy's Chicken Bites, double fried that makes it crunchy on the outside, and juicy inside.",
+      "itemPrice": 350
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ecfb"
+      },
+      "itemImage": "Naked_Chicken_Bites__IA0eEab.jpeg",
+      "itemName": "CheekyBite Naked Chicken Bites (Small)",
+      "itemDescription": "Fully naked and sauce-less bite-sized boneless Friggy's Chicken Bites, double fried that makes it crunchy on the outside, and juicy inside.",
+      "itemPrice": 230
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ecf7"
+      },
+      "productCode": "CBS-BIT-0003",
+      "itemImage": "Szechuan_Chicken_Bites__RWSjnZz.jpg",
+      "itemName": "CheekyBite Szechuan Chicken Bites (Small)",
+      "itemDescription": "A combination of the sweet, tangy, and spicy chicken bites, sided with classic home cut fries, that brings the flavour of China.",
+      "itemPrice": 300
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02ca"
+  },
+  "menuName": "Shakes",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada99"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ed03"
+      },
+      "itemImage": "Dark_Chocolate_Shake_sN5sTXX.jpg",
+      "itemName": "MoolkShake Dark Chocolate Shake",
+      "itemDescription": "Enjoy a Friggy's special goodness of pure dark chocolate, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ed05"
+      },
+      "itemImage": "Nutella_Shake_OASpXvq.jpg",
+      "itemName": "MoolkShake Nutella Shake",
+      "itemDescription": "Enjoy a Friggy's special with Iconic Hazelnut spread, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 290
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ed06"
+      },
+      "itemImage": "Oreo_Shake_FGmP1RM.jpg",
+      "itemName": "MoolkShake Oreo Shake",
+      "itemDescription": "Enjoy a Friggy's special with Classic cookies and crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ed04"
+      },
+      "itemImage": "Kit_Kat_Shake_3jKjF7g.jpg",
+      "itemName": "MoolkShake Kit Kat Shake",
+      "itemDescription": "Enjoy a Friggy's special and get a break with chocolate-covered wafer, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 235
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ed07"
+      },
+      "itemImage": "White_Chocolate_Shake_tJ6UQZK.jpg",
+      "itemName": "MoolkShake White Chocolate Shake",
+      "itemDescription": "Enjoy a Friggy's special richness of white chocolate, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02d6"
+  },
+  "menuName": "Momo Mountains",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada99"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ed0c"
+      },
+      "itemImage": "NAGA_MOMO_T2OoXQJ.jpg",
+      "itemName": "Momo Mountains Naga Chicken Momos (6 Pcs)",
+      "itemDescription": "Indulge in the fiery taste of Naga Chicken Momos! Succulent chicken filling infused with aromatic Naga chillies, wrapped in soft dough.",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ed0a"
+      },
+      "itemImage": "CHICKEN_CHEESE_MOMO_O2wfdfV.jpg",
+      "itemName": "Momo Mountains Cheese Chicken Momos (6 Pcs)",
+      "itemDescription": "Juicy chicken filling with melted cheese, wrapped in a soft dough and steamed to perfection. Indulge in the irresistible taste of Cheese Chicken Momos.",
+      "itemPrice": 200
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ed0b"
+      },
+      "itemImage": "NEPALI_MOMO_tdTj2t8.jpg",
+      "itemName": "Momo Mountains Nepali Chicken Momos (6 Pcs)",
+      "itemDescription": "Delicious Nepali-style Chicken Momos with juicy filling & perfect blend of spices, served hot & fresh for a mouthwatering snack or meal.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ed0e"
+      },
+      "itemImage": "CHOCOLATE_MOMO_odW6iAy.jpg",
+      "itemName": "Momo Mountains Chocolate Momos (5 Pcs)",
+      "itemDescription": "Satisfy your sweet tooth with our unique Chocolate Momos! Soft dumplings filled with rich chocolate, perfect for a delightful dessert or a sweet snack.",
+      "itemPrice": 320
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ed0d"
+      },
+      "itemImage": "LEMON_MOMO_ntPJ5Mu.jpg",
+      "itemName": "Momo Mountains Lemon Chicken Momos (6 Pcs)",
+      "itemDescription": "Indulge in the tangy flavors of Lemon Chicken Momos! Made with juicy chicken and zesty lemon, it's a burst of freshness in every bite.",
+      "itemPrice": 250
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02d2"
+  },
+  "menuName": "Sides",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada99"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ed09"
+      },
+      "itemImage": "Frings-Box.jpg",
+      "itemName": "Frings Box",
+      "itemDescription": "A heavenly combination of Friggy’s Cajun Fries and Chicken Wings, with Friggy’s secret flavorful spices, and dips. These epic fries are crispy and golden on the outside and fluffy on the inside.",
+      "itemPrice": 70
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ed08"
+      },
+      "itemImage": "Cajun_Fries_Imported_1_InAnGLy.jpg",
+      "itemName": "Cajun Fries (Imported)",
+      "itemDescription": "Made with imported premium cut potatoes, salt, golden on the outside, and fluffy on the inside. They may look like regular French fries, but our special seasoning makes them 100% Cajun.",
+      "itemPrice": 140
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02c8"
+  },
+  "menuName": "Dipping Sauce",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada99"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ecfd"
+      },
+      "itemImage": "All-Time-Classic-Burger-Dip.jpg",
+      "itemName": "All-Time Classic Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ecff"
+      },
+      "itemImage": "Silk-Touch-Mint-Mayo-Dip_gpmiJUg.jpg",
+      "itemName": "Silk Touch Mint-Mayo Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ed00"
+      },
+      "itemImage": "Americans-Tartar-Dip_jwZJ9cX.jpg",
+      "itemName": "American's Tartar+ Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ed01"
+      },
+      "itemImage": "Urban-Classic-Garlic-Dip_e0JipJ9.jpg",
+      "itemName": "Urban Classic Garlic Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ed02"
+      },
+      "itemImage": "Friggys_Spicy_Ghost_Pepper_Dip_tHhqaq4.jpg",
+      "itemName": "Spicy Naga (Ghost Pepper) Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    },
+    {
+      "_id": {
+        "$oid": "644ede7d0fdff2925ee8ecfe"
+      },
+      "itemImage": "Spicy-Burning-Star-BBQ-Dip_ZRppbE9.jpg",
+      "itemName": "Spicy Burning Star BBQ Dip",
+      "itemDescription": "Friggy's dipping sauces each have very different strengths and are almost nothing alike.",
+      "itemPrice": 25
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02bf"
+  },
+  "menuName": "Chicken Bites",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada95"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac22"
+      },
+      "productCode": "CBS-BIT-0002",
+      "itemImage": "BBQ_Chicken_Bites__G5I9U9z.jpg",
+      "itemName": "CheekyBite BBQ Chicken Bites (Large)",
+      "itemDescription": "Crispy and smoky BBQ flavoured chicken bites, sided with classic home cut fries, together to bring an authentic Texas vibe.",
+      "itemPrice": 400
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac23"
+      },
+      "productCode": "CBS-BIT-0003",
+      "itemImage": "Szechuan_Chicken_Bites_.jpg",
+      "itemName": "CheekyBite Szechuan Chicken Bites (Small)",
+      "itemDescription": "A combination of the sweet, tangy, and spicy chicken bites, sided with classic home cut fries, that brings the flavour of China.",
+      "itemPrice": 300
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac24"
+      },
+      "productCode": "CBS-BIT-0004",
+      "itemImage": "Szechuan_Chicken_Bites__vkxcmHU.jpg",
+      "itemName": "CheekyBite Szechuan Chicken Bites (Large)",
+      "itemDescription": "A combination of the sweet, tangy, and spicy chicken bites, sided with classic home cut fries, that brings the flavour of China.",
+      "itemPrice": 400
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac26"
+      },
+      "productCode": "CBS-BIT-0006",
+      "itemImage": "Peri_Peri_Chicken_Bites__e2RJtv0.jpg",
+      "itemName": "CheekyBite Peri Peri Chicken Bites (Large)",
+      "itemDescription": "Moist and juicy chicken bites, with the complex marination of Southern African flavours, sided with classic home cut fries.",
+      "itemPrice": 390
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac27"
+      },
+      "productCode": "CBS-BIT-0007",
+      "itemImage": "Naked_Chicken_Bites__WNxwHTJ.jpeg",
+      "itemName": "CheekyBite Naked Chicken Bites (Small)",
+      "itemDescription": "Fully naked and sauce-less bite-sized boneless chicken chunks, double fried that makes it crunchy on the outside, and juicy inside.",
+      "itemPrice": 230
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac28"
+      },
+      "productCode": "CBS-BIT-0008",
+      "itemImage": "Naked_Chicken_Bites__6kKQ65g.jpeg",
+      "itemName": "CheekyBite Naked Chicken Bites (Large)",
+      "itemDescription": "Fully naked and sauce-less bite-sized boneless chicken chunks, double fried that makes it crunchy on the outside, and juicy inside.",
+      "itemPrice": 300
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac21"
+      },
+      "productCode": "CBS-BIT-0001",
+      "itemImage": "BBQ_Chicken_Bites__uBW2O4D.jpg",
+      "itemName": "CheekyBite BBQ Chicken Bites (Small)",
+      "itemDescription": "Crispy and smoky BBQ flavoured chicken bites, sided with classic home cut fries, together to bring an authentic Texas vibe.",
+      "itemPrice": 295
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac25"
+      },
+      "productCode": "CBS-BIT-0005",
+      "itemImage": "Peri_Peri_Chicken_Bites_.jpg",
+      "itemName": "CheekyBite Peri Peri Chicken Bites (Small)",
+      "itemDescription": "Moist and juicy chicken bites, with the complex marination of Southern African flavours, sided with classic home cut fries.",
+      "itemPrice": 290
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02b1"
+  },
+  "menuName": "Loaded Fries",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada95"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac1a"
+      },
+      "itemImage": "Chicken_Crisper_Vrs8toA.jpg",
+      "itemName": "Chicken Crisper (Honey Mayo)",
+      "itemDescription": "A premium loaded fries combined with bitty crispy chicken chunks, nugget, fries, shrooms, honey mayo sauce, garnished with onions.",
+      "itemPrice": 260
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac1c"
+      },
+      "itemImage": "Chicken_Saucer_lZI8Q2L.jpg",
+      "itemName": "Chicken Saucer (Honey Mayo)",
+      "itemDescription": "A premium loaded fries for core chicken lovers combined with chicken sausage, chicken nugget, fries, shrooms, honey mayo sauce, garnished with onions.",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac1e"
+      },
+      "itemImage": "Chicken_Griller_W3uPXuB.jpg",
+      "itemName": "Chicken Griller (Honey Mayo)",
+      "itemDescription": "A premium loaded fries combined with bitty thai chicken chunks, fries, shrooms, honey mayo sauce, garnished with onions.",
+      "itemPrice": 290
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac20"
+      },
+      "itemImage": "Chicken_Madness_7WFXcMS.jpg",
+      "itemName": "Chicken Madness (Honey Mayo",
+      "itemDescription": "A premium loaded fries combined with thai chunks, chicken nuggets, fries, shrooms, honey mayo sauce, garnished with onions.",
+      "itemPrice": 300
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac1f"
+      },
+      "itemImage": "Chicken_Madness_TFPZqog.jpg",
+      "itemName": "Chicken Madness (HSP)",
+      "itemDescription": "A premium loaded fries combined with thai chunks, chicken nuggets, fries, shrooms, chef's secret HSP sauce, garnished with onions.",
+      "itemPrice": 300
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac1d"
+      },
+      "itemImage": "Chicken_Griller_yo2qG7h.jpg",
+      "itemName": "Chicken Griller (HSP)",
+      "itemDescription": "A premium loaded fries combined with bitty thai chicken chunks, fries, shrooms, chef's secret HSP sauce, garnished with onions.",
+      "itemPrice": 290
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac19"
+      },
+      "itemImage": "Chicken_Crisper_JutLd1Y.jpg",
+      "itemName": "Chicken Crisper (HSP)",
+      "itemDescription": "A premium loaded fries combined with bitty crispy chicken chunks, nugget, fries, shrooms, chef's secret HSP sauce, garnished with onions.",
+      "itemPrice": 260
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac1b"
+      },
+      "itemImage": "Chicken_Saucer_cx0NZRK.jpg",
+      "itemName": "Chicken Saucer (HSP)",
+      "itemDescription": "A premium loaded fries for core chicken lovers combined with chicken sausage, chicken nugget, fries, shrooms, chef's secret HSP sauce, garnished with onions.",
+      "itemPrice": 250
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02d1"
+  },
+  "menuName": "Wings",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada95"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac2e"
+      },
+      "productCode": "CBS-WIN-0006",
+      "itemImage": "CheekyBite_BBQ_Wings_12_Pcs_RA0Vmgu.jpg",
+      "itemName": "CheekyBite BBQ Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection.",
+      "itemPrice": 350
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac2b"
+      },
+      "productCode": "CBS-WIN-0002",
+      "itemImage": "CheekyBite_Naga_Wings_6_Pcs_XCLcJFx.jpg",
+      "itemName": "CheekyBite Naga Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac2a"
+      },
+      "productCode": "CBS-WIN-0003",
+      "itemImage": "CheekyBite_Honey_Mustard_Wings_12_Pcs_sJRBizz.jpg",
+      "itemName": "CheekyBite Honey Mustard Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection.",
+      "itemPrice": 350
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac2d"
+      },
+      "productCode": "CBS-WIN-0005",
+      "itemImage": "CheekyBite_BBQ_Wings_6_Pcs_hal7Zhh.jpg",
+      "itemName": "CheekyBite BBQ Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac2c"
+      },
+      "productCode": "CBS-WIN-0004",
+      "itemImage": "CheekyBite_Naga_Wings_12_Pcs_7MnaCtF.jpg",
+      "itemName": "CheekyBite Naga Wings (12 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection.",
+      "itemPrice": 350
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac29"
+      },
+      "productCode": "CBS-WIN-0001",
+      "itemImage": "CheekyBite_Honey_Mustard_Wings_6_Pcs_lb2ktez.jpg",
+      "itemName": "CheekyBite Honey Mustard Wings (6 Pcs)",
+      "itemDescription": "Juicy, bone-in chicken wings in a bold, spicy breading which are seasoned to perfection.",
+      "itemPrice": 210
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02b5"
+  },
+  "menuName": "Shakes",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada95"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac15"
+      },
+      "productCode": "MOO-MSK-0002",
+      "itemImage": "Kit_Kat_Shake.jpg",
+      "itemName": "MoolkShake Kit Kat Shake",
+      "itemDescription": "Get a break with chocolate-covered wafer, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 235
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac18"
+      },
+      "productCode": "MOO-MSK-0005",
+      "itemImage": "White_Chocolate_Shake.jpg",
+      "itemName": "MoolkShake White Chocolate Shake",
+      "itemDescription": "Richness of white chocolate, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac14"
+      },
+      "productCode": "MOO-MSK-0001",
+      "itemImage": "Dark_Chocolate_Shake.jpg",
+      "itemName": "MoolkShake Dark Chocolate Shake",
+      "itemDescription": "Goodness of pure dark chocolate, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac16"
+      },
+      "productCode": "MOO-MSK-0003",
+      "itemImage": "Nutella_Shake.jpg",
+      "itemName": "MoolkShake Nutella Shake",
+      "itemDescription": "Iconic Hazelnut spread, powdered crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 290
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac17"
+      },
+      "productCode": "MOO-MSK-0004",
+      "itemImage": "Nutella_Shake_hV8dxSU.jpg",
+      "itemName": "MoolkShake Oreo Shake",
+      "itemDescription": "Classic cookies and crème, milk, the right amount of sugar, and ice cream, garnished with nuts on top.",
+      "itemPrice": 220
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02d8"
+  },
+  "menuName": "Momo Mountains",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada95"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac30"
+      },
+      "productCode": "MMO-BMO-0002",
+      "itemImage": "NEPALI_MOMO_6Bq22cs.jpg",
+      "itemName": "Momo Mountains Nepali Chicken Momos (6 Pcs)",
+      "itemDescription": "Delicious Nepali-style Chicken Momos with juicy filling & perfect blend of spices, served hot & fresh for a mouthwatering snack or meal.",
+      "itemPrice": 210
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac32"
+      },
+      "productCode": "MMO-BMO-0004",
+      "itemImage": "LEMON_MOMO_hxOFJUb.jpg",
+      "itemName": "Momo Mountains Lemon Chicken Momos (6 Pcs)",
+      "itemDescription": "Indulge in the tangy flavors of Lemon Chicken Momos! Made with juicy chicken and zesty lemon, it's a burst of freshness in every bite.",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac31"
+      },
+      "productCode": "MMO-BMO-0003",
+      "itemImage": "NAGA_MOMO_ABlA4I9.jpg",
+      "itemName": "Momo Mountains Naga Chicken Momos (6 Pcs)",
+      "itemDescription": "Indulge in the fiery taste of Naga Chicken Momos! Succulent chicken filling infused with aromatic Naga chillies, wrapped in soft dough.",
+      "itemPrice": 250
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac2f"
+      },
+      "productCode": "MMO-BMO-0001",
+      "itemImage": "CHICKEN_CHEESE_MOMO_WIx9v9C.jpg",
+      "itemName": "Momo Mountains Cheese Chicken Momos (6 Pcs)",
+      "itemDescription": "Juicy chicken filling with melted cheese, wrapped in a soft dough and steamed to perfection. Indulge in the irresistible taste of Cheese Chicken Momos.",
+      "itemPrice": 200
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ec0aa72715ed7306e02b2"
+  },
+  "menuName": "Sides",
+  "brand": {
+    "$oid": "644ea9c871353d592c2ada95"
+  },
+  "items": [
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac13"
+      },
+      "productCode": "SNA-FRI-0001",
+      "itemImage": "Cajun_Fries_Home_UvZOKKN.jpg",
+      "itemName": "Cajun Fries (Imported)",
+      "itemDescription": "Made with imported premium cut potatoes, salt, golden on the outside, and fluffy on the inside. They may look like regular french fries, but our special seasoning makes them 100% Cajun.",
+      "itemPrice": 140
+    },
+    {
+      "_id": {
+        "$oid": "644edcb0a12911d31f8cac12"
+      },
+      "productCode": "SNA-FRI-0002",
+      "itemImage": "Cajun_Fries_Home_plwO29t.jpg",
+      "itemName": "Cajun Fries (Home)",
+      "itemDescription": "Made with local homely cut potatoes, salt, golden on the outside, and fluffy on the inside. They may look like regular french fries, but our special seasoning makes them 100% Cajun.",
+      "itemPrice": 80
+    }
+  ],
+  "__v": 0
+}]
